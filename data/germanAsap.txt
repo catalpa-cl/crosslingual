@@ -1,0 +1,904 @@
+Id	EssaySet	Score1	Score2	EssayText	
+1	1	0	0	essig,wasser,behälter	
+2	1	2	3	Wie viel Essig soll eingefüllt werden? Sollen die  Proben ganz eingetaucht werden? Dürfen sie der Sonne ausgesetzt sein? Welche Essigsorte soll verwendet werden?	
+3	1	1	2	Man müsste auf jeden Fall wissen welche Konzentration der Essig hat, also wie hoch der Säuregehalt ist. Dann müsste man wissen wie die Proben in den Behältern gelagert werden sollen. Mit oder ohne Deckel? Kalt oder Warm?	
+4	1	0	0	Glas Gummi Porzelan	
+5	1	0	0	Wiederhole das gesamte Experiment. Nehme dazu neues Probenmaterial!. Beschrifte alles Neu!	
+6	1	2	3	Wie viel Essig wurde verwendet? Aus welchem Material waren die Behälter? Wurden die Behälter verschlossen?	
+7	1	2	2	Es muss angegeben werden, welchse Essig verwendet wurde, in welchem Behälter wurden die Proben gelagert und ob die Proben komplett trocken geworden sind.	
+8	1	0	0	Wir müssen wissen, wie viel Wasser wir sammeln müssen, um die Probe zu machen	
+9	1	0	0	Probe masse zu beginn masse am ende	
+10	1	0	0	Ausgangsgewicht, Endgewicht, Unterschied der Masse	
+11	1	0	0	ich weiß es leider nicht. das ist halt so.	
+12	1	0	0	Ich kann es mir nicht bildlich vorstellen - evtl skizzen oder n comic machen	
+13	1	1	0	Hilfreich wären noch Angaben zu verwendeten Messgeräten, hier Waagen. Des Weiteren sollten die Behälter genau benannt werden. Letzer Punkt der Prozedur muss ""Gewicht"" durch ""Masse"" ersetzt werden.	
+14	1	2	3	- Größe der Proben; -Konzentration des Essigs; - Temperatur bei der Lagerung der Proben	
+15	1	1	3	- Essigtemperatur - Essigmenge - Temperatur beim Trocknena	
+16	1	3	3	Es ist die genaue Definition des Proben-Materials (z.B. was für ein Holz, was für ein Plastik?) erforderlich. Die Form der Proben muss angegeben sein (Oberflächenbeschaffenheit). Die Temperatur und der Druck während dem Experiment. Es ist die Angabe über die Konzentration des Essigs nötig.	
+17	1	0	0	Ich verstehe Ihre Frage so, dass das selbe Experiment noch einmal gemacht wird. Also brauche ich wieder die Masse von Marmor, Kalkstein, Holz und Plastik zu Beginn und am Ende des Experiment. Ich brauche eine konkrete Anweisung, wie lange die Proben in den Behältern verbleiben sollen und wie lange Sie nach dem Abspülen mit destilliertem Wasser trocknen sollen.	
+18	1	2	3	Reiner Essig oder Essigessenz Welche Menge Essig Welche Temperatur	
+19	1	0	0	Längere Trocknungzeiten Weitere Proben: Schlamm/Lehm Wetter	
+20	1	1	0	Woher stammen die Proben? Wurden die Proben vor dem Experiment mit irgendetwas behandelt? Wie genau ist die Waage?	
+21	1	2	2	-Die Oberfläche der Proben -Die Temperatur unter der der Versuch durchgeführt wurde -Den Säuregehalt der Essigs (Präzisieren welcher Essig genau)	
+22	1	1	2	Wie viel Essig wird benutzt Ist die Probe nach 30 Minuten genauso trocken wie zu Beginn Wie hoch ist die Raumtemperatur	
+23	1	1	0	- wie lange sollen die Proben beim zweiten Versuch im Behälter liegen? - wie lange soll die Trocknung erfolgen, mehr/weniger als 30 Minuten? - nehmen wir die gleiche Sorte Essig?	
+24	1	0	0	Mir scheinen sämtliche wichtige Informationen angegeben zu sein.	
+25	1	0	0	Masse zu Beginn, Masse am Ende und Unterschied in Masse	
+26	1	0	0	-Den Wasserverlust der einzelnen Proben nach 24 Stunden -Den Wasseranteil innerhalb der Proben -Was bewirkt Essig in den einzelnen Fällen? -Wie ist die Wechselwirkung von Essig mit den Materialien? -Wie groß ist die Aufnahmefähigkeit der Materialien von Essig?	
+27	1	0	0	Masse zu Beginn Masse am Ende Unterschied der Masse	
+28	1	1	2	-Es fehlt die Aussage dass in jeden Behälter eine gewisse Menge an saurem Regen hizugefpgt wird. - Es ist nicht angegeben in was für einem Gefäß das Experimant durchgeführt wird -Es fehlt ein Fazit was das Experiment bewirken soll	
+29	1	2	3	Art des Plastiks Art und Trockenheitsgrad es Holzes Säurehaltigkeit des Essigs	
+30	1	0	0	Die Massen müssen erneut bestimmt werden. Der Gewichtsunterschied sollte prozentual berechnet werden.	
+31	1	1	1	Dichte, Temperatur, Materialbeschaffenheit	
+32	1	2	3	Wie viel Essig wird verwendet? Werden die Behälter abgedeckt? Wie lange werden die Proben gespült?	
+33	1	0	0	das Experiment finde ich erst mal gut um das zu der Schüler zu zeigen 2.  es könnte noch bisschen mehr Materialien probieren wie Eisen 3. solche Experiment sind auch wichtig	
+34	1	0	0	Gieße ausreichend Essig in die Behälter, damit sämtliche Proben vollständig mit Essig bedeckt sind. Die Proben sollen beim Trocknen nicht direkter Sonneneinstrahlung ausgesetzt sein.	
+35	1	1	1	Die Ausgangsmasse Die Masse des Behälters Die Zeit	
+36	1	0	0	masse beginn masse ende material	
+37	1	3	3	Um das Experiment zu wiederholen sollte man folgende Dinge wissen: 1. die Konzentration der Essigsäure im Essig 2. die Menge Essig die in die 4 Behälter gegossen wurden. 3. die Körnung der verschiedenen Materialien (massive Blöcke, zu Staub zermahlen, etc.) 4. genauere Beschaffenheit der Materialien (was für Plastik, was für Holz, ... )	
+38	1	2	2	wie viel Essig wird hinzugegeben, sind die proben nach 30 minuten schon ganz trocken, wie viel destiliertes wasser soll verwendet werden	
+39	1	2	3	Wie viel essig wurde in die behälter gegeben? wie lang/gründlich wurden die proben mit wasser abgespült? wie genau war die waage zum messen der proben?	
+40	1	0	0	Reagenzgläser, Aufkleber,  Waage	
+41	1	0	0	Wie kommt es dazu, dass die verschiedenen Proben, verschiedene Masseverluste aufweisen? (Recherche in Lektüren). Um das Experiment zu wiederholen bräuchte man erneut verschiedene Proben und notwendiger Weise den Essig. Eventuell lässt sich aber ein besserer Stoff finden.	
+42	1	2	3	-Umgebungstemperatur -Volumen an Essig -Konzentration von Essigsäure	
+43	1	0	0	Man braucht nochmal mehr Masse Man muss die Behälter leeren Und sonst weiß ich es nicht sry	
+44	1	3	3	Wichtig zu wissen wäre noch der Säuregehalt des Essigs, die benötigte Menge an Essig und das Volumen des Behälters.	
+45	1	2	3	Was für ein Behältnis wurde verwendet, wurde eine geeichte Waage zum Wiegen genutzt mit welcher Fehlertoleranz, und um welche Art Holz [z. B. Buche, Eiche, Birke, etc.] und Kunststoff handelt es sich im Einzelnen.	
+46	1	0	1	Die Masse der Proben, Essig, 4 identische Behälter werden benötigt.	
+47	1	1	1	In welchem verhältnis muss mann Essig zugeben. wie sammelt man Die Masse und wo wird die Masse gesammelt	
+48	1	3	3	Prozentangabe des Essig, Temperatur der Proben, des Essig, des destillierten Wassers und Daten zur 24- Stundenaufbewahrung (Temperatur, Beleuchtung und ggf. Luftabschluss durch Deckel). Genauere Angaben zum Holz und zum Plastik, da dies nur Oberbegriffe für verschiedene Stoffzusammensetzungen sind.	
+49	1	0	0	Es sind keine weiteren Informationen erforderlich.	
+50	1	0	0	Die zu untersuchenden Materialien sind *Marmor, Kalkstein, Holz und Plastik*. Gebe die Masse in *Gramm* an. Gebe die *Differenz* der Masse zwischen Beginn und Ende des Experiment an.	
+51	1	3	3	Die Menge an Essig, die in die jeweiligen Behälter gegossen wurde. Die exakten Maße der verwendeten Behälter. Die Menge an destilliertem Wasser, die verwendet wurde, die Proben abzuspülen.	
+52	1	0	0	Es ist wichtig, alle Elemente zur Hand zu haben und jeder der angezeigten Anweisungen zu folgen	
+53	1	0	0	Die Bestimmung der Massen der Proben. Die Dauer der Trocknungszeit der Proben. Die Bestimmung des Gewichts der Masse nach der Trocknungsdauer.	
+54	1	3	2	Die Masse zu beginn welche Materialien bnutzen wir  wie viel Behälter brauchen wir und wie viel Essig und destilliertes Wasser	
+55	1	2	3	Welche Art von Essig wurde benutzt Welche Art von Holz wurde benutzt Welche Art von Plastik wurde benutzt Temperatur im Labor (beim trocknen und während der Behandlung mit Essig)	
+56	1	0	0	Probe Masse zu Beginn (g) Masse am Ende (g)	
+57	1	0	0	Es werden weitere Zutaten benötigt.Die Zeit sollte ausreichend sein	
+58	1	0	0	Berücksichtigen Sie die Werte der einzelnen Materialien in der Tabelle. Regeln Sie die Wartezeit mit einem Timer für mehr Effektivität. Jeder Schüler muss verstehen, wozu das Experiment dient	
+59	1	1	2	- Trocknungstemperatur - KOnzentration des Essigs - Avogadrozahl	
+60	1	3	3	Es  fehlt  der Säuregehalt des Essigs. Die Menge Essig die verwendet wurde. Und welche Holzart da Holzsorten unterschiedliche Säureresistenz aufweist.	
+61	1	2	3	Wurden die Proben ganz von Essig umgeben? Bei welcher Temperatur wurde das Experiment durchgeführt? Welche Form hatten die Proben? (größere Oberfläche -> mehr Auswirkung des Essigs)	
+62	1	0	0	Führen Sie den Test mit mehr Materialien durch. führen Sie Wasserhärtetests durch und berechnen Sie die verschiedenen Komponenten derselben. Säure das Wasser.	
+63	1	0	0	Wiederholen Sie das Experiment mit anderen Materialien. Bestimmen Sie erneut den Gewichtsunterschied und führen Sie eine Wasserqualitätsanalyse durch, um den Gehalt an Calcium und Magnesium zu bestimmen, um die Härte des Wassers zu bestimmen.	
+64	1	0	1	Beschaffenheit der Probe Vorgehensweise Gewichtsbestimmung	
+65	1	0	1	vikt av material temperatur	
+66	1	0	1	1.die genaue Masse der Proben 2.die genau gleichen Proben ( Material ) 3.die Dauer des Einwirkens auf die Proben	
+67	1	3	3	Man muss wissen aus welchem Holz oder welche Art Plastik benutzt worden ist. Außerdem ist es wichtig zu erfahren, aus welchem Material der Behälter sein muss, da er resistent gegen den Essig sein sollte. Auch ist es wichtig zu wissen wie viel Essig man vergießen soll.	
+68	1	0	1	die Masse der 4 verschiedene Proben, Essig über die Proben gießen, Gewicht am Ende der Proben bestimmen	
+69	1	0	0	um das experiment zu wiederholen muß die Masse wieder aufgestockt werden.es werden zusätzlich behälter benötigt.	
+70	1	0	0	Die frei schwebenden Schadstoffe setzen sich auf Gebäude ab. Wenn die Schadstoffe nun mit Wasser in Verbindung kommen, oxidieren diese zu Schwefel- und Salpetersäure. Der niedergehende Regen hat durch die frei schwebenden Teilchen einen entsprechenden Säuregehalt.	
+71	1	2	3	Das Experiment macht wie beschrieben Sinn. Es wäre durchaus Interessent zu sehen wie groß die Oberfläche der Proben ist, um dadurch die Wirkung vom Essig besser zu verstehen. Dazu könnte man das Volumen der verschiedenen Proben berechnen. Ebenso muss nach dem Experiment berechnet werden wie ""Saurer Regen"" auf die Materialien gewirkt hätte. Dazu bräuchte man Angaben zu der Konzentration von Essig im Sauren Regen und ebenfalls zum Reinheitsgehalt des benutzten Essigs.	
+72	1	0	2	Masse und Material der Proben bestimmen vor und nach Experiment. Dauer des Experiments.	
+73	1	0	0	andere Arten von Materialien müssen verwendet werden   weniger Materialmenge  weichere Materialien	
+74	1	2	3	Wie viel Essig wurde hinzugegeben? Wie stark konzentriert war der Essig? Bei welcher Temperatur wurden die Proben getrocknet?	
+75	1	3	3	Wie groß waren die Behälter. Wie viel Essig soll verwendet werden. Welche Konzentration hat der Essig.	
+76	1	3	3	Menge an Essig Material des Behälters Menge des destillierten Wassers Umgebung beim Trocknen	
+77	1	0	0	Bestimme die Masse der vier Proben. Gieße Essig in jeden der vier separaten, aber identischen, Behälter. Lege eine Probe eines Materials in einen Behälter und beschrifte diesen. Wiederhole das Ganze mit den restlichen Proben, wobei je eine Probe in einen Behälter gelegt werden soll. Entferne die Proben nach 24 Stunden aus den Behältern und spüle jede Probe mit destilliertem Wasser ab. Lege die Proben für 30 Minuten zum Trocknen weg. Bestimme noch einmal das Gewicht jeder Probe.	
+78	1	3	3	Welche Essig wird dabei verwendet? Wie gross sind die Behäkter? Welche Menge Essig wird zugegeben?	
+79	1	0	0	Probe wiederhohlen bei 35 graad celsius. Probe wiederhohlen bei minus Celsius.	
+80	1	0	0	Masse der Proben bestimmen, Proben in mit Essig gefüllte Behälter geben, Nach 24 h entfernen und trocknen der Proben mit erneuter Gewichtsbestimmung	
+81	1	1	3	Weitere Informationen die eventuell von wisenschaftlichem Interesse im Zusammenhang mit dem Experiment sind: Außentemperatur, Innentemperatur im Behälter, Luftdruck, Druck auf Material im Behälter, Volumen von Essig im Behälter	
+82	1	0	0	Masse zu Beginn, Masse am Ende, Art der Probe	
+83	1	1	1	Welche Materialien wurden getestet? Wie wurde der saure Regen simuliert? Wie lange war die Testphase?	
+84	1	0	0	destilliertem Wasser Wiege Essig	
+85	1	2	3	in wie viel essig muss die jeweilige Probe gelegt  werden  mit wie viel detilliertem wasser wird gespült  unter welchen bedingungen wird es getrocknet ist die waage geeicht	
+86	1	0	0	Benötigt werden vier neue Proben mit identischer Masse. Selber Versuchsaufbau. Exakt gleiche Versuchsanordnung um die Prozedur zu wiederholen.	
+87	1	1	1	In welcher Form spülte man bei welchem Temperaturniveau die Proben während der Testdauer exponiert wurden, welchen Anteil an Essig sie verwendeten.	
+88	1	1	2	Wie war die Spülung, die Temperatur, der sie während der 24 Stunden ausgesetzt waren, die Menge an Essig, die sie verwendeten.	
+89	1	1	2	für meinen Mangel geben Sie die Information, wie die Spülung war, die Temperatur, der sie während der 24 Stunden ausgesetzt waren, die Menge an Essig, die sie verwendeten.	
+90	1	1	2	Für mich habe ich nicht gesagt, wie viel Essig sie benutzt haben, die Temperatur, der sie während der 24 Stunden ausgesetzt waren, als Brennstoff für den Spülvorgang.	
+91	1	0	0	Sie benötigen eine günstige Temperatur für das Experiment, das verlängert wird, um zu realisieren	
+92	1	1	3	Kalkstein - aus welche Region, welche Dichte ? Holz - verarbeitene Holz oder nicht ? Plastik -  wie dick ist das Plastikstück ? Warum sind alle Materialien mit unterschiedlichen Masse ?	
+93	1	0	1	verwendung von sauren regen material des behälters waage verwenden	
+94	1	0	0	4 behältert dann 4 materialien und essig	
+95	1	1	1	In diesem Experiment ist es notwendig, die Größe des Behälters zu kennen	
+96	1	2	3	Mir fehlte die Menge an Essig, die in jeder Probe verwendet wurde, und die Temperatur, bei der sie 40 Stunden lang ausgesetzt war, und welche Arten von Behältern ich verwendete.	
+97	1	2	3	Um das Experiment durchzuführen, ist es notwendig zu wissen, was ist die notwendige Menge von Essig die Art von Behälter und bei welcher Temperatur sollte gemacht werden	
+98	1	0	0	Kalkgehalt des Materials, Essig wirkt kalklösende; die Gewichtsdifferenz gibt den Kalkgehalt ds Materials an	
+99	1	0	0	abschätzen, ob sich die Porosität jedes Materials verändert hat abschätzen, ob sich die Härte jedes Materials verändert hat Schlüsse ziehen	
+100	1	0	0	Vier Behälter Vier Proben Destilliertes Wasser	
+101	1	0	0	Essig in gleich große Behälter füllen und die abgewogenen Proben einlegen. Nach 30 Minuten die Proben rausnehmen , abwaschen und nochmals wiegen.	
+102	1	3	3	wie viel essig im behälter? wie lange abspülen? volumen der proben?	
+103	1	0	0	Um das Experiment zu wiederholen, müssen neue Proben gesammelt werden, die Behälter gesäubert und die Etiketten entfernt werden. Danach muss die Masse neu bestimmt werden und das Experiment kann nach obigen Schritten wiederholt werden.	
+104	1	2	3	Stärke der Essigsäure Aus welchem Material war der Behälter Welche Temperatur hatte die Umgebung für das trocknen	
+105	1	0	0	ka	
+106	1	1	3	- Umgebungstemperatur - Umgebungsfeuchtigkeit - Größe der Proben	
+107	1	2	3	Muss die Probe vollständig bedeckt sein? Aus welchem Material besteht der Behälter? Kann man das Trocknen durch Auflegen auf eine Heizung beschleunigen?	
+108	1	0	0	Wiege die 4 Proben, lege diese einzeln in beschriftete Behälter mit Essig. Nach 24 Stunden entnehme die Proben, spüle sie ab und lege sie 30 Minuten zum Trocknen, wiege sie erneut.	
+109	1	2	2	Ich glaube es ist wichtig zu wissen wieviel Essig in jedem Behälter ist am Anfang des Experiments. Die Menge Wasser die zum abspülen benutzt wird könnte vielleicht auch einen Effekt auf den Ausgang haben. Zu guter Letzt kann es auch sein dass der Essig die Behälter verändert hat. Daran sollte man auch denken.	
+110	1	0	1	Wie kann man die Masse bestimmen? Wie kann man das Gewicht am Schluss bestimmen? Muss man die Proben im Freien oder Innen trocknen?	
+111	1	2	3	Umgebungstemperatur,  Volumen Essig, volumen dest. Wasser zum spülen	
+112	1	0	0	Bestimme di Masse der vier Proben. Gieße Essig in jeden der vier separaten, aber identischen, Behälter. Entferne die Proben nach 24 Stunden aus den Behältern und spüle jede Probe mit destilliertem Wasser ab. Bestimme noch einmal das Gewicht jeder Probe.	
+113	1	0	0	Um das Experiment zu wiederholen benötigt man unterschiedliche, für das Experiment geeignete Materialien, und eine Waage die exakt das Gewicht der Materialien bestimmen kann. Das Experimtent muß exakt in der selben Zeit durchgeführt werden, wie im ersten Durchgang.	
+114	1	0	0	Die selben Materialien, die selbe Menge, die selbe Dauer des Experiments.	
+115	1	0	0	Der Ablauf muss wiederholt werden, da die Zerstörung anders sein wird Materialien wie Holz und Kalkstein können während dieser Zeit keine Feuchtigkeit aufnehmen. Sie benötigen ein größeres Intervall Die Zusammensetzung des sauren Regens verändert die Säure	
+116	1	0	0	1- Es ist notwendig, die Proben länger im Essig zu lassen, um relevantere Ergebnisse zu beobachten 2- Verwenden Sie neben Essig andere Säuren wie Zitronensaft 3- Regen auf Gebäude aus Kalkstein (mit Calciumcarbonat) oder anderen Materialien zu bewerten.	
+117	1	0	0	1. Verfeinerung des Behältermaterials (weil zum Beispiel Metall reagieren kann) 2. kann der gleiche Unterschied in der Lautstärke verfolgt werden 3. Beschreiben Sie die angeblichen Ursachen solcher Veränderungen	
+118	1	0	0	Zeit erhöhen,Zeit verkürzen,Essiggehalt erhöhen	
+119	1	0	1	-erhalte drei neue Proben. -wandeln Sie den Gewichtsverlust in einen Prozentsatz um, da das Gewicht der neuen Proben nicht exakt gleich ist. -Ermitteln Sie die Umgebungstemperatur während des Versuchs so, dass sie immer gleich ist.	
+120	1	0	0	destilliertes Wasser, Essig und eine Probe, die Sie brauchen	
+121	1	0	0	es scheint, dass die Masse in allen Kategorien abnimmt	
+122	1	0	0	Essig trennen destilliertes Wasser	
+123	1	0	0	1 : Wie man mit pH-Papier misst 2 : Wie man Flüssigkeiten mit einem Garten-Boden pH-Test-Kit misst 3: Wie man Beobachtungen notiert	
+124	1	0	0	man benötigt nochmals die proben des holz da die zahlen gleiches datenmaterial ergaben	
+125	1	0	0	- Um Unterschied der Massen zu bestimmen -Um Ergebnisse zu analysieren  - Dieses zu interpretieren, resultiert	
+126	1	0	0	,Bestimme die Masse der vier Proben.Entferne die Proben nach 24 Stunden aus den Behältern und spüle jede Probe mit destilliertem Wasser ab.Lege die Proben für 30 Minuten zum Trocknen weg.	
+127	1	0	0	Die Reduzierung des pH-Wertes von 7 auf 4 ist eine wichtige Veränderung in der Umwelt, die sich in Veränderungen der Tierwelt zeigt. Es gibt direkte und indirekte Auswirkungen von saurem Regen. Die Säure beeinträchtigt direkt die Fähigkeit des Fisches, Sauerstoff, Salze und Nährstoffe für das Leben zu absorbieren. Die Säure im Wasser erzeugt den Schleim in den Kiemen des Fisches und verhindert, dass er Sauerstoff aus dem nahen Wasser absorbiert. Mit wenigen Ausnahmen können große Fische nicht in Wasser mit einem pH-Wert von weniger als 4,8 leben. Fischeier und kleine Fische können jedoch nicht leben, wenn der pH-Wert weniger als 5,5 beträgt.	
+128	1	0	0	Alle experimentellen Beobachtungen sind eine Kombination aus Signal, dem wahren Effekt einer Variablen auf ein Ergebnis und Rauschen, dem Zufallsfehler, der Ihrer experimentellen Technik innewohnt. Sechs übliche Mittel zur Erhöhung des Signal-Rausch-Verhältnisses sind:  Wiederholung von Messungen an einem Gegenstand Steigende Stichprobengröße, Randomisieren von Proben, Randomisierungsexperimente, Wiederholte Experimente und Einschließlich Kovariaten.	
+129	1	1	1	Es ist notwendig zu bestimmen: die Konzentration des Essigs im Experiment, die mögliche Säurekonzentration im sauren Regen und die Änderung der Masse jeder Probe wiederholt nach zusätzlicher Trocknung für eine Stunde	
+130	1	1	1	mehr Materialien die Masse in verschiedenen Intervallen während 24 Stunden der pH-Wert von Essig	
+131	1	1	1	Essigmenge sollte notiert werden. Behälter sollten in einem nicht kontaminierten Bereich aufbewahrt werden. Der Versuch sollte dreimal durchgeführt werden, um bessere Ergebnisse zu erzielen.	
+132	1	0	0	1) Essig; 2) Destilliertem Wasser; 3) Probenmaterial.	
+133	1	0	1	mehr Materialien Masse in verschiedenen Intervallen während 24 Stunden stelle die gleiche Menge Essig auf die vier Proben ein	
+134	1	0	1	Belichtung von Materialien vorher	
+135	1	0	0	1- marmor 2- kalkstein 3- plastik brauche kein anderes Holz, da es keine Veränderung hat	
+136	1	0	0	Ich brauche die Masse der Proben am Ende,  Essig und wieder vier behalter	
+137	1	2	2	Größe, Essigkonzentration, Temperatur	
+138	1	0	0	1.Der Essig sollte mild sein 2. Es sollte darauf geachtet werden, dass die Menge jeder Probe gewichtet werden sollte 3. die Laborumgebung sollte sehr vernünftig gereinigt und für kontaminiert werden	
+139	1	0	0	Marmor, Kalkstein, Holz, Plastik - Masse zu Beginn (g) - Essig - 24 Stunden -Lege die Proben für 30 Minuten zum Trocknen weg - Masse am Ende (g) - Unterschied in der Masse (g)	
+140	1	0	0	Zeichnen Sie die Masse von drei Proben auf. Gießen Sie jede Probe mit Essig in eine Schüssel und rühren Sie 10 Minuten lang. Entnehmen Sie die Proben und lassen Sie sie trocknen.	
+141	1	0	0	Die Schüler müssen mehr unterschiedliche Materialien verwenden. Sie müssen das Material länger in der Flüssigkeit lassen. Sie müssen auch die Abmessungen des Materials messen.	
+142	1	2	2	Wieviel Essig wird verwendet? Wie groß sind die Behälter?	
+143	1	2	3	welche konzentration hatt die Essig säure? waren die proben komplet mit essig bedeckt? wie war die luftfeuchtigkeit im raum	
+144	1	1	0	Masse zu Beginn, Masse am Ende, ggf. Unterschied in der Masse (nicht zwingend notwendig, da diese aus den ersten Werten hergeleitet werden kann), Zeitangaben (wie lange die Probe im Essig bleibt), die Essigmenge.	
+145	1	1	1	Der Tatsächliche Gehalt von Essigsäure im verwendeten Essig wird nicht beachtet. Je nach Handelsmarke gibt es dort Schwankungen.  Auch wird nicht berücksichtigt, dass der Säuregehalt so oder so sehr viel höher ist als der von saurem Regen. Ein ""Fehler"" des Experiments liegt in der Trocknungsphase. Da die verwendeten Proben unterschiedlich saugfähig sind wird z.B. das Holz sehr viel länger brauchen um zu trocknen als  das Plastik.	
+146	1	0	0	der Behälter muss transparent sein wenden Schutzmethoden an	
+147	1	2	3	Genaue Definition der Verwendeten Materialen (Beispielsweise was für ein Holz, chemische Beständigkeit des Kunststoffes, welcher Kalkstein (Calcit, Aragonit, Dolomit/ Anteil Tonminerale, Anteil organischen Materials etc.), Säuregrad des verwendeten Essigs, Temperatur der Flüssigkeiten	
+148	1	1	2	Welche Materialien bieten sich für das Experiment an? Welche Form der Säure kann man für das Experiment verwenden? Aus welchem Material sollten die Behältnisse sein?	
+149	1	0	0	Masse zu Beginn, Masse am Ende und Unterschied in der Masse.	
+150	1	0	0	Essig  wiederhole die Proben  Spüle die Mischung ab	
+151	1	2	3	Man müsste wissen, welcher Essig genau verwendet wurde. Man müsste wissen, welche Behälter genau verwendet wurden. (Kunststoff? Holz? Metall? etc.) Man müsste wissen, ob bestimmtes destilliertes Wasser verwendet wurde.	
+152	1	0	0	Genaue angabe der milligram jeder probe vor und nach dem experiement. Andere proben benutzen, wie zum beispiel stahl, metall, zement, glas usw. Andere zeit abschnitte sind noetig, zum beispiel 1 stunde oder 1 woche.	
+153	1	0	2	Temperatur, Luftdruck, Luftfeuchtigkeit	
+154	1	0	0	Dies zeigt, wie sich jedes Material im Lösungsmittel auflöst, womit Sie wissen können, welches Material beständiger gegen die Chemikalie ist...	
+155	1	0	0	Menge an Lösungsmittel	
+156	1	3	3	Einerseits sollte man wissen ob die Materialien vollständig vom Essig bedeckt waren oder ob allen Materialen eine definierte Menge Essig zugegeben wurde. Die Konzentration des Essigs ist ebenfalls wichtig, genauso wie die Zusammensetzung der einzelnen Materialien.	
+157	1	1	2	- wie man die Masse bestimmt - wie viel Essig zu gießen - Bei welcher Temperatur sollten die Behälter 24 Stunden warten	
+158	1	3	3	Der pH-Wert des Essigs. Das Volumen des Essigs, bzw. ob es genug war um die Proben ganz zu bedecken. Damit zusammenhängend, die Form der Behälter und die Größe bzw. das Volumen der Proben. Die genaue Art des Holzes (von welcher Baumspezies?) und die Art des Plastiks.	
+159	1	1	3	Es git zu wenig Informationen über die verwendeten Stoffe, Hilfsmittel und Zusatzgeräte. Als erstes müsste die Waage genauer klassifiziert werden, allein schon wegen Messungenauigkeiten. Dann fehlt die Konzentration des Essigs. Ich würde beim zweiten Versuch auch die Zeitintervalle verändern.	
+160	1	1	1	Neue bzw. andere Proben von Materialien; Materialien länger als 24 Stunden im Essig Behälter aufbewahren; welche Art von Material war es? bzw. Welches Holz wurde getestet? Unbearbeitetes Holz? Holz direkt von draußen? Geschliffenes oder Lackiertes Holz?	
+161	1	0	0	Neue Proben neue Gläser neuer EssigMateria	
+162	1	0	1	-den ph-wert bestimmen -luftverunreinigungen in der umgebung testen -mehr materialien testen	
+163	1	1	3	Wie hoch werden die Behälter gefüllt? Mit was für einer Waage wird die Masse bestimmt? Welchen Einfluss hat die Luft bei Trocknung der Proben?	
+164	1	2	3	wieviel Essig ist nötig? welches Material wurde verwendet? müssen die Behälter geschlossen werden?	
+165	1	3	2	Was ist das Ausgangsmaterial der Probe Material des Behälters Menge von Essig	
+166	1	0	0	Vielleicht wäre die Temperatur von Interesse.	
+167	1	0	0	frischer Niederschlag, saurer Regen, verschiedene Materialien (marmor, kalkstein, holz und plastik )	
+168	1	0	0	Essig in ein separaten Behälter gießen. Lege eine Probe in den Behälter beschrifte es. Wiederhole es. Nach 24 Stunden aus dem Behälter spülen. Nach 30 Minuten Trockenzeit weglegen.	
+169	1	0	0	Daten über physikalische Materialverluste werden benötigt, um eine Vorabprüfung des Materials durchzuführen. - Wiederholungen sind für jeden Materialtyp erforderlich (mindestens drei), damit die Ergebnisse genauer sind. - Es ist erforderlich, das Experiment für eine längere Zeit zu bewerten, um einen ausgeprägteren Effekt zu erkennen.	
+170	1	1	3	Menge an Essig Temperatur Essig Umgebungstemeratur beim trocknen	
+171	1	0	0	Unterschiedliche Materialien führen zu unterschiedlichen Ergebnissen	
+172	1	2	3	Wieviel und was für Essig in jeder Probe war. Die Temperatur in welcher das Experiment durchgeführt wurde.	
+173	1	1	2	essgkonzentration oberflächenstruktur temperatur	
+174	1	0	0	Nochmal mit den gleichen Materialien 9 mal wiederholen um eine gewisse Genauigkeit herzustellen und um eventuelle Ausreißer ausschließen zu können.	
+175	1	0	0	Um das Experiment zu wiederholen brauchen wir die besonderen Materialien und Essig dazu, sonst wird es nichts	
+176	1	0	0	das Material muss wieder vollständig getrocknet sein.	
+177	1	2	2	Menge der Wasser Grösse der Behälter Form der Behälter	
+178	1	0	1	Wichtig ist, dass bei der Wiederholung die gleichen Materialien in gleicher Menge und Beschaffenheit benutzt werden. Auch die Form sollte identisch sein, da eine unterschiedliche Form, des zu testenden Proben, zu einer größereren Fläche führen könnte, die mehr Oberfläche bieten würde und somit mehr Schnittstellen zur Säure. Somit würde das Material schneller verätzen.	
+179	1	2	2	Menge Essig, Stärke des Essigs, Temperatur	
+180	1	0	0	Neue Proben. Masse bestimmen. Trocknen.	
+181	1	1	0	Art der Probe, Masse zu Beginn, Masse am Ende	
+182	1	1	2	Säuregehalt des Essigs, Erdfaktor um die Masse zu bestimmen ( z. B. 9.81 m/s^2), Raumtemperatur beim Trocknen	
+183	1	0	0	Den Essig zurück in den Behälter geben. zurück, um 24 Stunden zu warten. Sie müssen 30 Minuten trocknen.	
+184	1	0	0	man braucht die masse vorher, eine waage, ein glas, essig. dann macht man das material in das glas mit essig und wiegt nach einem tag die sachen nach.	
+185	1	0	0	Zusätzliche Informationen die nötig sind, um das Experiment zu wiederholen sind die äußerlichen Veränderungen, die an den Materialien entstanden sind. Zudem wäre ein  Versuchserklärungsansatz wünschenswert.	
+186	1	0	1	1.was das gewicht ist von den neuen proben 2.wie viel saurer regen benutzt werden soll 3.wie lange die proben in den behälter sein sollen	
+187	1	3	3	Die Menge an Essig, die zu Beginn dazu gegeben wird Die Art und das Material des Behälters Die Art des Essig Die Konzentration des Essig	
+188	1	2	3	- Menge an Essig, die in jeden Behälter gegossen wird - Art des verwendeten Essig - Unterschied in der Masse in Prozent - Wie sollen die Behälter beschriftet werden	
+189	1	0	0	Wiederholungen sind für jeden Materialtyp erforderlich (mindestens drei), damit die Ergebnisse genauer sind. Es sind Daten über die physikalischen Materialverluste erforderlich, die eine Vorabprüfung des Materials ermöglichen.  Es ist erforderlich, das Experiment für eine längere Zeit auszuwerten, um einen ausgeprägteren Effekt zu erkennen.	
+190	1	0	1	1. Die Masse der vier Proben soll vor und nach dem Versuch mittels Gewichtsbestimmung miteinander verglichen werden. 2. Vier gleichgroße Becher werden mit der selben Menge Essig befüllt, dannach beschrifte man jeden Becher und führe ihr die jeweilige Materie zu und lasse die Probe 24 Stunden ruhen. 3. Dannach entnehme das getestete Material und lasse es 30 Minuten trocknen bevor man deren Gewicht bestimmt.	
+191	1	0	0	Es ist wichtig, alle Elemente zur Hand zu haben und jeder der angezeigten Anweisungen zu folgen	
+192	1	0	0	- Es sind Daten über die physikalischen Materialverluste erforderlich, die eine Vorabprüfung des Materials ermöglichen.  - Es ist erforderlich, das Experiment für eine längere Zeit zu bewerten, um einen ausgeprägteren Effekt zu erkennen.  - Wiederholungen sind für jeden Materialtyp erforderlich (mindestens drei), damit die Ergebnisse genauer sind.	
+193	1	3	3	- Der Säuregehalt des Essigs - Die genauen merkmale der Materialien, Holz ist nicht gleich Holz usw - Die angrifsfläche der Säure, ist das material Dünn und breit oder eine Kugel.	
+194	1	0	0	die Masse von Marmor zu Beginn war 9,8, masse am Ende war 9,4  Die Masse von  Kalzium zu Beginn war 10,4 , masse am Ende war 9,1 Die Masse von Holz zu Beginn war 11,2, masse am Ende war 11,2 Die Masse con Plastik zu Beginn war 7,2, masse am Ende war 7,1   Gieße Essig in jeden der vier separaten, aber identischen, Behälter. Entferne die Proben nach 24 Stunden aus den Behältern und spüle jede Probe mit destilliertem Wasser ab. Lege die Proben für 30 Minuten zum Trocknen weg.	
+195	1	3	3	menge an essig, grosse der behälter, menge des destillerten wassers	
+196	1	1	2	Material der Proben Wassertemperatur Raumtemperatur	
+197	1	1	1	waren die Proben komplett bedeckt wie war die Temperatur wie viele Prozent haben die Proben verloren	
+198	1	0	0	Wenn ich das Experiment wiederholen möchte, brauche ich doch einfach nur die selben Angaben wie sie schon bereits beschrieben werden...Probe, Masse zu Beginn, Masse am Ende und den Unterschied in der Masse...	
+199	1	0	0	Es ist wichtig, alle Elemente zur Hand zu haben und jeder der angezeigten Anweisungen zu folgen	
+200	1	3	3	- Essigmenge - Größe des Behälters - Form der Probe (da die Proben unterschiedliche Oberflächengrößen haben können)<y	
+201	1	0	1	Inhaltsstoffe der Substanzen (z.b. Carbonate) Welche der enthaltenen Substanzen sind wasser/säurelöslich welchen ph-wert hat essig und welchen saurer regen	
+202	1	2	2	Was für einen Essig?  Wieviel Essig? Anweisung die Ergebnisse am Ende aufzuschreiben und prozentualer Verlust anzugeben	
+203	1	0	0	1. Man muss die Masse der Materialien zu Beginn bestimmen. 2. Man legt fest, wie lange die Materialien im  Essig verweilen sollen. 3 Man bestimmt die Masse , nachdem man die Proben mit destilliertem Wasser gespült hat, und für eine bestimmte Zeit zum Trocknen weggelegt hat.	
+204	1	2	3	Menge Essig Konzentration des Essigs Art des Essigs  Einzelmessung oder Wiederholung?	
+205	1	2	3	Es ist nötig, die Menge an Essig und die Größe der Behälter und der Materialproben zu kennen, um auf die gleichen Ergebnisse zu kommen. Eventuell wäre es auch wichtig zu wissen, ob eine bestimmte Temperatur notwendig ist, um das Experiment durchführen zu können.	
+206	1	2	2	Menge an benötigtem Essig; Beschaffenheit der Ausgangsproben (Pulver, Rohmasse etc.); Ist Essig gleichbedeutend mit saurem Regen?	
+207	1	1	1	Masse der einzelnen Proben vor Beginn. Dauer des Experiments. Säuregehalt des Essigs.	
+208	1	0	0	Das Experiment könnte für eine längere Zeit ausgewertet werden, um einen ausgeprägteren Effekt zu bestimmen.  Daten zu Materialverlusten werden benötigt.  Wiederholungen könnten für jede Art von Material durchgeführt werden, so dass die Ergebnisse genauer sind.	
+209	1	0	0	- Es sind Daten über die physikalischen Materialverluste erforderlich, die eine Vorabprüfung des Materials ermöglichen.  - Es ist erforderlich, das Experiment für eine längere Zeit auszuwerten, um einen ausgeprägteren Effekt zu erkennen.  - Wiederholungen sind für jeden Materialtyp erforderlich (mindestens drei), damit die Ergebnisse genauer sind.	
+210	1	0	0	um das Experiment zu wiederholen, muss man vorher wissen ob die Materialen nicht allgmein im wasser löslich sind. was genau im sauren regen den gewichtsverlust verursacht und warum es bei holz nicht funktioniert	
+211	1	3	3	Menge des Essigs Säuregehalt des Essigs/Essigart Genaue Art des Materials (z.B. Eichenholz, Fichtenholz...) Größe des Behälters/Verhältnis der Größe des Behälters zu verwendeter Menge Essig und ggf. verwendeter Menge des Materials	
+212	1	0	0	Masse aller Proben,molare Masse und wie stark polar es ist.	
+213	1	3	3	Welche Art von Holz und Plastik wurden verwendet?Wieviel Essig wurde verwendet (Probe vollständig bedeckt)?  Wie genau wurde getrockne? Ein mit Essig durchträngtes Holzstück wird schwerlich nach 30 Minuten ""weglegen"" vollständig trocken sein.	
+214	1	0	0	Es ist wichtig, alle Elemente zur Hand zu haben und jeder der angezeigten Anweisungen zu folgen	
+215	1	1	2	Temperatur Säuregrad des Essig Luftdruck	
+216	1	0	0	- Die Proben. - Essig. - Schiff.	
+217	1	0	0	die Eigenschaften von saurem Regen müssen untersucht werden. Die Art der physikalischen Degradation durch den Einfluss des sauren Regentropfens auf die Oberfläche muss beachtet werden. Sie sollten über die Wirkung anderer Umweltfaktoren wie Temperatur und Feuchtigkeit nachdenken	
+218	1	0	0	Saurer Regen und Essig haben nicht das gleiche Verhalten. Sie können das Experiment mit echtem saurem Regen intensivieren. Darüber hinaus ist es notwendig, den Einfluss des Regentropfens auf die Oberfläche zu untersuchen, was auch eine direkte Wirkung hat. Der dritte Aspekt wäre, die Zusammensetzung des sauren Regens zu untersuchen, um seine chemische Zusammensetzung besser nachzuahmen.	
+219	1	0	0	Es ist notwendig, verschiedene Konzentrationen des verwendeten Essigs zu bewerten und nach einer genaueren Simulation von saurem Regen zu suchen.  Sie könnten echten sauren Regen verwenden, der während eines echten Regens gesammelt wurde.	
+220	1	0	0	Gewicht, Größe, Radius	
+221	1	2	3	Um das Experiment zu wiederholen, müsste angegeben werden wie groß der behälter ist, und wieviel Volumen an Essig benutzt wurde und ob die Probe dabei vollständig bedeckt war.	
+222	1	0	0	-Kennzeichnen der einzelnen Proben,  Fotografieren vor und nach dem Versuch. Welche Probe hat am meisten Gewicht verloren? Welche Probe hat am wenigsten Masse verloren?	
+223	1	0	0	Essig in vier Behälter giessen, nach 24 Stunden herausnehmen 30 Minuten zum trocknen weglegen	
+224	1	3	3	was für ein Essig wurde verwendet? waren die Proben jeweils vollständig vom Essig bedeckt? welche Maße habe die proben?	
+225	1	1	0	Die Arten der Proben: Marmor, Kalkstein, Holz, Plastik.	
+226	1	3	2	Welcher Essig soll verwendet werden? Wie viel Essig wird zu den Proben gegeben? Welche Materialien sollen als Probe verwendet werden?	
+227	1	0	1	Um das Experiment wiederholen zu können benötigt man die Mengen angaben der zuverwenden Bestandteile. Ohne Mengen Angaben kann es nicht eins zu eins wiederholt werden.	
+228	1	2	3	Welchen Säuregehlat hat der Essig? Wieviel Essig wird benötigt? Welche Temperatur hat der Essig?	
+229	1	0	0	Meines Erachtens nach fehlen keine Informationen. Alle Informationen zur Wiederholung des Experiments sind gegeben.	
+230	1	1	0	vol.% vom Essig, ???, ???	
+231	1	0	0	-verschiedene Materialien -Mit Essig wird versucht das gewicht zu reduzieren -Vergleich von vorher Gewicht zu nachher	
+232	1	1	1	Man müsste wissen an welchem Ort bzw. zu welchem Zeitpunkt die Wasserproben gesammelt wurden, welche Menge an Regen  gesammelt wurde und wie viel Essig zu den Proben hinzugefügt werden soll.	
+233	1	0	0	- Masse der neuen Proben bestimmen - Behälter mit destilliertem Wasser auswaschen - Behälter neu beschriften, wenn dort andere Proben reingelegt wurden	
+234	1	0	0	MAsse zwischendurch Gesamtmasse Gesat abweichung der masse	
+235	1	0	0	Ich denke, wir sollten noch 24 Stunden warten, um das Endergebnis zu bestätigen.   Danach überprüfen Sie mit den ersten Proben, die sie vorher 24 hatten.   Am Ende wird ermittelt, welches Material am meisten und wie viel Zeit am meisten betroffen ist.	
+236	1	2	2	Form der Versuchsobjekte, Oberfläche der Versuchsobjekte, Temperatur	
+237	1	1	1	Eventuell sollte man wissen, wie viel Essig in die Behälter gegeben werden soll. Ansonsten scheinen mir alle nötigen Informationen vorhanden zu sein.	
+238	1	0	0	keine Ahnung	
+239	1	3	3	Wie lange werden die Proben abgespült? Wie viel Essig wird verwendet? Was für Behälter werden verwendet? Werden die Behälter geschlossen?	
+240	1	2	3	Verwendete Holzart(en), genaue Definition des Kuststoffes,  sowie genaue Angaben zur verwendeten Menge des Essigs.	
+241	1	3	3	Um das Experiment zu wiederholen, müsste man folgendes wissen: 1. Wieviel Essig wird für jede Probe benutzt. 2. Wie konzentriert ist der Essig, d.h wieviel Essigsäure ist in dem Essig 3. Um welche Art von Marmor, Kalkstein, Holz bzw. Plastik handelt es sich.	
+242	1	1	0	Die Masse der Proben, die Art der Materialien und die Lagerzeit der Proben.	
+243	1	0	0	Man braucht von jeder der vier Materialien wieder je eine Probe. Deren Masse wird gemessen. Dann wird das Experiemnt wie oben beschrieben wiederholt.	
+244	1	2	3	Volumen des Behälters Bedingungen des Trocknens pH-Wert des Essigs	
+245	1	0	0	An sich werden zur Wiederholung lediglich 4 verschiedene Probearten benötigt, so wie Essig und ein Behälter. Wichtig ist eventuell, dass alle 4 Becher komplett identisch sind, damit es nicht zur Abfälschung kommt und eventuell die Behälter etwas ans Wasser bzw. Essig abgeben. Danach werden wiederum destilliertes Wasser zum abspülen. Zusätzlich wird natürlich eine Waage benötigt, damit das Gewicht bestimmt werden kann.	
+246	1	3	3	1) Der jeweilige Dichtewert und das Volumen der einzelnen Probematerialien müssen angegeben werden, da die Dichte jeder Materialart bei Experimentwiederholung identisch sein muß, denn der Zersetzungsgrad des jeweiligen Materials durch Essig hängt auch von der Materialdichte ab. 2) Die Spülzeit mit Wasser und 3) die verwendete Menge an Wasser müssen angegeben werde, sie müssen bei jedem Material identisch sein sowie bei der Wiederholung des Experiments. 3) Essigmenge muß angegeben und bei jedem Material identisch sein, 4) Alle Materialien müssen im Behälter völlig vom Essig bedeckt sein.	
+247	1	3	3	Art der Bechergläser Menge Essig Größe des Materials	
+248	1	0	0	1- ich finde dass die Probe sinnvoll ist  2 - dazu muss man kein zusätzlichen Information schreiben	
+249	1	1	1	Oberfläche der Materialien muss beschrieben werden.  Anschließend muss noch bestimmt werden, wie alt die Materialien sind. Und es muss eine Info geben, wer das Experiment gemacht hat.	
+250	1	2	2	- Form der Proben / Größe der Oberfläche, die dem Essig ausgesetzt ist - Konzentration des Essigs - Genaue Zusammensetzung der Proben	
+251	1	0	0	Probe, Masse zu Beginn, Masse am Ende	
+252	1	0	0	Bestimme die Masse der vier Proben einen Behälter restlichen Proben	
+253	1	1	2	Wie viel % sollte der Essig haben? Wie verhält sich der Werkstoff bei längerer Benutzung. Welche Temperatur sollte der Essig haben?	
+254	1	2	3	Wie viel Essig wird in die Behälter jeweils gegeben? Spielt das Material der Behälter eine Rolle? Welche Sorte Holt wurde verwendet?	
+255	1	3	3	Welche Art von Essig wurde verwendet? Wurde bei jeder Probe die gleiche Essigmenge verwendet? Wurde jede Probe gleich mit destilliertem Wasser gespült?	
+256	1	0	0	wo man das macht,  wie mann sammelt  und bedingungen der umgebung	
+257	1	1	1	temparatu, was für ein behälter. gewicht	
+258	1	3	2	Es wird eine Information benötigt, um welches Material es sich bei den Proben handeln soll, wie viel Essig und welcher Essig es sein soll.	
+259	1	1	1	Wie wird die Masse bestimmt? Wie wird das Abspülen genau durchgeführt? Wie wird das Trocknen durchgeführt?	
+260	1	2	2	Aussentemperatur  die Größe der Proben (dick, dünn) Wieviel Essig wird genommen	
+261	1	0	0	behälter,wasser,essig	
+262	1	0	0	Reagenzgläser, Aufkleber, eventuell auch Kühlschrank, Schreibgerät	
+263	1	1	2	Welchen Feuchtigkeitsgehalt hatte das Holz zu Beginn des Experiments? Welche Art von Plastik handelt es sich? Duroplast, Eloplast? Welche Art von Kalkstein?	
+264	1	0	0	unter dem einfluß von essig sind die unterschiede wieder erwarten gar nicht so geoß	
+265	1	2	3	-Die Oberfläche der Proben -Den Säuregehalt des Essigs -Die Umgebungstemperatur	
+266	1	0	0	Hallo,  leider ist diese Aufgabe für mich nicht machbar,ich war schon immer eine niete in Chemie.	
+267	1	2	3	Es ist das Volumen und die Oberflächenbeschaffenheit der Proben nötig, sowie Umgebungstemperatur und Druck.	
+268	1	1	1	Ausgangsgewicht Typ der Säure Was für Materialien wir haben	
+269	1	0	0	küssender Regen kommt aus Marmor, wenn Geld in Form von Staub und strömendem küssendem Regen aus dem Boden gehoben wird	
+270	1	1	1	die proben kürzer oder länger im behälter lassen. die proben kürzer oder länger trocknen lassen.  mich würden die grösse der proben interessieren	
+271	1	0	0	1. Wie verhält sich Essig zu den oben genannten Materialien? 2. Warum wird Essig verwendet? 3. Warum wurde das Gemessen? 4. Wieso wurde die Probe nicht im Vorfeld getrocknet? 4.1. Dadurch könnte der Massenverlust auch einfach nur Wasser sein.	
+272	1	0	0	welche probe , masse zu beginn	
+273	1	1	2	Was für Essig? Ist die Menge des Essigs abhängig von der Masse der Probe? Zu welchem Fazit soll dieses Experiment führen?	
+274	1	1	3	- Wie viel Essig wird verwendet? - Wird die Probe verschlossen? - Welche Umgebungseigenschaften sind gegeben? Temperatur, Sonneneinstrahlung, etc.	
+275	1	0	0	- masse der proben zu vor dem experiment - masse der proben nach dem expermiment - unterschied der masse	
+276	1	0	0	wie war das gewicht wenn man die proben aus dem behälter nimmt . wie war das gewicht nach dem abspülen mit wasser	
+277	1	0	0	Die Masse zu beginn der Probe. Die Zeit die diese Proben in dem Behälter mit Essig lagen. Die Masse am Ende	
+278	1	1	3	Die Menge an Essig, die in jeden Behälter gegossen wird. Bei was für einer Temperatur die Proben gelagert werden sollen (Raumtemperatur, in einem kalten/heißen Raum. Wie rein die Proben sein müssen, da mögliche Gewichtsverluste eventuell auf Bakterien zurückzuführen sind.	
+279	1	3	3	Was für Essig wurde verwendet? (Eisessig?) Wieviel Essig wurde verwendet? Sind die Proben wirklich trocken nach 30 Minuten? Was für Behälter wurden verwendet?	
+280	1	3	3	Form der Proben, PH Wert des Essigs und genauere Beschreibung der Proben (z.B. Holzart oder Zusammensetzung des Plastiks) wären wichtig.	
+281	1	2	3	Es werden zusätzlich benötigt die Form und Beschaffenheit der Proben, sowie wieviel und welcher Essig (z.B. Konzentration der Säure) verwendet wird.	
+282	1	3	3	Säuregehalt des Essigs, Menge des Essigs, sind Gegenstände komplett bedeckt? , genaue Zusammensetzung der verwendeten Proben (Plastikart etc.)	
+283	1	1	1	Zusätzlich müssten die Proben von gleicher Konsistenz und Größe parallel für 24 Stunden in destilliertes Wasser/kein saurer Regen gelegt werden um Vergleichswerte zu erhalten. Es müssen außerdem genaue größe und Oberflächenanteil der Proben angegeben werden.	
+284	1	2	3	Wir müssten die Menge Essig kennen, ob die Proben vollständig vom Essig bedeckt waren, und wir müssten die Form oder Oberfläche der Proben kennen.	
+285	1	1	3	Wo muss der Behälter 24 Std. Stehen ? (Trocken ? Im hellen oder Dunkeln?) Wie lange muss ich die Probe mit destilliertem Wasser abspülen ?  Müssen die Proben mit Essig komplett bedeckt sein ?  Wie groß dürfen sie Behälter maximal sein ?	
+286	1	2	2	Wie viel Essig muss ich nehmen  Werden die Proben in den Behälter mit dem Essig gelegt Wie viel Destilliertes Wasser darf ich zum Abwaschen der Probe verwenden 	
+287	1	3	3	Form der Körper (z.B. cm² Oberfläche), genauere Angaben zur chemischen Zusammensetzung (""Plastik""?), Angaben zum Versuchsumfeld (z.B. Temperatur), Angaben zum genauen Ablauf (was für Behälter? komplett von Essig bedeckt? Was für Essig?) Angaben zum Trocknungsvorgang (Ofen? Luft? Temperatur?), ...	
+288	1	3	3	Größe Behälter, Menge Flüssigkeit, Form uns Größe der Proben	
+289	1	3	3	Zusätzlich zu den angegebenen Informationen werden noch die Menge an Essig pro Behälter, die Säure des Essigs und die Größe des Behälters benötigt	
+290	1	3	3	Menge des hinzugegossenen Essigs  Säuregehalt des Essigs  Größe des Gefäßes 	
+291	1	1	2	ph-Wert des verwendeten Essigs, Lagerbedingung der Proben, ...	
+292	1	1	2	Temperatur der Materialien und des Essigs Material (Art) der Behälter  3× je Material durchführen für einen Durchschnittswert	
+293	1	2	3	Wie viel Wasser benötige ich zum Abspülen?  Wie viel Essig muss ich zugießen?  Wohin sollen die Proben zum Trocknen gelegt werden? 	
+294	1	2	3	Wie viel essig kommt in jeden behälter?  Aus welchem Material sind die Behälter?  Wie viel Masse soll jedes Probematerial mindestens aufweisen?	
+295	1	2	2	Wieviel Essig muss in den Behälter gefüllt werden und wie lange wird das Material mit destilliertem Wasser abgespült	
+296	1	2	3	Zusammensetzung, v.a. Säurekonzentration des Essigs, Material der Behälter, Werden die Behälter bedeckt? Temperatur und Luftfeuchtigkeit während der Trockenzeit	
+297	1	0	0	Zusätzlich zur Anleitung braucht man die Ergebnisse der vorhergen Experimente.  Am Ende des Experiments muss man noch die Differenz der Masse zu Beginn und zum Ende messen.	
+298	1	2	3	Wieviel Essig - müssen die Proben von Essig bedeckt sein? wie sollen die Proben getrocknet werden - wird das Holz wirklich innerhalb von 30 Minuten trocken?	
+299	1	3	3	Menge und Sorte an Essig, Größe der Proben, Größe der Behältnisse	
+300	1	0	0	Keine 	
+301	1	1	1	Man muss die Anleitung genau lesen. Welcher Essig wurde benutzt?	
+302	2	0	0	ist ok	
+303	2	1	1	Genauere Angaben. Vorherige Länge. Jetzige Länge.	
+304	2	2	2	Es handelt sich offensichtlich um verschiedene Kunststoffe mit verschiedenen Materialeigenschaften oder um den gleichen Kunststoff, der aber unterschiedlich zugeschnitten ist. Man müsste die Kunststoffproben irgendwie ""normen"" , also genau gleiche Größe, Form oder Gewicht. Gewichte sollten auch immer die gleichen sein und ich würde die Proben nicht einfach an einen Tisch kleben sondern frei oben mit einer Klammer befestigen und frei hängen lassen.	
+305	2	0	0	mit D2 ist er genauer suchen nach weiteren Plastikarten	
+306	2	0	0	Bei den ersten beiden Proben, hat sich das Material noch mit gedehnt. Bei den anderen Proben, ist es nicht mehr passiert,	
+307	2	2	3	a) Plastikart D ist am dehnungsfähigsten während Plastikart A am wenigsten dehungsfähigsten ist. b) Es fehlt die Angabe, wie hoch das Gewicht war. Ein Durchlauf ohne Gewichte würde den Einfluss der Gravitation bestimmen	
+308	2	2	3	Die Streckung der Plastikarten sind ähnlich bei beiden Durchläufen. Um die Ergebnisse zu verbessern muss der Durchlauf öfters wiederholt werden und es müssen die Gewichte dokumentiert werden wie schwer sie sind.	
+309	2	0	0	es kann einfach Proben von Polymerharzen sammeln und sammeln und erhalten, was ihre Erweiterbarkeit ist	
+310	2	0	0	plastik a dehnt sich am meisten aus	
+311	2	2	2	a) Kunststoff B hat die größte Dehnbarkeit, b) Kunststoffprobe besser befestigen (nicht kleben - da ungenau - besser festklemmen etc) - einmalig längere Hängezeit	
+312	2	0	0	ich weiß es leider nicht. das ist halt so.	
+313	2	1	1	Plastikart A und B strecken sich sehr viel weniger als C und D - man hätte noch die ausgangslänge angeben können damit man die prozentuale streckung ausrechnen kann	
+314	2	3	3	Plastikart B dehnt sich am meisten, Plastikart A am wenigstens. Es hätten noch mehr Versuchsdurchläufe gemacht werden können. Die Belastung sollte notiert werden.	
+315	2	2	2	Schlussfolgerung: Kunststoff kann sich plastisch verformen. Verbesserung: nicht kleben ( mögliche chemische Einwirkung) sondern einspannen	
+316	2	2	3	a. Die erzielten Ergebnisse in den beiden Durchläufen variieren nur minimal b. Spezifizierung des Kunststoff-Materials Spezifizierung der Kunststoff-Dichte	
+317	2	1	1	Plastikart A und B wird mit zunehmender Dehnung elastischer. Plastikart C dagegen unelastischer und D verändert seine Elastizität nicht mit der Dehnung. Die Validität der Ergebnisse könnte wie folgt verbessert werden: Für jede Plastikart eine erhöhte Anzahl an Versuchsdurchgängen durchführen, mit neuen Proben (um statistische Signifikanz zu erhöhen). Weitere Durchläufe hinzufügen (z.B. D3). Protokollieren der Temperatur.	
+318	2	3	3	Schlussfolgerung: Plasikart B ist am dehnbarsten. Verbesserung des Versuchaufbaus: mehr Versuchsdurchläufe für jede Plasikart, Versuch mit unterschiedlichen ""Hängzeiten"" durchführen	
+319	2	1	2	Parallel die 2 Versuche starten um zu gewährleisten dass die Versuche identisch sind. Mit verschiedenen Längen der Kunststoffe Versuche starten und dies auch miteinander vergleichen.	
+320	2	0	0	Hänge Gewichte an die Klemme und lass sie für fünf Minuten hängen. Entferne die Gewichte und die Klemme und miss die Länge des Kunststoffs.	
+321	2	3	1	a. Kunststoff ist dehnbar, abhängig von der Art des Kunststoffs. b. Wo und wie wird die Klemme genau befestigt? Welche Gewichte werden verwendet? Wird immer das gleiche Gewicht verwendet?	
+322	2	2	2	a. Die Daten suggerieren, die Kunststoffe B und D seien dehnbarer als C und A. b. Der Schüler hätte auf einen identischen Querschnitt des gedehnten Kunststoffe achten müssen und die gedehnte Strecke im Verhältnis zur Ausgangslänge setzen müssen.	
+323	2	2	1	a) Plastikart D dehnt sich nicht Plastikart C scheint zu schrumpfen statt sich zu dehnen b) Die Masse der Gewichte varieren mehr als zwei Durchläufe durchführen	
+324	2	0	0	- warum verändert sich die Plastikart D nicht?  Vermutlich handelt es sich um Hartplastik, der sotff ist fester und widerstandsfähiger, als A-C - besseres Ergebnis: In Zustand und Konsistenz vergleichbare Rohstoffe verwenden	
+325	2	2	1	a. Es kommt auf die Plastikart drauf an, ob die Streckung beim 1. oder 2. Durchgang größer ist, bzw. ob sie gleich groß ist. b. Man hätte bei einem der Durchgänge die Zeit verringern/erhöhen können. Die Befestigung (Nagel statt Kleber z.B.) könnte stabiler sein.	
+326	2	0	0	Keine Ahnung	
+327	2	3	3	Die Daten des Schülers sind nicht verwertbar. - Das Gewicht müsste genau benannt werden - Das Gewicht muss für alle Proben gleich sein -Die Materialien müssen bekannt sein -Die Unterschiede der Materialien (Ausdehnungskoeffizient bzw. Dehnungsdiagramm)	
+328	2	0	0	Gegenstand D weist keine Veränderungen auf "Gegenstand C wird bei überspannung kleiner und zieht sich zusammen.	
+329	2	2	3	a)  Sie haben bewiesen wie dehnbar die Materialien sind. b) Sie hätten ein Stativ statt tisch nehmen können. Und sie hätten mehrere durchgänge mit unterschiedlichen gewichten machen können.	
+330	2	1	2	Plastik A und B sind im zweiten Durchgang stärker dehnbar, C ist weniger dehnbar und D genauso dehnbar wie zuvor. Mehr Durchgänge machen.	
+331	2	3	1	Plastik B ist am dehnbarsten, dann D, dann C, dann A. A hat außerdem die höchste Varianz. Die Gewichte hätten in der Schwere variieren können. Er hätte auch den Zeitraum variieren können.	
+332	2	2	2	a. Plastikart D ist am stabilsten und unempfindlich auf Masseeinwirkungen b. Gewichtsangabe und ursprüngliche Länge der Plastikart angeben	
+333	2	3	2	Der Kunststoff wird durch das Gewicht länger - mehr Proben durchführen - Unterschiedlich dicken Kunststoff verwenden	
+334	2	0	0	1.erst mal um ehrlich zu sein, ich habe kein Ahnung davon 2. es reicht wenn der ein Plastikart zu verwenden	
+335	2	2	2	Es lässt sich schlussfolgern, dass sich die Proben wie erwartet gedehnt haben.  Es sollte präzisiert werden, womit und wie geklebt werden soll (punktuelles oder flächiges Kleben).	
+336	2	3	2	a. Polymer B hat die größte Dehnbarkeit, A die niedrigste. b. Benutze eine längere Probe Mehr als 2 Versuche	
+337	2	0	0	verstehe die frage nicht	
+338	2	3	2	a) Plastikart B ist dehnbarer als Plastikart A b) Mehr Durchläufe würden die statistische Signifikanz des Experiments verbessern. Proben bei unterschiedlichen Zeiten messen nicht nur nach 5 Minuten Krafteinwirkung.	
+339	2	3	2	Die Plastikarten haben sich bei 2 gleichen Versuchsdurchläufen unterschiedlich gestreckt, dass heisst das Plastiik verhält sich nicht immer gleich. b.) die selbe länge bei beiden Versuchen und bei jeder Probe , die gleiche Anzahl an gewichten	
+340	2	3	3	a B und D  dehnen sich am meisten daten sind im zweiten durchlauf recht ähnlich also relativ gute ergebnisse b  mehr Durchläufe andere befestigung am tisch	
+341	2	2	2	a. Es fehlt die Angabe der Größe der Proben b. Alle Proben müssen gleich groß sein und gleich schwer sein	
+342	2	1	2	Dadurch, dass D1 und D2 immer abweichen (bis auf Plastikart D) zeigt sich bzw. lässt sich schlussfolgern, dass man keinen festen Wert aufschreiben kann, da es immer etwas abweicht. Verbessern könnte man den Versuch insofern, dass man mehrere Versuche D1 - D10 (z. B.) durchführt und davon den Mittelwert nimmt, damit man die Abweichung so gering wie möglich erhält.	
+343	2	2	2	a. Kunststoff A und B haben sich gestreckt, Kunstoff D hat die Länge behalten und Kunstoff D soll sich gar verkürzt haben b. Die Länge der Kunstoffteile sollte zu Beginn der Messung identisch sein. Vernünftigen Schraubstock benutzen, statt zu kleben, da Klebeflächen und -Stärken verschieden sind (je nach Kunststoff). Temperatur sollte zwischen den Messungen stabil sein.	
+344	2	1	0	Der Polymer ist insgesamt um 22 und 23 mm gewachsen, also um 45mm insgesamt. Man hätte noch verschiedene Gewichte nehmen können, wodurch man andere Ergebnisse bekommen hätte.	
+345	2	3	3	a) Jede der Proben dehnt sich unterschiedlich aus, allerdings  pro Zeiteinheit annähernd gleich viel. b) Zuerst hätte der Schüler die ursprüngliche Länge der Proben angeben sollen. So hätte er die prozentuale Ausdehnung berechnen können. Er hätte ausserdem zum Vergleich noch mindestens eine Messreihe mit anderen Gewichten durchführen können.	
+346	2	1	1	a.)  Während einige Kunststoffe (A, B) an Länge gewinnen, bleiben Andere (D) stabil, oder (C) verkürzen sich sogar noch. b.)  Statt eines chemischen Klebers zum Zwecke der Fixierung des Kunststoffes am oberen Ende, welcher manipulierend auf die Beschaffenheit des Kunststoffes einwirken könnte, sollte eine Mechanische gewählt werden, z. B. per Klammer.	
+347	2	0	1	Er hätte die Prozedur wiederholen können und D2 auf D1 abstimmen können.	
+348	2	1	1	Er konnte bessere Befestigung auswählen. Mann könnte alle proben gleiczeitig durchführen	
+349	2	1	2	4 gleichlange Proben verwenden, die Proben an einer dafür vorgesehenen Vorrichtung aufhängen und nicht an den Tisch kleben, die Länge im gestreckten zustand messen um einen weiteren Vergleichswert zu haben.	
+350	2	1	1	a. Das Experiment wurde nicht exakt gleich durchgeführt. b: Die Befestigung von Klammer und die am Tisch hätte jeweils genau gleich erfolgen müssen	
+351	2	0	2	Schlußfolgerung: Kunststoff A ist am dehnbarsten. Mögliche Verbesserungen: 1. Stelle sicher, dass die Raumtemperatur für jeden Versuchsdurchlauf konstant die selbe ist. 2. Stelle sicher, dass die Lichtverhältnisse für jeden Versuchsdurchlauf konstant die selben sind.	
+352	2	1	1	a.: Polymerkunststoff A scheint sich mehr zu dehnen wenn er länger einem Gewicht ausgesetzt ist, bei den anderen ist die Differenz zu gering bzw. nicht vorhanden. b.: schwerere Gewichte nutzen; Länge der Kunsstoffe ohne Gewicht messen.	
+353	2	0	0	Folgen Sie der Verordnung, die Forscher Ihnen geben, ist wichtig für die Wirksamkeit	
+354	2	1	0	a. Plastikart A ist mit 2 mm am dehnbarsten. Danach folgt Plastikart B. Plastikart D lässt sich nicht dehnen und Plastikart C verkürzt sich sogar um 1 mm. b. Höhere Stichprobenanzahl. Höhere Ausgangsvarianz.	
+355	2	2	2	Nagel zu benutzen statt Kleber, um die Kunststoffprobe besser festzuhalten , und vielleicht schwerer Gewichte zu benutzen . mindestens 3 Durchlauf führen	
+356	2	1	2	a.Bei D gab es keine weitere Streckung nachdem der zweite Durchlauf durchgeführt wurde  b.Einheitliche Länge der Kunststoffproben Einheitliche Position an der Probe an welcher der Klebstoff oder Klebestreifen angebracht wird	
+357	2	0	0	Plastikart D; Dehnbarkeit null	
+358	2	1	2	Man sollte  probieren ab welchem Gewicht sich der Kunststoff verlängert.Auch längeres hängen könnte helfen	
+359	2	1	0	die Maße sind wichtig und die Klammern seine Verwendung ist unerlässlich und die Länge muss genau sein das Harz ist variabel und sie sind 4	
+360	2	0	2	- Messung im Vakuum - Messung unter einheitlicher Temperatur	
+361	2	1	0	a.  Plastikart A wird dehnbarer wären B C D konstant bleiben.  b.  Kunststoffprobe an der Unterseite des Tisches befestigen damit die Kraftwirkung grade zum Boden ist.        Weitere Durchgänge.	
+362	2	2	1	a. Die Kunststoffproben haben sich in beiden Durchläufen fast um die selbe Länge verlängert. b. Die absolute Dehnung in mm sagt wenig aus, für hilfreiche Messdaten sollte man diese auf die Gesamtlänge beziehen. Man sollte auch unterscheiden zwischen elastischer/plastischer Verformung, nach einer gewissen Zeit könnte die Verformung wieder zurückgehen.	
+363	2	1	0	Eine mögliche Verbesserung wäre eine Änderung der verwendeten Kunststoffsorten. Legen Sie verschiedene Gewichte und berechnen Sie die Punkte der Plastizität und Bruch.	
+364	2	1	0	Die durch die Analysen aufgezeichneten Daten besagen, dass in allen Experimenten eine Homogenität in Bezug auf die Länge der Schicht besteht, daher ist das Material relativ gleich.  Eine mögliche Verbesserung wäre eine Änderung der verwendeten Kunststoffsorten. Legen Sie verschiedene Gewichte und berechnen Sie die Punkte der Plastizität und Bruch.	
+365	2	2	3	Die Plastikarten haben aufgrund verschiedener Molekularstrukturen eigene beschafenheiten. Wärme Untersuchung sollte angebracht werden. Sowie eine Gewichts / Massebestimmung	
+366	2	0	0	vikt av material temperatur	
+367	2	0	2	die Temperatur der Umgebung hätte Einfluss gehabt...  eine andere Klemme nutzen...( größere Haltefläche )	
+368	2	0	1	a) Die Plastikarten A und B sind minimal streckbar, C ist weniger streckbar geworden und D ist so geblieben. b) Der Schüler hätte die genaue Bezeichnung für die Plastikart benutzen sollen, anstelle von A,B,C und D. Auch sollte der Versuchsdurchlauf besser gekennzeichnet werden, z.B. die Durchläufe genauer unterteilen.	
+369	2	0	0	Beim ersten Durchlauf strecken sich die Proben des Kunststoffes sehr. bei dem 2. Durchlauf nur noch 0.2mm. mir fallen keine 2 weitere Möglichkeiten ein.	
+370	2	1	1	der zweite durchgang hat andere werte.eine weitere kunststoffprobe nehmen und das ganze noch einmal wiederholen.	
+371	2	0	0	Diese Eigenschaften können unter Anwendung standardisierter Testmethoden untersucht und in verschiedenen Produkten verglichen werden.	
+372	2	2	2	Plastikart A hat sich am stärksten ausgedehnt. Der Schüler könnte einheitlich Große Plastikstücke verwenden. Ebenso wäre eine Messung bei Belastung (und nicht nur nach Belastung) der Plastikstücke interessant.	
+373	2	1	0	vorher auch messen dauer verlängern	
+374	2	1	3	a) Je nach Material wird es sich mehr dehnen b) nehmen Sie Gewichtsmessungen vor C) hängen von der Decke	
+375	2	2	3	Entweder er hat jeweils 2 mal die gleiche Probe verwendet und die Dehnbarkeit variiert bei der Wiederholung oder er hat neue Proben verwendet, die eine andere Länge oder Dicke hatten oder die Gewichte waren nicht gleich schwer oder die Außenbedingungen haben sich geändert (z.B. Temperatur) oder er hat einfach ungenau gemessen. Er hätte jedes Mal eine neue Probe jedes Kunststoffs nehmen müssen, die alle exakt gleich lang, dick und schwer waren. Er hätte die Temperatur im Raum konstant halten müssen.	
+376	2	1	1	Der Schüler wurde vertrauter und konsistenter während des Versuches. Direkt mehrere Versuche an einer Kunststoffprobe durchführen. Mehr als zwei Versuche pro Kunststoffprobe durchführen.	
+377	2	2	3	a. Alle Kunststoffe sind dehnbar b. Länge zu Beginn notieren Gewicht der Gewichte notieren	
+378	2	0	0	Nimm eine Probe von einem Kunststoff und miss seine Länge. Klebe die obere Ecke der Kunststoffprobe an einen Tisch, sodass sie frei an der Seite des Tisches herabhängen kann. Befestige eine Klemme an der unteren Ecke der Kunststoffprobe. Hänge Gewichte an die Klemme und lass sie für fünf Minuten hängen. Entferne die Gewichte und die Klemme und miss die Länge des Kunststoffs. Wiederhole die Prozedur für die übrigen drei Kunststoffproben. Führe einen zweiten Durchlauf (D2) durch, der genau wie der erste Durchlauf (D1) abläuft.	
+379	2	3	3	Aus den Daten lässt sich nicht eindeutig auf die Dehnbarkeit der Kunststoffe schliessen. Wid beim 2. Durchlauf ein neues Stpck des Kunstoffes genommen, ode das bereots aus D1 verwendete? 1. Möglichkeit: Mehrere Durchläufe mit immerr wieder neuen Stücken derr Kunststoofe durchführen und den Mittelwert der gestreckten Längen über die Anzahl der Durchläufe als Mass nehmen. 2. Möglichkeit: Weitere Durchläufe mit längerer Hängezeit der Gewichte und auch Durchläufe mit gösseren Gewichten durchführen.	
+380	2	1	0	Verschiedende gewichte anbringen. Beim temperaturen unter und oben nul messen.	
+381	2	2	0	Es sind unterschiedliche Kunststoffe, da sie sich verschieden dehnen . Man kann die Länge auch messen ohne die Klemme zu entfernen. Man kann die Länge auch messen ohne das Gewicht zu entfernen.	
+382	2	2	3	a. Der Versuchsaufbau bei diesen Skalen ist eventuell zu ungenau. Da es sich nur um einige Milimeter Unterschied  handelt, könnte es mit Messungenauigkeiten zusammenhängen. Gewichte hätten nicht entfernt werden sollen.  b. Raumtemperatur könnte bei gewissen Materialien eine Rolle spielen. Messstreifen vor einem Hintergrund mit aufgezeichneten Skalen, damit  man direkt das Messresultat ablesen kann und die Gewichte nicht abnehmen muss. Dabei könnte sich nämlich der Streifen je nach Material wieder unterschiedlich schnell zurückbilden.	
+383	2	1	0	a) Plastikart A ist am dehnbarsten, b) Probe fester am Tisch befestigen, längere Zeit hängen lassen, stärkeres Gewicht	
+384	2	2	3	a. Kunststoffart B ist am dehnbarsten, danach kommt D, dann C und am wenigstens dehnbar ist A.  b. 1. Versuch noch mehrmals wiederholen und Mittelwerte errechnen.      2. Versuch von zwei verschiedenen Personen durchführen lassen.	
+385	2	0	0	NIcht am Tisch, nur am mauer	
+386	2	3	3	a)  Kunststoffe strecken sich unter druck jedoch nciht alle gleich. Es muss noch einen weiteren Grund der Dehnung geben da sie sich bei identischem versuchsablauf unterschiedlich dehnen   b) Den Kunstoff vom selben Probenszück entnehmen  bei allen Kunststoffen die selbe länge nehmen, ein längerer kunststoff streckt sich evtl lecihter wie ein kürzerer	
+387	2	2	3	A. Polymerkunststoff haben unter Einwirkung mechanischer Kraft unterschiedliche Dehnbarkeiten. b. Der Schüler hätte Angaben zu den verwendeten Gewichten in KG machen müssen und die jeweilige Anganbe in der Grafik darstellen sollen.	
+388	2	2	0	für mich würde ich weniger Gewicht oder andere Gewichte verwenden, auch etwas mehr Zeit für die Gewichte.	
+389	2	2	0	die Zeit, die sie die Gewichte verwenden, und verschiedene Gewichte versuchen.	
+390	2	2	0	Versuchen Sie mehr Zeit bei der Verwendung der Gewichte und probieren Sie verschiedene Arten von Gewichten.	
+391	2	2	0	Ich würde versuchen mit der Zeit, die sie die Gewichte verwenden, und verschiedene Gewichte auszuprobieren.	
+392	2	1	0	Für dieses Experiment müssen Sie mehrere Gewichte haben	
+393	2	0	1	Der Kunststoff konnte hängen lassen durch eine Haken. Die Kunststoffe könnten zuerst z.B. 5 min. in Wasser bleiben.	
+394	2	2	2	a. es gibt ungenauigkeiten b. gleich große kunststoffproben bei beiden durchläufen verwenden stoppuhr um fünf minuten zu messen	
+395	2	0	0	in dem er einen stab der eine Polymer schnur hat	
+396	2	0	0	Berechnen Sie in diesem Experiment die verschiedenen Zeiten	
+397	2	1	0	Probieren Sie verschiedene Gewichte aus und lassen Sie mehr Zeit, um die neue Methode auszuprobieren.	
+398	2	1	0	Es kann mit verschiedenen Gewichten und Verlängerungszeiten gemacht werden	
+399	2	1	1	Mehre Proben parallel durchführen, um genauere Ergebnisse zu erreichen. Alle Proben mussen die gleichen Abmessungen aufweisen	
+400	2	0	2	abschätzen, ob sich die Porosität des Materials verändert hat abschätzen, ob sich die Härte jedes Materials verändert hat Schlüsse ziehen	
+401	2	1	2	Die Dehnbarkeit der untersuchten Kunststoffe  ist unterschiedlich.   Man hätte die  die Proben gleichzeitig testen sollen.	
+402	2	2	2	Bei drei Proben war die Streckung unterschiedlich im ersten und zweiten Durchgang. Verbesserung: -  Kunststoffprobe nicht an Tischkante festkleben, sondern an einer Klemme befestigen                                   - Ergebnis in einer kleineren Messeinheit festlegen	
+403	2	3	2	B streckt sich am meisten A am wenigsten  bestimmte Gewichte verwenden andere befestigung des Kunststoffes	
+404	2	3	3	Die Genauigkeit scheint noch nicht sehr aussagekräftig zu sein. Das Experiment hätte man noch ein paar mal machen müssen um einen guten Mittelwert zu erhalten um die Dehnbarkeit genauer bestimmen zu können. Denn aktuell schwanken die Werte doch sehr, dafür, dass zweimal das gleiche Material mit gleichem Gewicht für gleiche Dauer belastet wurde. Bessere Befestigung der Proben am Tisch, da Kleber die Dehnbarkeit beeinflussen könnte. Weiters mehr Durchläufe um Dehnbarkeit genauer zu bestimmen - überprüfen ob Klemmen Kunststoff nicht quetschen bzw. vom dehnen abhalten.	
+405	2	2	0	a.)  er hat nicht die gleichen Rahmenbedingungen gehabt vermutlich war das Gewicht divergent  b.) 1 genau messen wie schwer die masse war 2 an einer Federwage aufhängen (Kunststoff + masse)	
+406	2	0	0	ka	
+407	2	1	1	a) Plastik A und B lassen sich immer weiter dehnen. Plastik C immer weniger und D gar nicht. b) weitere Versuchsdurchläufe.	
+408	2	2	3	a) Unterschiedliche Kunststoffe zeigen unterschiedliches Ausdehnnungsverhalten. b) präzisere Angaben, wie geklebt werden soll (punktuell, flächig etc.) b) Verwendung eines Messschiebers, um die Längen genauer zu bestimmen (mit Nachkommastelle)	
+409	2	0	0	Nehme eine Kunststoffprobe, messe die Länge, klebe eine Ecke davon an einen Tisch und hänge mit einer Klammer Gewichte daran. Nach 5 Minuten messe erneut die Länge. Die Prozedur für alle Proben durchführen und danach einen 2. Durchlauf durchführen.	
+410	2	3	2	a. Entweder der Kunststoff der verwendet wurde ist nicht derselbe für jedes Experiment, oder die Gewichte waren unterschiedlich. b. In den Daten am Ende sollte genau beschrieben sein welcher Kunststoff bei welchem Durchgang verwendet wurde und welche Gewichte benutzt wurden.	
+411	2	1	0	a. der Kunststoff ist beim zweiten Versuch schon von vornherein mehr gedehnt, also länger und wird deshalb beim zweiten Versuch mehr gestreckt  b. 1. beim 2. Versuch sollte er neue Kunststoffstücke verwenden      2. mir fällt kein Verbesserungsvorschlag ein	
+412	2	3	3	a) Kunstoff A würde am wenigsten gestreckt, B am meißten, C hat sich beim zweiten messen verkürzt, D streckte sich, blieb aber zwischen D1 und D2 konstant b) Schraubstock statt festkleben am tisch, Ausgangslänge der Kunststoffe sollte gleich lang sein, genormte stellen für die Befestigung der Gewichtsklemmen	
+413	2	0	0	könnte das Polymer in die Presse geben und pressen, um zu reißen und somit die Festigkeit des Polymers zu vergleichen	
+414	2	1	0	Die obere Ecke der Kunststoffprobe an eine gleichmäßig waagrechte Stelle kleben und das Gewicht an der Klemme länger als 5 Minuten hängen lassen.	
+415	2	0	0	D. hat sich weder gedehnt noch gestreckt. Mit einer schweren Klammer, und mit anderem Material währe das Experiment anders ausgefallen.	
+416	2	0	0	das ganze Material erlag Veränderungen und erstreckte sich außer d Es ist möglich, Materialien bis zu einer bestimmten Temperatur zu erhitzen Sie können Materialien bis zu einer bestimmten Temperatur kühlen Dies wird ein Verständnis dafür vermitteln, wie Dinge in verschiedenen Klimata passieren können	
+417	2	0	0	a. Das Polymer LA hat größere physikalisch-mechanische Eigenschaften b.Es würde die Ergebnisse verbessern, um zwischen natürlichen Polymeren und systemischen Polymeren zu unterscheiden	
+418	2	1	0	Nicht alle Eliten sind gestreckt. gestreckte Eliten werden nicht um den gleichen Prozentsatz gestreckt Um zu verbessern, gibt es zwei Ansätze, ist nicht genug, und es lohnt sich, 4 für zuverlässigere Ergebnisse zu versuchen.	
+419	2	2	1	Erhöhen Sie die Anzahl der Durchgänge für jedes Material,erhöhen Sie die Zeit unter einem kleinen Gewicht	
+420	2	3	3	abschluss: Nicht alle Polymere reagieren auf die gleiche Weise auf die Dehnung. -Der Schüler hätte sicherstellen können, dass alle Proben die gleiche Länge hatten. er sollte auch Stretching mit verschiedenen Gewichten getestet haben. -Das Experiment sollte auch für alle Proben bei der gleichen Temperatur durchgeführt werden, da die Ausdehnung nicht gleich ist, wenn sich die Temperatur ändert.	
+421	2	0	0	einziehbares Stativ und Mikrometer	
+422	2	0	0	Es gibt eine normale Entwicklung im Experiment	
+423	2	0	0	Führe einen zweiten Durchgang durch (D2)   das läuft genau wie der erste Durchgang (D1).	
+424	2	0	0	1 : Klassifizierung basierend auf Polymerstruktur 2 : Rückgratstrukturen einiger wichtiger organischer Heterochainpolymere  3 : Wichtige Additionspolymere, die von Ethylen abgeleitet sind	
+425	2	0	0	sie hätten eine weitere plastikart in die probensammlung aufnehmen können um die validität zu erhöhen	
+426	2	0	0	a. Die erste Plastik ist das Instabilste, B er/sie hat sich erstreckt, aber C hat sich und Plastik, die sich D nicht ausgedehnt hat, in kleinerer Maßnahme zusammengezogen, er/sie ist gleich geblieben.  b. Die experimentelle Konfiguration, die das Volumen von den Plastiken gemessen haben, konnte, und auch seine Kapazität der Absorption.	
+427	2	0	1	a.eine Plastikprobe wurde länger b.Sie müssen die Masse der Probe angeben,  Hänge Gewichte an die Klemme und lass sie für 15 Minuten hängen	
+428	2	0	0	Seine Funktion ist es, die Leistung des Bitumens zu erhöhen  Dies erhöht beispielsweise die Toleranz gegenüber Temperatur und Kälte  Die Leistung des Bitumens wird als ""Performace Grade"" ausgedrückt und ist oft die Voraddition von Polymer PG64-10  Dh es ist in der Lage, die Temperatur bis zu 64 und die niedrigste -10 zu halten  Wenn Polymer hinzugefügt wird, wird es PG70-16  Das heißt, seine Effizienz stieg auf 70 Grad Celsius  Die Frage stellt sich: Was wäre, wenn das Bitumen PG64-10 und die Asphalttemperatur 70 oder über -10?  Wenn die Temperatur 64 übersteigt, wird die Asphaltschicht weich sein und wenn Lasten überschritten werden, wird es nicht bekannt sein  Im Gegensatz dazu, wenn die Temperatur mehr als -10 erreicht, wird das Bitumen verfestigen und Risse werden auf der Oberfläche des Asphaltbetons beginnen	
+429	2	0	0	Ein guter Methodenabschnitt beschreibt, was Sie im Labor so gemacht haben, dass es leicht zu verstehen und detailliert genug ist, um wiederholt zu werden. Befolgen Sie die folgenden Richtlinien, um Ihre Methoden zu verbessern:  Wenn Ihre Methoden nicht leicht zu befolgen sind, können Sie jemanden bitten, ihn zu lesen. Bitten Sie ihn oder sie, Orte in der Prozedur zu identifizieren, die nicht klar sind, und dann diese Orte für mehr Klarheit zu überarbeiten. Es kann hilfreicher sein, Wörter einzubeziehen, die dem Leser helfen, dem Prozess des Experiments zu folgen: Schritt 1, Schritt 2, Schritt 3; zuerst, dann, schließlich; erster zweiter Dritter; nach, als nächstes, später, folgend; etc. Wenn Ihre Methode schwer zu befolgen ist, weil sie lang und kompliziert ist, dann überlegen Sie, sie in einzelne Teile mit jeweils einer Unterüberschrift aufzuteilen. Sie können es in die typischen Teile eines experimentellen Verfahrens (wie Laboraufbau, Laborverfahren und Datenanalyse) oder, falls es mehrere Experimente gab, einen Teil für jedes experimentelle Verfahren einteilen. Wenn Sie Ihren Methoden mehr Details hinzufügen müssen, gehen Sie zurück zum Lab-Handbuch und zu den Notizen, die Sie oder ein Laborpartner während des Verfahrens gemacht haben, und verwenden Sie sie, um sich an das zu erinnern, was Sie im Labor getan haben	
+430	2	2	2	Kunststoff A und B dehnen sich, ohne in die ursprüngliche Form zurückzukehren, dehnen sich Kunststoffe C und B aus oder kehren zur ursprünglichen Länge zurück. Es ist notwendig, die Abhängigkeit der Länge des Kunststoffs von der Größe der Belastung zu untersuchen, die Belastung zu ändern oder die Anzahl der Experimente zu erhöhen	
+431	2	2	2	Kunststoff A hat die größte Dehnbarkeit, Kunststoff C hat sich verringert, Kunststoff D hat sich nicht verlängert Der Schüler sollte wiederholen und den Durchschnitt nehmen Verwenden Sie die gleichen Gewichte für jeden Kunststoff, um das Experiment fair zu machen	
+432	2	0	2	Plastik sollte an einen Hosenträger statt an einen Tisch gehängt werden. Die Schwerkraft sollte bei der Berechnung der Ergebnisse berücksichtigt werden.	
+433	2	0	3	A) Der Grad der Dehnbarkeit im zweiten Durchgang war noch größer als bei der ersten. B) 1)Wägen Sie die Waren auf elektronischen Waagen;       2)Befestigen Sie Lasten an der gleichen Stelle.	
+434	2	1	2	a-D2 dehnt sich mehr als D1 aus b-Verwenden Sie die gleichen Massen für jeden Kunststoff hänge die Massen gleichzeitig auf jeden Kunststoff	
+435	2	0	0	es scheint, dass das erste Harz am elastischsten ist.  Um die Ergebnisse zu verbessern, sollten Sie auch versuchen, welche resistenter und welche weniger teuer ist	
+436	2	0	0	Ich weiß nicht, wie sich die Ergebnisse ändern	
+437	2	1	1	a. Die Schlussfolgerung ist, dass die Probe von Polymer b am weitesten verbreitet ist, d.h. Er hat die größte Erweiterbarkeit. b. Das Experiment sollte bei einer anderen Temperatur durchgeführt werden, niedriger als und höher als Raumtemperatur	
+438	2	0	0	A ist am dehnbarsten. C ist der Messfehler, wiederhole C.	
+439	2	0	0	a. Die ersten zwei gestreckten Proben haben zugenommen b.next zwei Probe ist fast gleich geblieben Das Experiment sollte innerhalb von vier Wänden durchgeführt werden, damit es nicht mehr von Gas unterschieden wird D.use verschiedene Arten von Kunststoff, so kann es unterschiedliche Ergebnisse haben	
+440	2	0	0	a. Plastikart -/+ 20% b. Masse plastikart     Temperatur	
+441	2	1	0	Die Daten variieren, da für jeden Test keine bestimmten Daten vorliegen. Platzieren Sie jedem einen Zeitwert mit unterschiedlichen Intervallen. Notieren und messen Sie die Minuten jedes einzelnen.	
+442	2	0	0	Die Plastikarten A + B sind länger geworden. Platikart D ist gleich geblieben. Und Karte C ist kürzer geworden, das scheint unwahrscheinlich. Der Test soll mit schwereren Gewichten erneut durchgeführt werden. Die Gewichte müssen auch länger als fünf Minuten bleiben.	
+443	2	2	3	Verschiedene Plastikarten lassen sich verschiedenartig dehnen. Bei dem Versuchsaufbau fehlt die Angabe der Masse, die auf den Kunststoff einwirkt und es ist nicht klar, ob sich bei D2 um vorher ungedehnte Kunststoffproben handelt.	
+444	2	2	2	a: die plastikstoffe dehnten sich gemäß der gesamt länge  b1: eine notirung der masse des gewichts, b2: eine längen angabe der plastik stücke	
+445	2	2	2	a. Die Plastikart A ist am dehnbarsten, B dehnt sich nur minimal, C zieht sich sogar zusammen und D behält stabil seine Form. b. Mir fehlt die Ursprungslänge (also noch vor D1) und ein dritter Durchlauf, um z.B. festzustellen ob die Plastikart D sich wirklich gar nicht dehnt oder nur minimal.	
+446	2	3	2	zu a: Es wird eine Probe genommen und dann gemessen. Die sich daraus ergebenden unterschiedlichen Probenlängen erschweren eine Vergleichbarkeit der Messungen. Die Unterschiede der Messungen D1 und D2 werden so verstärkt. zu b: Vordefinierte Probenlänge und Gewichte Proben nicht fest kleben, sondern einspannen. So wird eine Verfälschung des Ergebnisses durch die Eigenschaften des verwendeten Klebers vermieden	
+447	2	0	0	a) Probe D hat gleiche Ergebnisse  b) Dabei ist die Länge zu berücksichtigen, mit der das Pr Pr Pr gestartet wird.	
+448	2	3	3	Plastikart A ist am wenigsten Dehnbar, B am meisten, C wird in Versuch D2 nicht weiter gedehnt sondern gestaucht (Messfehler?), D weist die höchste Dehnbarkeit auf, ist aber nach dem D1 versuch maximal gedehnt und Versuch D2 hat keinen Einfluss mehr auf das Material.  Verbesserungen: Vorher Zuschnitt der Proben auf genau die gleiche Länge, eine optimierte Befestigung der Probe und des Gewichts an der Probe, Definition welche Masse die Gewichte hatten, selbe Temperatur der Proben	
+449	2	0	2	Kunststoff nicht festkleben, sondern gleich mit einem Haken an einem Gestell befestigen. Das Gewicht nicht vor dem Messen abnehmen.	
+450	2	3	3	a. die Kunststoffteile reagieren anders auf die Gewichte. b. Alle Kunststoffteile müssten gleich lang sein, um ein genaueres Ergebnis zu erzielen. Oder man führt den Versuch öfter durch und berechnet am Ende den Durchschnitt, somit hat man auch ein genaueres Ergebnis.	
+451	2	1	0	Kunststoffergebnis ""c"" ungültig 1)Lass es mehr Zeit mit den Gewichten. 2)Lasse die Länge nicht aus.	
+452	2	1	0	Ich glaube sie haben verschiedene Gewichte genommen, somit sind die Daten verfälscht worden. Man hätte einheitliche nehmen können, was im Beispielt nicht erklärt wird. Ansonsten fällt mir leider keine Möglichkeit mehr ein.	
+453	2	1	0	Nach entfernen der gewichte lasse die proben etwa zwischen 5 minuten und 10 minuten liegen und dann messe die ergebnisse. Lase die gewichte 10 bis 15 minuten an der probe haengen.	
+454	2	0	1	a) Kunststoff A ist am dehnbarsten, Kunststoff C wird irgendwann reißen b) fester stationärer Aufbau aller Probestoffe mit angebrachter Längenskala	
+455	2	0	1	Sie sollten jedes Gewicht tabellarisch darstellen und diese mit jedem Material vergleichen, so dass Sie wissen, welches resistenter ist	
+456	2	0	1	Sie könnten die Gewichte, die für jeden Kunststoff hängen, tabellarisch aufschreiben und ihren Anteil entsprechend dem Material sehen, das als Kunststoff verwendet wird	
+457	2	3	2	a. Plastikart A hat die stärkste Dehnbarkeit, während Plastikart D die schlechteste hat (kein messbarer Unterschied). Bei Plasikart C ist dem Schüler scheinbar ein Fehler unterlaufen. b.-Er sollte auf eine gleiche Dicke bzw. Breite der Plastikstücke achten, zumindest unter dein einzelnen Plastikarten. -Er sollte das Experiment mindestens drei mal durchführen und den Mittelwert aus den einzelnen Längendifferenzen bilden.	
+458	2	0	0	- wird der Kunststoff im zweiten Durchgang wiederverwendet (D2)?	
+459	2	0	2	Meine Schlussfolgerung ist dass Plastikart A und B dehnbarer werden, wenn sie schon einmal gedehnt wurden, Plastikart C wird dagegen weniger dehnbar, und Plastikart D bleibt gleich. Zur Verbesserung des Versuchsaufbaus hätte man genauer überprüfen müssen, ob der Kunststoff nicht zuvor schon einmal gedehnt wurde. Und vielleicht auch vorgedehnten mit unvorgedehntem von der gleichen Sorte Seite an Seite vergleichen sollen?	
+460	2	2	3	Man sieht bei den einzelnen Werten, dass es jeweils kleine Abweichungen zwischen beiden Durchläufen gab, außer beim vierten Kunststoff. Hier könnte als ein Mittelwert gebildet werden, um ein halbwegs brauchbares Ergebnis zu erhalten. Kunststoff A hat sich aber am wenigsten gedehnt, Kunststoff D am meisten. Kunststoff A hätte demnach die höchste Festigkeit, Kunststoff D die geringste. Für ein genaueres Ergebnis hätte man mehr Durchläufe machen müssen oder aber gleich einen Zugversuch zur Bestimmung der Dehnbarkeit.	
+461	2	0	0	a. Laut Statistik verlängert sich schon nach 5 Minuten die Länge des Kunststoffes je nach Art zwischen 0-2 mm. b. An die Klemme statt Gewichte ein Seil binden, diesen dann voller Kraft ziehen, oder an einen Spann- verschlussgerät befestigen und gestrafft halten.	
+462	2	0	0	Weicher Kunststoff dehnt sich durch das Gewicht aus, Plastikart D ist wahrscheinlich sehr hart.	
+463	2	2	1	a) Plastikart B ist am dehnbarsten b) unterschiedliche gewichte nehmen; für die durchläufe die selben (keine neuen) proben nehmen	
+464	2	2	2	a. Die Messungen sind entweder verfälscht oder es gibt einen weiteren Faktor, der zu unterschiedlichen Ergebnissen führen lässt. b. Mit welcher Entfernung zum unteren Rand wird die Klemme befästigt? Wie werden die Gewichte entfernt, sodass es nicht zu weiterer Energiezufuhr auf den Kunststoff kommt?	
+465	2	1	1	wieviele Gewichte werden angehängt? welche Plasikaten werden verwendet?	
+466	2	3	0	Die Ausgangssituation war nicht gleich, da Ergebnisse unterschiedlich. Es hätten unterschiedlich schwere Gewichte zum Einsatz kommen können. Dann könnte man sehen, aber welchen Gewicht, welcher Kunststoff eine Reaktion zeiget Es hätte in der Hängezeit variiert werden können, um zu sehen, wie lange es dauert, bis ein Kunststoff auf das Gewicht reagiert	
+467	2	0	1	Eventuell interessiert die ausgangsgröße.	
+468	2	0	0	bessere Proben aus polymerem Kunststoff,  Wiederhole die Prozedur für die übrigen drei Kunststoffproben	
+469	2	2	2	Die Kunststoffe A, B und C haben sich unterschiedlich gedehnt. Er hätte unterschiedlich schwere Gewichte nehmen können und mehrere Versuche durchführen können.	
+470	2	1	1	- Um die Validität der Ergebnisse zu verbessern, ist es notwendig, die Erfahrungen (mindestens drei) zu wiederholen und den Einfluss externer Faktoren wie Temperatur und Feuchtigkeit zu bewerten. - Gemäß den im Experiment erhaltenen Daten hat Probe A eine größere Dehnbarkeit und Probe C hat einziehbare Eigenschaften.	
+471	2	1	3	a) Die Dehnung des Kunststoffs hängt nicht nur vom Zuggewicht ab b) Sicherstellen dass die Längen der Proben gleich sind Sicherstellen dass die Umgebungsbedingungen (Temperatur und Luftfeuchtigkeit) geich sind	
+472	2	0	0	Je dichter das kleinere Material, desto dehnbarer	
+473	2	1	1	Die Durchgänge wurden nicht exakt durchgeführt, sonst wären die ergebnisse gleich. Richtige befestigung am Tisch (nicht Kleben). Direktes messen ""am Tisch"".	
+474	2	0	2	materialtemperatur umgebungstemperatur	
+475	2	2	2	Plastikart D hat sich um den gleichen Wert gestreckt ist somit konstant. Man sollte aber noch min. 8 weitere Durchgänge machen für die Präzision/Genauigkeit. Plastikart B ist am ""weichesten"" , da es sich am meisten gedehnt hat. Plastikart A ist am ""härtesten"" -> geringste Dehnung.	
+476	2	2	2	Die Plastikart B und D sind am dehnbarsten. A und C hingegen nicht. Verbessern könnte man die Validität der Ergebnisse, wenn mehr häufiger misst als nur 2 mal.	
+477	2	0	2	er sollte neue Kunststoffproben verwenden. er hätte eine Art Drehbank verwenden können für den  Test.	
+478	2	0	1	Die Plastik wurde gedehnt. Versuchaufbau kann mit der Gewicht verbessert werden können.	
+479	2	0	2	Während die Plastikarten A und B in Länge zugenommen haben, ist C sogar zurück gegangen und D gleich geblieben. Den Test könnte man evtl. wiederholen in den man die Plastikfäden an beiden Enden zieht und misst wie viel Kraft aufgewendet werden muss, bis sie reißen. Dies wiederholt man mehrmals, um die Grenze zu finden.	
+480	2	3	3	Schlussfolgerung: unterschiedliche Dehnung je nach verwendeten Material,  B und D sowie A und C sind sich recht ähnlich.    Gewicht sollte definiert werden, damit sichergestellt werden kann dass dieses gleich schwer ist Die Kunststoffe sollten gleich Länge haben	
+481	2	1	1	Länger hängen lassen. Noch einmal strecken.	
+482	2	0	2	Temperatur des Plastiks  genauere Messgeräte	
+483	2	1	2	Im 2. Durchlauf neues Plastik nehmen, Gleiche Gewichte nehmen	
+484	2	2	1	der Kunststoff vergrößerte seine Länge. Lass es mehr als fünf Minuten hängen. sie könnten verschiedene Gewichte verwenden.	
+485	2	0	0	man misst wie sich der kunststoff unter zugkraft der gravitation verformt. man misst die länge am anfang und am ende nach.	
+486	2	2	3	Plastikart B und D sind deutlich dehnbarer im Vergleich zu Plastikart A und C.  Das Experiment könnte verbessert werden, wenn angegeben wäre, wie lange die Gewichte an  den Plastikarten hingen und wie schwer diese waren.  Zudem könnte versucht werden bis zum Reißpunkt zu dehnen.	
+487	2	1	2	a) alle polymerkunststoffe sind gestreckt außer probe C b) 1.er hätte mehrere polymehrkunststoffe von der gleichen art benutzen sollen und die neben einander stellen und dan die ergebnisse mit einander vergleichen  2.er hätte auch doppelte gewichte benutzen sollen und dan gucken ub die auch doppelt gestreckt sind	
+488	2	1	2	a. Die Streckung der Plastikarten erhöht sich nur minimal im zweiten Durchlauf bei der gleichen Wartezeit  b. Stärkerer Kleber zur Befestigung des Plastiks oder andere Befestigungsart wie zum Beispiel eine Schraube	
+489	2	3	3	A. Keine Schlussfolgerung möglich, da die jeweilige Ausgangslänge der Kunststoffe nicht angegeben wurde  B. Angabe der jeweiligen Ausgangslänge der Kunststoffe. Angabe der prozentualen Streckung der jeweiligen Kunststoffe.	
+490	2	1	1	Um die Validität der Ergebnisse zu verbessern, ist es notwendig, die Erfahrungen (mindestens drei) zu wiederholen und den Einfluss externer Faktoren wie Temperatur und Feuchtigkeit zu bewerten. Gemäß den in dem Experiment erhaltenen Daten hat die Probe A eine größere Dehnbarkeit und die Probe C hat einziehbare Eigenschaften.	
+491	2	1	2	a) Nachdem der Test auf die Dehnbarkeit von 4 unterschiedlichen Polymerkunstoffen durchgeführt wurde, konnte man bei drei der vier getesteten Kunstoffen eine Verformung messen, und zwar wurde die Plastikart A um 2 mm gestreckt, Plastikart B um 1 mm gestreckt, Plastikart C wurde um 1 mm gestaucht und Plastikart D wurde weder gestreckt noch gestaucht. b) Methode 1: Anstatt die Kunstoffprobe an die Ecke des Tisches zu kleben, hätte man besser ein Schraubstock benutzt.  Methode 2: Gleichgroße Plastikstücke benutzen um eine bessere Validierung zu erhalten.	
+492	2	0	0	Folgen Sie der Verordnung, die Forscher Ihnen geben, ist wichtig für die Wirksamkeit	
+493	2	1	1	- Gemäß den im Experiment erhaltenen Daten hat Probe A eine größere Dehnbarkeit und Probe C hat einziehbare Eigenschaften.  - Um die Validität der Ergebnisse zu verbessern, ist es notwendig, die Erfahrungen (mindestens drei) zu wiederholen und den Einfluss externer Faktoren wie Temperatur und Feuchtigkeit zu bewerten.	
+494	2	2	2	a. Es gibt Polymere die sich durch gewichtseinfluss dehnen lassen und es gibt Polymere die standhafter sind. b. 1. Die unrsprungslänge des Poymers      2. die Polymerart	
+495	2	0	0	.	
+496	2	1	1	welche plastikart, welche gewichte	
+497	2	0	0	a. Schlussfolgerung :  Polymerkunststoffe  A,B haben sich ausgedehnt, D hat sich nicht verändert und  Kunststoff C hat  geschrumpft	
+498	2	0	1	um wie viel hat der Kleber nachgegeben wie groß ist das loch geworden wie schwer waren die Gewichte	
+499	2	1	1	a) Man kann feststellen, dass das selbe Material unterschiedlich gestreckt wird b) Schwer zu sagen wie er die Ergebnisse hätte verbessern können...eventuell ist das Messkonzept nicht zu 100% logisch und man hätte dieses anders darstellen können	
+500	2	0	0	Folgen Sie der Verordnung, die Forscher Ihnen geben, ist wichtig für die Wirksamkeit	
+501	2	1	1	- Welche Kunststoffe wurden verwendet - Wenn ein Kunststoff länger ist, kann man ihn auch einfacher auseinanderziehen - Länge des ungestreckten Kunststoffes	
+502	2	2	3	a) Verformbarkeit: D>B>C>A b) Versuch insgesamt 3x exakt gleich durchführen und Mittelwert bilden       obere Ecke auch einspannen, nicht festkleben, Zeit variiren	
+503	2	2	2	Keine Angabe über die Länge des Kunststoffteils. Kunststoffteile von gleicher Länge wären für einen Vergleich geeigneter. Alternativ eine prozentuale Angabe der Dehnung als Ergebnis sinnvoller. Statt der NAmen ABC wäre es für eine Ergebnisbetrachtung relevant um welche Kunststoffe es sich handelt.	
+504	2	3	1	Die Plastikart B ist am dehnbarsten, gefolgt von D, C und A.  Verbesserungsmöglichkeiten: 1. Man hätte den Versuch mit unterschiedlichen ""Hängezeiten"" durchführen können. 2.  Man hätte den Versuch mit unterschiedlichen Gewichten durchführen können.	
+505	2	2	2	Je mehr Durchläufe, desto akurater der Mittelwert - mehr Messungen Exaktere Bedingungen (welche Gewichte? Immer an der exakt selben Stelle? Zeitmessung mit Stopuhr?)	
+506	2	1	1	Er hätte eine längere Zeit abwarten können. Außerdem hätte er eventuell mehr als zwei Versuchsreihen durchlaufen lassen können, um das Ergebnis zu festigen.	
+507	2	0	1	Schlussfolgerung: A und B leiern aus, während C und D gleich bleiben bzw. sogar sich verhärten. Verbesserungen: Digitale Überwachung des Ablaufs; parallele Vergleichsaufbauten zur besseren Analogie.	
+508	2	0	0	Antwort C hat sich wieder zusammen gezogen. Art des Kunststoffes.	
+509	2	1	1	Probe A zeigt eine größere Dehnbarkeit und Probe C zeigt einziehbare Eigenschaften.  Um die Validität der Ergebnisse zu verbessern, sind mehr Wiederholungen erforderlich	
+510	2	1	2	- Gemäß den im Experiment erhaltenen Daten hat Probe A eine größere Dehnbarkeit und Probe C hat einziehbare Eigenschaften.   - Um die Validität der Ergebnisse zu verbessern, ist es notwendig, die Erfahrungen zu wiederholen und den Einfluss externer Faktoren wie Temperatur und Feuchtigkeit zu bewerten.	
+511	2	2	1	wenn ein material einmal gedehnt wurde lässt es sich danach nicht mehr so weit dehnen sondern nur noch um ein bruchteil.  verbessern durch das heranhängen verschiedener gewichte  und mehr durchgänge	
+512	2	2	3	a) Plastikart B dehnt sich am meisten, Plastikart D am zweitmeisten, Plastikart C am drittmeisten und Plastikart A am wenigsten (jedenfalls absolut, für den prozentualen Vergleich müssten zuvor gleiche Längen aller Plastikarten sichergestellt werden). Für die Plastikart A ist außerdem die Abweichung zwischen den Durchgängen am höchsten, für die Plastikarten B und C ist sie geringer und Plastikart D scheint in beiden Durchgängen gleichermaßen gedehnt zu werden.  b)  Sicherstellen einer gleichbleibenden Temperatur innerhalb des Versuchsaufbaus (möglicher Einfluss von Hitze auf Dehnungsverhalten); gleiche Länge aller Plastikarten zu Beginn der Versuchs	
+513	2	1	1	Mehr Versuche= besseres Ergebnis.	
+514	2	3	2	Die Kunststoffe A und C sind nicht so dehnbar wie B und D.  Man sollte mehr als zwei Messungen durchführen, um durch die Standardabweichung festzulegen, ob die Ergebnisse signifikant sind. Unterscheidliche Gewichte für mehere Messreihen verwenden.	
+515	2	0	0	Folgen Sie der Verordnung, die Forscher Ihnen geben, ist wichtig für die Wirksamkeit	
+516	2	1	2	Plastik A, B und D dehnen sich gleich oder mehr beim 2. Versuch. Nur C dehnt sich weniger.  Er sollte die Proben nicht am Tisch ankleben sonder mit einer festen Verbindung anbringen die konstant bleibt	
+517	2	0	0	- Der Schüler zeigt die Variation verschiedener Polymere.	
+518	2	0	1	es kann geschlossen werden, dass das Material A dasjenige ist, das eine größere Dehnbarkeit der untersuchten Materialien aufweist, und das Material C dasjenige ist, das eine geringere Dehnbarkeit aufweist. Sie können sogar von einem versenkbaren Effekt sprechen.  Die Studie kann verbessert werden, einschließlich Daten über den Einfluss von Temperatur und Feuchtigkeit auf die zu verwendenden Materialien. Andere Materialien können hinzugefügt werden.	
+519	2	0	0	Sample A ist am meisten erweiterbar und Sample C ist einziehbar.  Sie können die Umgebungsbedingungen wie Temperatur und Luftfeuchtigkeit variieren, um zu sehen, wie sie die Ergebnisse beeinflussen.	
+520	2	0	0	Probe A ist das am meisten dehnbare der vier Polymerharze. Probe C ist einziehbar.  Unterschiedliche Materialdicken können bewertet werden Verschiedene Umgebungsbedingungen von Wärme und Feuchtigkeit können bewertet werden.	
+521	2	0	0	versuchen Sie, die Leistung zu verbessern	
+522	2	2	1	a. Kunststoff a und b lassen sind nicht elatisch genug und ""leiern aus"". Kunststoff C ist genau das gegenteil bzw hat er sich hier vermutlich vermessen. Kunststoff D ist qualitativ hochwertig und wird von dem gewicht nicht ausgeleiert. b. Mit mehr gleichen Proben (zb 4x C) kann man einen mittelwert bilden um so messfehler zu verringern bzw produktionsfehler auszuschließen.  Ebenfalls kann man dann mit mehreren gewichten den Versuch durchführen.	
+523	2	1	1	a) Es gibt Kunststoffe, die sich unter Gewicht ausdehnen. Es gibt Kunststoffe, sie sich unter Gewicht verkürzen und es gibt Kunststoffe, deren Gewicht sich unter Belastung nicht ausdehnt.  b) Verlängerung der Belastung durch das Gewicht - also 10 Minuten statt nur 5.  Kunststoffproben nebeneinandern aufhängen und die unterschiedlichen Ergebnisse im Foto festhalten.	
+524	2	1	1	gute Vergleichsmöglichkeit anstatt einem Gewicht eine Metallfeder am Boden befestigen und zur Kunststoffprobe ziehen verschiedene Grössen der Probe nehmen	
+525	2	2	2	Plastikart A ist am dehnbarsten. Alle Plastikarten sollten zu Beginn gleich lang sein  Es wäre besser sie nicht am tisch festzumachen sodass sie um die ecke hängen, sonder sie zb an der wand zu befestigen, wo sie gerade herunterhängen können.	
+526	2	1	2	Schlussfolgerung: Plastikart A weist die höchste Variabilität zwischen den zwei Durchläufen auf, B die niedrigste.  Verbesserungsmöglichkeiten: Erfassung der Raumtemperatur, Erfassung der Luftfeuchtigkeit.	
+527	2	2	3	Die Ergebnisse weichen in drei von vier Fällen voneinander ab. Die Frage ist, ob es an Messungenauigkeit oder an Abweichungen der Proben liegt.  Genaueres Messen Einheitlichkeit der Proben sicherstellen	
+528	2	0	1	Es ist fast zum gleichen Ergebnis gekommen. Hätten Unterschiedliche Mengen nehmen können um einen anderes Ergebnis zu erzielen.	
+529	2	3	2	Das Verhalten der Stoffe ist unterschiedlich: manche dehnen sich, je länger man dehnt, desto mehr, manche dehnen sich weniger, manche dehnen sich pro Zeiteinheit um die gleiche Strecke aus.  Er hätte die gleiche Versuchsanordnung mit unterschiedlich schwerden Gewichten untersuchen können - und so herausfinden können, ob z.B. einer der Kunststoffe reisst, wenn das Gewicht zu stark ist.  Er hätte die Kunststoffe zuvor kühlen oder erwärmen können, um zu sehen, ob sich ihre Eigenschaften dadurch verändern.	
+530	2	2	1	Ergebnisse sind identisch, Unterschiede sind Toleranzen oder Meßfehler.  Aus der Anleitung geht nicht hervor, ob die Proben gleich lang waren. Er könnte mehrere Durchgänge mit unterschiedlichen Gewichten oder Dauern durchführen.	
+531	2	0	0	a) Plastikart A und B sind länger geworden (A um 2 mm und B um 1 mm), Plastikart C ist um 1 mm kürzer geworden, Plastikart D ist so geblieben b) ???	
+532	2	0	0	verschiedene Plastikarten -werden mit Gewicht gestreckt -dananch werden ihre längern vorher und nachher gemessen	
+533	2	1	1	a. Polymer A hat die größte Formveränderung durchlaufen, Polymer D blieb augenscheinlich unverändert und Proben B und C haben minimale Veränderungen vorzuweisen. b. Er hätte längere Proben verwenden können um aussagekräftigere Ergebnisse zu erzielen und eine veränderte Befestigung verwenden welche ermöglicht die Ausdehnung der Materialien unter Gewicht zu bestimmen.	
+534	2	1	1	a) Obwohl es der selbe Ablauf war, unterscheiden sich die beiden Ergebnisse. b) 1. die Zeit genau Messen (wurde eine Stoppuhr benutzt?) 2. Parallaxe vermeiden?	
+535	2	0	0	mehr erhitzen heiß kalt schnell abwechseln	
+536	2	2	2	A) in Bezug auf D1 hatte D2 eine größere exakte Dehnung in Probe C, wo das Ergebnis eine geringere Dehnung als die anderen Proben aufwies.  B)  1. Ich denke, dass es verbessert werden könnte, indem man eine dritte Probe sammelt, mit der es mit den anderen 2 Ergebnissen verglichen werden kann und die Qualität von beiden überprüfen kann.  2. Wenden Sie mehr Minuten an, wenn die Proben hängen, statt 5 Minuten, versuchen Sie 10 Minuten beide Proben.	
+537	2	2	3	Die Kunststoffe reagieren unterschiedlich auf die Belastung. Manche gegen nach zusätzlicher Belastung stärker nach, andere werden resistenter. Die Umgebungstemperatur wäre interessant gewesen, sowie die Dicke der Kunsstoffe.	
+538	2	2	2	a. Nur bei einem Kunststoff kommt dasselbe Ergebnis in beiden Durchgängen heraus. Daraus folgt, dass der Versuchsaufbau zu ungenau ist. b. Die Befestigung könnte stabiler sein (z.B. durch einen Nagel statt Kleber). Man könnte den Versuch mit unterschiedlich viel Zeit durchführen.	
+539	2	0	0	keine Ahnung	
+540	2	2	2	Wie schwer sind die Gewichte? Wie dick ist der Kunststoff? Sind alle Proben gleich dick?	
+541	2	3	2	die Kunststoffe verhalten sich unterschiedlich, so dass keine Gemeinsamkeit festgestellt werden kann.  Statt eines chemischen Klebers, der den Kunststoff in seiner Materialeigenschaft  manipuliert, hätte man statt dessen eine z. B. mechanische Klemme verwenden sollen. Desweiteren hätte man das Experiment mit verschiedenen Gewichten durchführen sollen.	
+542	2	3	3	a) Plastikart B ist dehnbarer als Plastikart A b) 1. Die Streckung relativ zur Länge der jeweiligen Probe in Prozent angeben anstatt in Millimetern.       2. Mehr als nur zwei Durchgänge verwenden um die Statistik des Ergebnisses zu verbessern.	
+543	2	2	2	Das Experiment zeigt, dass sich die Proben ungfefähr vorhersehbar verhalten.Man hätte noch mehrere Versuchsdurchläufe machen können und es mit unterschiedlichen Gewichten durchführen können.	
+544	2	2	2	Die Daten in der Tabelle geben an um wieviel die jeweiligen Kunststoffe nach der Dehnung an Länge hinzugewonnen haben. Um die Dehnbarkeit besser verggleichen zu können, müsste in der Tabelle außerdem die Ausgangslänge der verwendeten Kunststoffe und die bei der Dehnung verwendeten Gewichte in g angegeben werden.	
+545	2	3	3	a.  Rein auf Basis der Daten ist Kunstoff B am dehnbarsten. b. Kunststoffproben gleicher Länge (geht nicht klar hervor) Statt der Befestigung am Tisch, lieber einen Haken verwenden Messen vor Entfernung der Gewichte, um Faktor der Kontraktion auszuschließen	
+546	2	2	1	a) Es lässt erkennen, dass der Schüler nicht sauber genug gearbeitet hat. Im Fall ""C"" kam es dazu, dass das Kunststoff kürzer wurde, was nicht richtig sein kann. Generell lässt sich nämlich eine Verlängerung feststellen b) Mehrere Versuche durchführen, damit man mehrere Ergebnisse (Durchläufe) hat, um einen Durchschnitt der Verlängerung zu ermitteln.	
+547	2	3	3	-Unklar ist, ob D1 mit den identischen Kunststoffproben des jeweiligen Materials gemacht wurde oder mit neuen.  Falls mit neuen: Unterschiedliche Kunststoffarten weisen eine unterschiedlich starke Dehnbarkeit auf. Die Dehnbarkeit im 2. Durchgang entspricht nur bei Kunststoff D dem 1. Durchgang, somit ist nur diese Messung reliabel und valide. Bei A, B, C erklären möglicherweise Meßfehler die Abweichungen nach oben bzw. unten (z.B. Zeit des Hängens mit Gewichten) oder nicht identische Maße/Volumen der Plastikproben A, B, C, D sowie in D1 und D2 oder Raumtemperaturveränderungen die Differenzen zwischen den Werten D1 und D2.  Verbesserungen: Plastikteile müssen alle das selbe Gewicht/Länge, Breite/Volumen haben; Raumtemperatur konstant halten (messen!), präzise  Ausmessung, wo die Klemmen am Plastik angebracht werden müssen.	
+548	2	2	1	Alle Kunststoffe wurden gestreckt. Am wenigsten gestreckt wurde Probe A. Am meisten wurde Probe B gestreckt. Validität verbessern durch Verwendung unterschiedlicher Gewichte, um zu testen wie diese sich auf die Streckung auswirken.	
+549	2	0	0	mein Schlussfolgerung dass bei D1 sich reduziert und bei D2 nicht  1- bisschen deutlicher erklären 2 - einfacher Begriefe benutzen	
+550	2	0	0	Weißt du doch nicht. Am besten du nimmst die nächste Anwort, hier steht nur Müll.	
+551	2	3	3	a. Die Kunststoffproben verhalten sich unterschiedlich, es handelt sich als wahrscheinlich um unterschiedliche Kunststoffe b. - Form und Größe der Proben muss genau gleich sein - bessere Methode zur Befestigung.	
+552	2	0	1	Er hätte neue Proben der jeweilgen Plastikart nehmen sollen	
+553	2	0	0	10 12 22 23 14 13 20 20 Entferne die Gewichte Wiederhole die Prozedur	
+554	2	2	1	Die meisten Arten wurden gedehnt, aber es ist nicht ersichtlich mit welchen Gewichten gearbeitet wurde. Dies sollte mit beschrieben werden. Eventuell noch ein dritter Versuch in dem die Zeit erhöht wird.	
+555	2	1	2	Kunststoff B dehnt sich am meisten aus, gefolgt von Kunststoff D, C und A. Wie groß die Belastung jeweils war, geht aus der Beschreibung nicht hervor.	
+556	2	2	2	a. Beim zweiten Durchlauf wurde jeder Kunststoff nur geringfügig gestreckt b. Festlegung des Gewichtes der Gewichte      Gleiche Länge jeder Kunststoffprobe	
+557	2	0	1	er sollte materialien besser befestigen	
+558	2	0	0	das habe ich auch nicht verstanden	
+559	2	1	2	Schlussfolgerung: Jede Plastikart außer D hat sich im 2. Durchlauf anders verhalten als beim ersten. Man hätte die Temperatur mit berücksichtigen müssen und die Zeit des Durchlaufs.	
+560	2	2	2	a) Unterschiedliches Plastik wird unterschiedlich start gestreckt. b) 1. Wie werden die Gewichte befestigt?      2. Wie ist die Masse der Gewichte?	
+561	2	2	1	Plastik D ist nicht verändert, während B geschrumpft ist.  Der Kunststoff sollte immer die gleiche Breite haben Den Versuch mit verschiedenen Gewichten wiederholen	
+562	2	0	0	genauer,ok	
+563	2	3	2	a.  ich wundere mich über die unterschiedlichen Ergebnisse b. gleiche Grösse der Proben, Gewichte müssen exakt gleich viel wiegen	
+564	2	1	1	a: Bei den Kunststoffen A,B und C handelt es ich möglicherweise um Thermoplastische Kunsstoffe. Bei D würde ich sagen, wurde ein Duroplast eingesetzt.  b: Die länge von 5 Minuten könnte man auf 1 Stunde erhöhen um genauere Ergebnisse zu erzielen.  Um nochmal sicher zu gehen wäre ein D3 nützlich, dann könnte man einen Mittelwert bilden, der dann relativ viel aussagt.	
+565	2	1	1	einige arten haben sich beim 2. testversuch noch mehr ausgedehnt als beim ersten mal	
+566	2	2	3	a. Es scheint als sei Polymer B am dehnbarsten. b.  Die Ausgangslänge  und der Querschnitt der Proben müssten identisch sein	
+567	2	0	0	Hallo,  leider ist diese Aufgabe für mich nicht machbar,ich war schon immer eine niete in Chemie.	
+568	2	1	3	a) A und B scheint mit zunehmender Verformung stärker zu verformen. D verändert seine Elastizität nicht mit der Verformung. Bei C ist es umgekehrt. b) Es hätten mehrere Versuche mit der gleichen Plastikart durchgeführt werden können und mehrere Durchgänge.	
+569	2	2	2	Die Dehnbarkeit von B ist am größten und dann D. A ist am kleinsten  1) Benutze längere Proben 2) Mehr als zwei Durchführung	
+570	2	0	0	Polymere sind hochmolekulare Verbindungen, deren Moleküle aus einer großen Anzahl repetitiver Atomgruppen bestehen, die durch kovalente chemische Bindungen miteinander verbunden sind.	
+571	2	2	1	die plastikarten A und B wurden beim zweiten durchlauf länger, während die plastikart C kürzer wurde, und D gleich blieb. man könnte die plastikarten länger oder kürzer beschweren. das gewicht hätte man noch angeben können	
+572	2	1	0	Die Ergebnisse zeigen: 1. Probe A und B haben sich gedehnt/gestreckt 2. Probe C ist abgebrochen (konnte das Gewicht nicht tragen) 3. Probe D ist sehr stabil und das Gewicht hatte keinen Einfluss  Verbesserungen: 1. Gewicht bei A, B und C erhöhen um die maximale Streckung zu erfahren 2. Gewicht bei C verringern 3. Die Strecken am besten per Echtzeit messen und aufzeichnen um ein Diagramm zu bekommen. Oder eben mit unterschiedlichen gewichten in einem linearen Abstand messen.	
+573	2	0	0	plastikart a b und c dehnen sich aus , d ist der stabilste	
+574	2	2	1	a) Bei dem zweiten Durchlauf ist es immer ein bisschen anders als beim ersten, aber das Resultat ist immer ähnlich.  b) Größere Masse     Längere Zeit hängen lassen	
+575	2	2	1	A ist der dehnbarste Kunststoff, während C der am wenigsten dehnbarste Kunstoff ist und sich sogar verkleinert.  Der Versuchsaufbau könnte durch die Verwendung von verschiedenen Gewichten und verschiedenen Zeiträume verbessert werden. Eventuell sollte auch jeder Kunststoff ohne Gewicht aufgehängt werden um einen genauen Vergleichswert zu haben.	
+576	2	2	3	- unterschiedliche kunststoffe werden unter druck unterschiedlich stark gedehnt  - verbesserung: angabe der temperatur bzw. immer gleiche temperatur, dehnung an beiden seiten gleich stark, statt nur an einer seite	
+577	2	2	1	der schüler sollte die schwere der gewichte angeben und ggf. mit verschiedenen gewichten experimentieren	
+578	2	2	0	Die Schlussfolgerung ist für mich nicht eindeutig.  Nur 2 der 4 Streifen haben sich gedehnt. Ein Streifen ist kleiner geworden und bei einem gab es keine Veränderung. Eindeutigere Ergebnisse könnte man evt. erzielen wenn man das Gewicht erhöht welches an den Streifen hängt oder die Zeit verlängert statt 5 vielleicht 15 Minuten hängenlassen	
+579	2	2	2	a.  Das Material beeinflusst die Dehnbarkeit des Polymerkunststoffes. Je nachdem was für ein Stoff es ist, dehnt der Kunststoff stärker aus. b. Das Gewicht mittig an das Kunststoffrohr hängen und nicht an eine Ecke.  Alle Kunststoffrohre auf die Anfangslänge bringen/sägen, da hier nicht steht ob die alle gleich Lang sind.	
+580	2	3	3	a. - Versuch zu Plastikart A sollte wiederholt werden, da eine sehr hohe Abweichung von 20% erhalten wurde.      - Plastikart B dehnt sich am meisten und Plastikart A am wenigsten b. - Länge der Kunststoffstücke vorher und nachher angeben.      - Masse der Gewichte angeben.	
+581	2	3	3	a) Die Messdaten weichen nur gering voneinander ab, was darauf schließen lässt, dass das Experiment gut reproduzierbar ist. b) Um aussagekräftige Ergebnisse zu erzeugen sollten alle Proben die selbe Form und Länge besitzen. Statistisch gesehen kann man erst mit 3 Datensätzen eine Schätzung der Messgenauigkeit machen.	
+582	2	2	2	Der Polymerkunststoff B ist am dehnbarsten. Danach folgen B, C, und A. Die Validität der Ergebnisse wäre höher gewesen, wenn eine größere Anzahl Durchläufe durchgeführt worden wäre.	
+583	2	2	3	Ohne initiale Längenangaben kann nur geschlussfolgert werden, dass sich alle Plastikarten strecken. Die Verwendung einer einheitlichen Länge würde den Versuchsaufbau verbessern. Alternativ könnte die prozentuale Veränderung angegeben werden.	
+584	2	2	2	A) Der Kunststoff D hat sich unter dem verwendeten Gewicht nicht ausgedehnt. Kunststoff C hat sich komischerweise verkürzt. Der Kunststoff A und B haben sich erwartungsgemäß ausgedehnt. B) Es muss nicht nur auf die gleiche Länge sondern auch auf die gleiche dicke der Kunststoffe geachtet werden. Außerdem wäre genau zu nennen welches Gewicht genutzt wird.	
+585	2	3	3	a) Wenn ich davon ausgehe, dass alle Kunststoffproben zu Beginn die gleiche Form hatten (gleiche Länge, Breite, und Dicke), dann sind die Kunststoffe B und D dehnbarer als A und C.  b) Der Schüler hätte die Ursprungslänge, -breite, und -dicke der Proben und die Masse der Gewichte angeben können. Der Schüler hätte den Versuch bei verschiedenen Temperaturen wiederholen können.	
+586	2	1	1	a) Ansich verändert sich Kunststoff nicht allzu sehr. b)verschiedene Gewichte nutzen und unterschiedliche Zeiten um so zu schauen wie sehr sich Kunststoff maximal verändern kann.	
+587	2	2	2	Identische Länge der Kunststoffstücke Identische Gewichte, die angehängt werden	
+588	2	3	3	a) Die einzige mögliche Folgerung ist, dass die Materialien tatsächlich dehnen. Ein Vergleich zwischen den Proben ist nicht möglich, da lediglich Längenänderungen (in mm), aber nicht Dehnungen (einheitslos) erfasst wurden.  b) Erfassung der Ausgangslängen und entsprechend Berechnung der Dehnungen // Erfassung der Masse der Gewichte/Klemmen und entsprechend Berechnung der ausgeübten Kraft // weitere Werte notwendig je nach Ziel des Experiments	
+589	2	2	1	Plastikart A ist am dehnbarsten, C zieht sich bei Gewicht zusammen. Verbesserung: Einbeziehung unterschiedlicher Gewichte in die Auswertung, mehr als 2 Durchgänge durchführen	
+590	2	1	3	a.) Die Abweichungen der selben Plastikart bei unterschiedlichen Durchläufen ist sehr gering, es scheint also wahrscheinlich, dass unterschiedliche Stoffe sich unterschiedlich strecken lassen. b.) Der Schüler hätte zusätzlich das Gewicht der Kunststoffprobe messen und das Gewicht der angehangenen Gewichte angeben können	
+591	2	2	0	Drei der vier Plastikarten Dehnen  sich unter Einfluss von Gewichten  - mehrere verschiedene Gewichte an die selbe Plastikart ,aber verschiedene Stücke, hängen  - mehrere Zeiten nutzen als nur 5min 	
+592	2	2	3	a) Plastikart B hat sich absolut gesehen am weitesten gestreckt. b) Noch mehr Durchläufe, Streckung öfter messen	
+593	2	3	3	A) unterschiedliche Kunststoffarten haben unterschiedliche Längen/Dehnbarkeiten B) Anfangslänge und Endlänge messen Gewichtsangaben unterschiedlicher Gewichte	
+594	2	1	2	Für den Versuch , Kunststoff mit gleicher Länge nehmen und die Größe der GewiChef bestimmen. 	
+595	2	2	2	Wie lang ist das Material beim Ausgang mindestens? Wie viel Gewicht hängt an der Folie? Wie viel Material soll über die Tischkante herausragen? 	
+596	2	2	1	a) Die Unterschiede zwischen D1 und D2 sind gering b) Raumtemperatur erhöhen oder senken Veränderung des Zeitraums an dem die Gewichte daran hängen	
+597	2	3	3	a. Von den vier untersuchten Plastikproben hat sich Exemplar B durch die Dehnung um den größten Betrag verlängert. b.  1. Es ist wichtig, die tatsächliche Länge zu Beginn und am Ende anzugeben, um Aussagen über die relative/prozentuale Streckung, und somit über die Dehnbarkeit der Stoffe und nicht nur die Verlängerung der untersuchten Proben machen zu können. 2. Die beiden Durchläufe sollten unter gleichen Bedingungen (Temperatur, Luftdruck, -feuchtigkeit, Gewichte!!!) durchgeführt werden. Wenn das nicht möglich ist, müssen die jeweiligen Bedingungen dokumentiert und gemeinsam mit den Ergebnissen präsentiert werden.	
+598	2	1	2	a. Plastikart A dehnt sich am meisten (nicht nur die größte Differenz, auch prozentual. Bei D ändert sich als einzige Art nichts. b. Ändern der Testzeit (1. 5 min, 2. 10min, 3. 15 min); Gleiche Länge der Probe (auch gleiche Länge frei hängend) 	
+599	2	3	3	a) verschiedene Kunststoffe sind unterschiedlich flexibel. b) Die Gewichte sollten gleich sein für jeden Kunststoff und am besten auch festgelegt werden. Die Kunststoffproben sollten ansonsten vergleichbar sein? (Gleiche Dicke/Breite) Es ist nicht klar, ob D2 mit den selben Kunststoffstücken oder anderen gleicher Art abläuft	
+600	2	2	2	A,c,d,b beschreibt die Ansortierung nach Dehnbarkeit. Validität kann erhöht werden durch: gleiches Volumen der Proben , gleiche Gewichte 	
+601	2	2	2	A. A und B sind verzogen, C hat sich zusammengezogen und D ist gleich lang geblieben.  B. Er hätte mehrmals testen sollen, außerdem besser beschreiben mit wie viel Kraft gezogen wurde. 	
+602	2	3	3	Verschiedene Sorten Plastik dehnen sich unterschiedlich stark. Man könnte mehr Durchgänge machen und die Ausgangslänge der Proben vereinheitlichen.	
+603	10	0	1	hellgrau :: angenehm	
+604	10	2	1	weiß :: Die weiße Farbe reflektiert das Licht anstatt es zu absorbieren, dadurch steigt die Temperatur nicht so schnell und wird auch nicht so heiß wie der schwarze Lack. Im Experiment wurde weiß mit den besten Ergebnissen präsentiert. Die weiße Farbe ist unter Beleuchtung bis um 13°C kühler.	
+605	10	0	1	weiß :: Je heller die Farbe der Hundehütte desto kühler bleibt es im Inneren.	
+606	10	0	0	dunkelgrau :: es wird ziehmlich dunkel	
+607	10	1	0	weiß :: Die weiße Farbe absorbiert die meiste wärme und hält dadurch die Temperatur etwas kühler.	
+608	10	2	2	weiß :: Die Lackfarbe weiß wäre die ideale Farbe für die Hundehütte, da Tim und Jan's Experiment bewiesen hat, dass diese Lackfarbe weniger schnell den Innenraum erhitzt als die anderen Farben. Die anderen Farben haben im Experiment dazu geführt, dass der Innenraum heißer wird als die Farbe weiß.	
+609	10	2	2	weiß :: Die Hundehütte sollte die Farbe weiß haben. Sie hat laut dem Experimente die geringste Innentemperatur.  Eine weiße Hundehütte hat laut dem Experiment 12 Grad weniger im inneren als eine schwarze Hundehütte.	
+610	10	0	0	dunkelgrau :: Farbe im Innenraum kann durch Licht beeinträchtigt werden	
+611	10	1	1	schwarz :: bei schwarz wird es im inneren der hundehütte sehr heiss	
+612	10	1	1	weiß :: erhitzt das Innere der Hudehütte bei Sonneneinstrahlung am wenigsten im Vergleich zu den anderen Farben	
+613	10	0	0	dunkelgrau :: ich weiß es leider nicht. das ist halt so.	
+614	10	1	1	schwarz :: Schwarz wird mit Abstand am wärmsten mit knapp 53 Grad Celsius	
+615	10	2	1	weiß :: Da sich gemäß Jans und Tims Experiments bei weißer Deckelfarbe die Temperatur am wenigsten im Glas erhöht, sollte man eine weiße Lackierung für die Hundehütte wählen, um die Temperatur in ihr in den Sommermonaten gering zu halten. Allerdings ist die Hundehütte offen, das Glas hingegen dicht.	
+616	10	0	1	dunkelgrau :: - der Hund strahlt Wärme ab, je dunkler die Hütte gestrichen ist, umso wärmer wird sie.  - ""Lackfarbe""? unter Umständen geht der Hund gar nicht rein! Ich würde unbehandeltes Holz vorziehen.	
+617	10	1	1	weiß :: Die Temperatur im Inneren der Hundhütte wird bei Sonneneinstrahlung ansteigen, aber von allen gegebenen Farben am wenigsten.	
+618	10	2	2	weiß :: Je dunkler die Lackfarbe, desto wärmer das Innere der Hundehütte. Eine schwarze Hütte könnte im Sommer zu heiß für einen Hund werden. Dies ist deutlich an den Messwerten von Tim und Jan's Experiment zu sehen, bei dem die Innentemperatur des Glases bei schwarzem Deckel ca. 53 °C beträgt, während die Innentemperatur bei weißen Deckel nur ca. 42 °C beträgt.	
+619	10	0	1	weiß :: Die Lackfarbe hat einen Einfluss auf die Temperatur in der Hundehütte	
+620	10	1	1	schwarz :: Da dunkle Farben mehr Licht absorbieren wird es in der Hundehütte bei Lichteinstrahlung wärmer und heizt sich so auf.	
+621	10	0	0	schwarz :: Stimmung des Hundes und der Wahrnehmung (Lackfarbe auswahl) Farbe wirkt sich immer auf Mensch und Tier aus Häufig wird es durch Abspaltungen, Umbauten und Anbauten danach noch verändert, posttranslational modifiziert.	
+622	10	1	1	weiß :: Im Innereren der Hundehütte bleibt es bei Sonneneinstrahlung kühler wenn weiße Farbe verwendet wird.	
+623	10	2	2	weiß :: Die weiße Lackfarbe würde eine maximale Menge an Licht reflektieren und die Hütte somit am wenigsten aufheizen. Im Experiment hat weiß im Durschnitt eine ca. 11 Grad niedrigere Temperatur gezeigt als schwarz, und ca. 3  Grad niedrigere als hellgrau.	
+624	10	2	2	weiß :: die schwarze und dunkelgraue Lackfarbe dürften unter Sonneneinstrahlung das innere der Hütte stärker aufheizen als hellgrau und weiß, weil im Glasexperiment unter diesen Deckeln die höchste Temperatur im Glas gemessen wurde. Daher wäre weiß am besten geeignet, damit die Hütte sich nicht zu sehr aufheizt.	
+625	10	0	0	hellgrau :: - die Temperatur bleibt gleich, ist angenehmer für den Hund	
+626	10	1	2	weiß :: Die Hypothese scheint korrekt zu sein. Je heller die Farbe, desto kälter bleibt das Einmachglas und somit auch die Hundehütte. Weiß dürfte daher die beste Farbe sein, insbesondere für den Sommer und in wärmeren Gefilden. Im Winter sollte man die Hundehütte möglicherweise schwarz streichen (und einige Glühbirnen in 5cm Entfernung installieren...	
+627	10	1	1	schwarz :: Die  Hütte wäre  im Sommer warm und im Winter wahrscheinlich kalt, schlechte Isolierung.	
+628	10	1	1	schwarz :: Dadurch das ich ""Schwarz"" gewählt habe wird die Hundehütte sich im Sommer etwas mehr aufheizen. Dies stellt aber kein Problem dar, da diese generell einen Eingang hat der immer offen ist. Hier herrscht Luftzirkulation und senkt die Temperatur. Im Winter hingegen ist eine dunkle Farbe von Vorteil weil die Hundehütte nicht so schnell abkühlt.	
+629	10	0	1	weiß :: Je nach Farbe wird im inneren eine andere Temperatur und Luftfeuchtigkeit aufgebaut	
+630	10	1	1	hellgrau :: Die Lackfarbe wird sich auf die Lufttemperatur auswirken, je dunkler der Lack desto wärmer die Lufttempratur im Inneren.	
+631	10	1	1	weiß :: Je dunkler die farbe, desto wärmer wird die Hütte, deswegen sollte eine möglichst helle Farbe (Weiß) verwendet werden.	
+632	10	1	1	schwarz :: Schwarz macht die Hundehütte auch im Winter warm.	
+633	10	1	1	weiß :: Temperatur im Inneren steigt am wenigsten an und bleibt nahezu konstant	
+634	10	1	1	weiß :: Je dunkler die Farbe, desto wärmer wird es	
+635	10	0	0	schwarz :: es muss genug Luft in der Hundehütte sein 2 Luftgeschwindigkeit muss angepasst werden 3. es muss uahc nicht so kalt und nicht so warm in der Hundehütte	
+636	10	1	1	schwarz :: Die schwarze Lackfarbe führt infolge ihres höchsten Absorptionsvermögens erwartungsgemäß zur höchsten Innentemperatur. Weiterhin nimmt die ermittelte Innentemperatur mit abnehmendem Absorptionsvermögen ab.	
+637	10	0	1	weiß :: Je dunkler die Farbe desto mehr Temperaturanstieg.	
+638	10	1	1	weiß :: im sommer ist es nicht so heiß in der hütte, da wenig energie absorbiert wird	
+639	10	2	2	weiß :: Die Lackfarbe Weiß sollte das Innere der Hundehütte etwas kühler halten. Da wie auch Tim und Jan's Experiment gezeigt hat, weißer Lack weniger Licht absorbiert als schwarzer, und somit weniger Licht in Wärme umgesetzt wird.	
+640	10	1	1	weiß :: Die Hundehütte könnte sich im sommer so stark aufheizen, dass es für den Hund gefährlich ist. Desalb sollte man eine helle Farbe nehmen um dem Hund eine angenehme Temperatur zu ermöglichen	
+641	10	1	1	weiß :: je schwärzer die lack farbe desto höher die temperatur im inneren also weiß benutzen um  niedrigste temperatur zu bekommen	
+642	10	1	1	hellgrau :: Ich wähle hellgrau, damit die Temperatur im Winter sowie im Sommer konstant ist. Schwarz würde bedeuten, daß es heiß wird, gerade im Sommer, weiß  wäre im Sommer ideal, schwarz eigentlich nie, da weiß aber auch im Winter nicht viel Energie abgibt, da habe ich für eine konstante Temperatur hellgrau genommen	
+643	10	1	1	weiß :: Man erkennt eindeutig, dass Schwarz zu einer viel stärkeren Erwärmung führt (man kennt es auch selbst, wenn man etwas Schwarzes im Sommer trägt - Man schwitzt dort deutlich schneller, da, wie bereits herausgefunden, schwarz mehr absorbiert und demnach es ""darunter"" wärmer wird. Es ist jedoch fraglich, ob lediglich eine Dachfarbe für große Unterschiede (kleinere schon, aber nicht wie im Experiment. Es kommt wohl darauf an, aus welchem Material die Hütte gebaut wird.	
+644	10	1	2	weiß :: Das Ergebnis zeigt, dass die Innentemperatur steigt je dunkler der Deckel. Das heißt schwarze Deckel haben die höchsten Innentemperaturten und weiße die Niedrigsten (Albedo). Analog dazu dürfte der Effekt bei der Hundehütte auftreten.	
+645	10	1	1	weiß" :: Je dunkler die Farbe desto heißer wird es in der Hundehütte, wodurch der Hund nicht mehr so gut darin wohnen könnte. Deswegen sollten sie weiß nehmen, da dadurch die Wärme minimiert wird.	
+646	10	1	2	hellgrau :: Je dunkler die Farbe, desto höher die Temperatur bei Sonneneinstrahlung. Allerdings ist die Hundehütte im Gegensatz zu den Gläsern unverschlossen, daher erhöht sich die Temperatur im Innern nicht so stark. Ein Metalldeckel gibt ausserdem die Wärme schnell und kurzfristig ab. Holz speichert die Wärme und gibt sie über einen längeren Zeitraum ab.	
+647	10	1	1	schwarz :: Umso dunkler die Lackfarbe, umso höher sind die Temperaturen im Inneren des lackierten Objekts. Wobei die spezifische Anordnung des Durchgangs nur eine geringe Auswirkung auf die Temperatur hat.	
+648	10	1	1	weiß :: Desto dunkler die Farbe der Hundehütte desto wärmer wird es im inneren, wesshalb es ratsam ist eine helle farbe zu nehmen.	
+649	10	0	1	weiß :: Die Lackfarbe beeinflusst die inentemperatur. Schwarze farbe ist für winter geeignet, weiße fur sommer	
+650	10	1	2	weiß :: Je dunkler der Anstrich desto höher kann die Temperatur in der Hundehütte steigen (vgl Experiment Schwarz von 24 auf 52-54 Grad mehr als verdoppelt), eine derart aufgeheizte Hundehütte bietet dem Hund im Sommer keinen Rückzugsort.	
+651	10	0	1	weiß :: Je dunkler die Farbe, desto höher erhitz sich die Luft im inneren.	
+652	10	1	2	weiß :: Die Ergebnisse bestätigen die eingangs aufgestellte Hypothese: je heller die Lackierung, desto weniger erhitzt sich die Luft in der Hundehütte.	
+653	10	0	1	weiß :: Bei schwarzer Lackfarbe wäre die Innentemparatur der Hundehütte im Sommer sehr hoch. Im Winter spielt die Farbe vermutlich eine untergeordnete Rolle, da Schnee auf der Hütte liegt.	
+654	10	1	2	weiß :: Ich würde die hellere Farbe wählen, damit sie nicht so heiß wird, da im Experiment gesagt wird, dass die dunklen Farben mehr Energie absorbieren	
+655	10	1	2	weiß :: Die Art der Farbe des Lacks ist entscheidend für die Innentemperatur der Hundehütte. Weiß ist dabei am geeignetsten, da die Innentemperatur durchschnittlich am geringsten ist im Gegensatz zu den anderen Farben. Dies wird auch durch das Experiment von Tim und Jan bewiesen.	
+656	10	0	1	weiß :: je heller die Farbe ist , umso weniger sorbiert sie Energie ab .	
+657	10	0	1	weiß :: Je dunkler die Farbe desto heisser wird es im inneren der Hundehütte	
+658	10	0	1	weiß :: Dunkler die Farbe des Deckels, desto höher die Temperatur im Einmachglas, weil dunkle Farben mehr Energie absorbieren.	
+659	10	1	1	weiß :: Je heller um so geringer die Temperatur.Die Lufttemperatur ist farbabhängig	
+660	10	1	1	weiß :: dunkle Farben absorbieren mehr Energie. Tatsächlich ist Weiß diejenige, die die geringste Temperatur hat. es ist eine relativ niedrige Temperatur im Vergleich zu den anderen Farben.	
+661	10	1	1	weiß :: weiß, damit es nicht zu heiß in der hundehütte wird	
+662	10	2	2	schwarz :: Durch eine dunklere Farbe wird eine höhere Temperatur im inneren der Hundehütte erreicht. Je dunkler die  Lackierung des Deckels im Experiment desto höher die Temperatur  im inneren.	
+663	10	1	2	hellgrau :: Die Lackfarbe wird ebenso die Temperatur innen beeinflussen, jedoch viel weniger, da sie nicht in Glas eingeschlossen ist. Damit es im Sommer nicht zu heiß wird -> hellgrau?	
+664	10	2	2	weiß :: Die Farbe auf der Zwingerabdeckung beeinflusst direkt die Innentemperatur, weil die dunkleren Farben mehr Energie absorbieren, weshalb Lichtfarben besser sind, um eine niedrige Temperatur beizubehalten. wie im Tim- und Jan-Experiment gezeigt, wo die Anfangstemperatur 24 Grad betrug und bei einem Durchschnitt von 53, 48, 45 und 42 Grad für die Farben Schwarz, Dunkelgrau, Hellgrau bzw. Weiß endete.	
+665	10	2	2	weiß :: Die Farbe auf der Zwingerabdeckung beeinflusst direkt die Innentemperatur, weil die dunkleren Farben mehr Energie absorbieren, weshalb Lichtfarben besser sind, um eine niedrige Temperatur beizubehalten. wie im Tim- und Jan-Experiment gezeigt, wo die Anfangstemperatur 24 Grad betrug und bei einem Durchschnitt von 53, 48, 45 und 42 Grad für die Farben Schwarz, Dunkelgrau, Hellgrau bzw. Weiß endete.	
+666	10	0	1	weiß :: Weiße Farbe nimmt wenigner Wärme auf und ei gnet sich besser für empfindliche Hunde	
+667	10	0	0	hellgrau :: vikt av material temperatur	
+668	10	0	1	weiß :: je heller die gewählte Farbe....desto geringer die absorbierte Temperatur...	
+669	10	1	2	weiß :: Die Lackfarbe beeinflusst die Temperatur in der Hundehütte, da schwarzes Licht alle farben absorbiert und somit die Energie daraus zieht. Durch weiße Lackfarbe wird die Hundehütte am wenigsten warm, da weiße Farbe die meisten Farben reflektiert und somit kaum Energie aufnimmt. Das ist durch das Experiment von den Schülern bewiesen worden.	
+670	10	0	1	weiß :: je dunkler die Lackfarbe um so höher ist die Temperatur in der Hundehütte.	
+671	10	1	1	weiß :: weiß ist am besten,damit sich die hundehütte nicht zu sehr erhitzt.	
+672	10	0	0	dunkelgrau :: Lackfarben kann bei Tests mit dem Auslaufbecher in den meisten Fällen davon ausgegangen werden, dass bei einer mittleren Scherrate von 50 bis ... und folgende Effekte sich nicht signifikant auswirken:	
+673	10	1	1	weiß :: Die Hundehütten heizt sich durch Sonneneinstrahlung weniger auf - es ist kühler.	
+674	10	0	1	weiß :: je dünkler die Hütte, desto wärmer im inneren.	
+675	10	0	2	weiß :: Je größer die Dunkelheit der Farbe ist, desto größer ist der Grad der Wärmeabsorption als Grundlage dafür die Ergebnisse für schwarze Farbe  54  52  54  53	
+676	10	1	1	weiß :: Bei schwarzem Lack wird die Hütte durch Sonnenstrahlung am stärksten erhitzt, was für den Hund unangenehm, evtl. sogar gefährlich werden könnte. Bei weißem Lack erhöht sich die Temperatur in der Hütte am wenigsten.	
+677	10	1	2	weiß :: Die Temperatur im Einmachglas ist höher umso dunkler die Farbe des Deckels ist. Dieser Vorgang wird sich auch in der Hundehütte ähnlich wiederholen. Um dem Hund eine möglichst kühle Hütte zu bauen wäre eine weiße Farbe vorzuziehen.	
+678	10	0	1	weiß :: Je dunkler die Farbe, umso mehr erwärmt sich die Hundehütte bei Sonneneinstrahlung	
+679	10	0	0	weiß :: Verschließe das Einmachglas mithilfe des schwarzen Deckels, an dem ein Thermometer befestigt ist. Stelle sicher, dass die Anfangstemperatur im Glas 24°C ist. Platziere die Lampe 5 cm vom Verschluss entfernt und schalte die Lampe ein. Miss die Temperatur innerhalb des Einmachglases nach zehn Minuten und notiere dir die Temperatur als Durchgang 1. Schalte die Lampe aus und warte bis die Temperatur im Einmachglas wieder auf die Anfangstemperatur gesunken ist. Wiederhole die Schritte 2 bis 5 für die Durchgänge 2 und 3. Wiederhole die Schritte 1 bis 6 für den dunkelgrauen, hellgrauen und weißen Verschluss. Berechne und erfasse die durchschnittliche Lufttemperatur für jede Verschluss-Farbe.	
+680	10	0	1	hellgrau :: Es könnte sein dass die Farbe bewirkt, dass es im Sommer eventuell zu heiss in der Hundehütte werden könnte, wenn sie einnen schwarzen Anstrich bekommt.	
+681	10	0	0	weiß :: Weisse farbe absorbiert wenig energie.	
+682	10	0	1	weiß :: je dunkler die farbe, umso höher die Temparatur	
+683	10	1	1	dunkelgrau :: Natürlich kann man ein verschlossenes Glas nicht mit einer Hundehütte vergleichen, aber je dunkler die Lackfarbe, desto wärmer wird es in der Hütte, da dunkle Materialen mehr Energie aufnehmen und weniger Energie reflektieren. Natürlich kommt es darauf an wo die Hütte platziert ist. Wenn sie in der prallen Sonne steht, würde wahrscheinlich weiß oder hellgrau eine gute Option darstellen. Steht die Hütte im Schatten oder ist die Außentemperatur schon eher gering, empfiehlt sich dunkelgrau oder schwarz.ä  Im Innenbereich sollte die Farbe keine allzu große Rolle spielen.	
+684	10	0	1	dunkelgrau :: hält die Temperatur am konstantesten	
+685	10	2	2	weiß :: Jan und Tim haben mit ihrem Experiment ihre Hypothese bestätigt, dass dunklere Farben mehr Licht absorbieren und somit zu stärkeren Temperaturanstiegen führen. Sprich je dunkler die Lackfarbe ist, desto eher würde sich das Innere der Hundehütte aufheizen. Eine möglichst helle Farbe, weiß, ist also zum Wohl des Hundes am besten geeignet.	
+686	10	0	0	weiß :: Das Weiss hat die löweste temperatur	
+687	10	1	2	weiß :: Je dunkler die farbe der Hundehütte ist, desto mehr heizt sich das innere der Hundehütte auf. bei einer weissen oberfläche sieht man im experiment, dass am wenigsten Temperatursteigerung vorhanden ist.  soll die hundehütte also vor extremer kälte schützen zb im winter ist schwarz zu empfehlen im sommer jedoch weiss da es sonst sehr warm in der hütte wird	
+688	10	0	2	weiß :: Die Lackfarbe hat einfluss auf die in der Hütte Herrschende Lufttemperatur. In Bezug auf das Experiment eignet sich weiß am besten, da bei dunkleren Farben eine zu Hohe temperatur erreicht würde.	
+689	10	0	0	weiß :: Weiß 42, 43, 41, 42 Es ist klarer und reflektiert mehr Licht.	
+690	10	0	0	schwarz :: Schwarz 54, 52, 54, 53 Es wird weniger schmutzig und weniger Licht wird reflektiert.	
+691	10	0	0	dunkelgrau :: Dunkelgrau 48, 48, 48, 48 Es erlaubt uns, in einem nicht so dunklen Ton zu sein.	
+692	10	0	0	dunkelgrau :: Schwarz 54, 52, 54, 53 Es gibt einen dunkleren und kälteren Ton.	
+693	10	0	0	weiß :: Für das Haus der Hunde ist eine Lampe nicht notwendig, da dadurch die Temperatur sehr hoch ist	
+694	10	0	1	weiß :: Die dunkle Lackfarbe erwärmt sich mehr und leichter. Deswegen die Temperatur in der Hundehütte ist höher.	
+695	10	0	0	weiß :: die körpertemperatur des hundes verändert sich	
+696	10	1	1	weiß :: mit der weißen farbe kann man die temperatur sinken so das es drinnen nicht so heiß ist	
+697	10	0	0	weiß :: Es ist notwendig, dass diese Farbe klarer wird	
+698	10	0	0	hellgrau :: Hellgrau  44, 45, 46, 45 Hellgrau absorbiert weniger Energie und ist besser, damit es nicht schmutzig wird.	
+699	10	1	1	hellgrau :: es muss mit helleren Farben gemacht werden, damit das Temperaturniveau niedriger ist	
+700	10	1	1	weiß :: Ein weißes Dach der Hundehütte verhindert im Sommer ein überhitzen des Innenraumes.	
+701	10	0	0	hellgrau :: sollte in keiner Weise beeinflussen, da Hunde monochromatisch sehen	
+702	10	1	1	weiß :: Die Temperatur im inneren der Hundehütte  wird am niedrigsten sein.	
+703	10	1	1	weiß :: Da die Farbe weiß am wenigsten Hitze erzeugt, würde ich die Hütte weiß anmalen, damit der Hund nicht so schwitzt.	
+704	10	1	1	weiß :: durch die äussere farbe könnte es im inneren der Hütte sehr warm werden also schlecht für den Hund weiss hat die niedrigste Temperatur	
+705	10	1	2	dunkelgrau :: Ich würde ein Dunkelgrau für die Hundehütte wählen, da damit laut Experiment die Temperatur konstant bleiben dürfte und sich auf maximal 48 Grad aufheizt, wobei man beachten muss, dass die Hundehütte vermutlich eine Öffnung besitzt um dem Hund ein ein uns aus gehen zu ermöglichen. Aber konstante Temperatur ist für das Klima in der Hütte gut und sollte eventuelle Schimmelbildung bei großen Schwankungen nahezu ausschließen.	
+706	10	0	1	weiß :: Je dunkler die Lackfarbe ist desto wärmer wird es in der Hungehütte - ist die Außentemperatur übers Jahr geseheen eher kalt sollte man Schwarz verwenden. Ist das KLima gemäßigt eher hell/dunkelgrau Ist das Klima kalt sollte es schwarz sein	
+707	10	0	1	hellgrau :: im winter nicht zu kalt, im sommer nicht zu heiß	
+708	10	0	0	schwarz :: Das Innere der Hütte wird je nach Farbe unterschiedlich erwärmt.	
+709	10	1	1	weiß :: Je dunkler die Farbe, desto mehr wird absorbiert und desto höher steigt entsprechend die Innentemperatur. Weiße Farbe ist gekennzeichnet durch das geringste Absorptionsvermögen, schwarze Farbe durch das höchste Absorptionsvermögen. Besonders im Sommer könnte sich schwarze Farbe als nachteilig erweisen.	
+710	10	1	1	weiß :: Durch die weiße Farbe erwärmt sich das Innere der Hütte bei Sonneneinstrahlung am wenigsten.	
+711	10	0	1	weiß :: DIe Lackfarbe kann die Temperatur in der Hundehütte erhöhen. Je dunkler die Farbe, desto wärmer wird es nach einiger Zeit. Selbstverständlich sollte man daher die Farbe nehmen die die Temperatur am kühlsten hält.	
+712	10	1	2	schwarz :: anscheinend wird die temperatur in der hundehütte um 30°C höher, da die farbe dunkel ist. bei weiß würde die temperatur laut den ergebnissen aus dem experiment nur im ca. 18°C steigen.	
+713	10	0	1	weiß :: je dunkler die Farbe desto höher die Temperatur im inneren -> siehe Albedo	
+714	10	1	0	schwarz :: Schwarz ist die heißeste Farbe, weil es das höchste Licht und damit die Energie absorbiert und somit am bequemsten für den Anbau ist	
+715	10	1	1	schwarz :: Die schwarze Lackfarbe könnte die Hundehütte am wärmsten halten, weil die schwarze Farbe von der Temperatur am stärksten beeinflusst wird.	
+716	10	1	1	weiß :: Im Sommer währe die Hundehütte für einen Hund angenehmer, im Winter dagegen Kälter als draußen.	
+717	10	1	2	weiß :: das Innere wird nicht stark von der weißen Farbe beeinflusst und wenn es von Tim und Ian beurteilt wird, wird es nicht so heiß wie andere Farben, es ist die am besten geeignete Farbe	
+718	10	1	0	weiß ::   weiße Farben haben eine andere Fähigkeit, Sonnenstrahlung zu absorbieren als dunkle, und eine weiße Oberfläche wird durch die Sonneneinstrahlung weniger heiß; aber die langwelligen Emissionen der beiden Farben sind gleich und werden in der Nacht gleichmäßig durch Strahlung zum Himmelsgewölbe gekühlt.	
+719	10	1	1	weiß :: Tiere haben Wolle, deshalb ist es besser, im Hundehütte  eine niedrigere Temperatur zu halten. Die Farbe sollte weder eine Aggression des Hundes verursachen, noch sollte sie äußere Aufmerksamkeit auf sich ziehen	
+720	10	0	0	schwarz :: Das Kinderzimmer wird sich schneller aufwärmen	
+721	10	1	1	weiß :: Indem ich eine weiße Farbe verwende, verhindere ich, dass die Temperatur in meinem Zwinger bei Sonnenschein zu hoch wird. Der Komfort meiner Hunde wird verbessert.	
+722	10	0	0	schwarz :: Es spielt keine Rolle, ob die Umgebungstemperatur wichtig ist	
+723	10	0	0	weiß :: Wenn eine dunkle Farbe auf den Außenflächen eines Hauses verwendet wird, führt dies zu höheren Temperaturen im Inneren	
+724	10	0	0	dunkelgrau :: Die Hypothese lautet: Je dunkler die Farbe des Deckels ist, desto höher ist die Temperatur im Glas, denn dunkle Farben absorbieren mehr Energie	
+725	10	0	0	dunkelgrau :: Was die verschiedenen Farben anbelangt, die die meiste Hitze aufgenommen haben, denke ich, dass die Hauptüberlegung sein könnte, wie dunkel diese Farben waren. Ich würde denken, dass Blau und Purpur nicht so viel aufnehmen würden; es sei denn, sie waren sehr dunkelblau und lila. Hier ist eine Spektralanalyse von Wärmelampen: http://heelspurs.com/a/led/black3.gif die zeigt, wie Sie erwarten können, dass Wärmelampen die meiste Energie in Farben zum roten Ende des Spektrums emittieren, als erwartet. Das würde Orange erklären - hast du auch Rot versucht? Warum absorbierten die farbigen Flüssigkeiten mehr Wärme als die mit Papier überzogenen? Ich hoffe, dass andere Experten dazu beitragen können, aber überlegen Sie, wie die Wärmeabsorption funktioniert. Mit dem Papier ist ein Teil der Hitze ausgesetzt, und das Papier nimmt die Energie auf, überträgt sie auf das Glas (und kann auch etwas Luft zwischen den beiden haben), die es dann auf das Wasser überträgt. Im farbigen Wasserfall erfolgt die Wärmeaufnahme direkt im Wasser, was effizienter sein sollte. Hattest du eine Kontrolle ohne Färbung? Wie viel hat sich dieser erhitzt?	
+726	10	0	1	hellgrau :: durch die wahl der farbe könnte sich auch die lufttemperatur im inneren der hütte anpassen	
+727	10	0	1	weiß :: Inzwischen im Experiment von Tim und Jan wird es demonstriert, dass zu mehr Klarheit kleinere Temperatur, wenn die Hundehütte für eine warme Stelle ist, würde er/sie es von Weiß malen, und wenn es für eine kalte Stelle ist, würde er/sie es von Schwarzem malen.	
+728	10	0	0	dunkelgrau :: Die dunkelgraue Farbe hält eine konstante Temperatur, für Kinderzimmer ist dies notwendig	
+729	10	0	0	weiß :: Die Durchschnittstemperatur ist besser, wenn die Deckfarbe in der folgenden Reihenfolge ist: 1. Weiß 2 - Graues Licht 3-dunkelgrau Schwarz	
+730	10	0	0	weiß :: Ich denke nicht, dass die Farbe das Innere des Zwingers beeinflussen könnte	
+731	10	0	1	dunkelgrau :: Ich wähle eine dunkelgraue Farbe, weil bei der Wahl einer schwarzen Farbe, weil bei Verwendung von Schwarz, Pflanzen mit zu viel Hitze sterben können, und weiße Farbe nicht ausreichende Erwärmung gibt. Das zeigte das Experiment von Tim und Jan	
+732	10	1	2	hellgrau :: das Lichtgrau wird den Zwinger nur warm, aber nicht zu heiß machen, durchschnittlich 45 C, so dass er für lebende Tiere geeignet ist	
+733	10	1	2	weiß :: Weiß scheint die vernünftige Wahl zu sein. Das Experiment zeigt, dass Weiß einen geringeren Temperaturanstieg mit Wärme aufweist. Dies ist vorteilhaft für einen Zwinger, so dass keine extremen Temperaturen beobachtet werden.	
+734	10	0	0	weiß :: Der dunkle Hintergrund führt zu einem negativen emotionalen Moment. Dunkle Töne tragen außerdem bei Tieren zu einer zu hohen Innentemperatur bei.	
+735	10	1	0	hellgrau :: Hellgrau ist warm, nicht sehr heiß, also ist es am besten geeignet, da 45 Grad nicht so heiß sind	
+736	10	1	1	weiß :: Weiß war die Farbe, die in allen Tests kühler bleibt	
+737	10	1	1	weiß :: Weiße Farbe wird besser geeignet sein, da sie die Temperatur nicht wie die dunkleren Farben beeinflusst um so leichter wird die Farbe bei steigender Temperatur weniger wirksam	
+738	10	1	1	schwarz :: Die Farbe Schwarz absorbiert die meiste Energie und folglich ist die Temperatur in dem Raum, in dem die Wände schwarz gestrichen sind, höher. Dies entspricht dem Experiment	
+739	10	1	0	weiß :: Temperaturschwankungen klein aber weiß immer kälter. Es gibt 42 in den Startbedingungen und 44 in der anderen von 54 bis 54.	
+740	10	0	1	weiß :: 1. dunkle Farbe der Farbe wird die Innentemperatur kontinuierlich erhöhen. 2. Wenn die Hundehütte aus Holz ist, sollte die Farbe hellgrau sein, damit sie eine hohe Temperatur behält 3.von Tim und Jan experimentieren die dunkle Farbe absorbieren Energie, so wird es die Temperatur erhöhen 4. es wird beibehalten temperatur für einige zeit	
+741	10	0	0	weiß :: Weiß - X ° C Schwarz - 1.3 X °C	
+742	10	0	0	weiß :: Dies könnte Auswirkungen haben, da Schwarz zwar keine Farben reflektiert, diese jedoch in Abhängigkeit vom Licht weiß reflektiert. Es kann in schwarz 54 52 54 53 und weiß 42 43 41 42 unterschieden werden.	
+743	10	0	0	dunkelgrau :: Die einzige stabile Farbe ist dunkelgrau, das scheint mir die beste Wahl für das Innere der Hundehütte zu sein.	
+744	10	0	1	weiß :: Die Ergebnisse zeigen, dass Farben einen Einfluss auf die Temperatur im Inneren eines Hundehauses haben. Die Ergebnisse aus dem Experiment legen nahe, dass Weiß im Sommer und Schwarz im Winter angemessen sind.	
+745	10	1	2	weiß :: entrsprechend der helligkeit  wird das innere der hundehütte wärmer unter aussetzung von sonnenstrahlen. Weiß läst  die hütte am kältesten mit einem durchschitt von 42 grad	
+746	10	1	1	dunkelgrau :: Je nach Lackfarbe wird das Sonnenlicht anders reflektiert und somit findet auch eine andere Wärmeentwicklung im Inneren statt. Schwarz nimmt z.B. das Sonnenlicht auf, während Weiß einen Großteil reflektiert. Ich würde Dunkelgrau wählen, da diese Farbe sehr konstante Ergebnisse liefert, für alle Jahreszeiten.	
+747	10	0	0	weiß :: Ausgehend davon dass die Hundehütte wohl aus Holz statt aus Glas, und auch nicht luftdicht verschlossen sein wird, wird sich die Farbe weit weniger stark auswirken als in dem Experiment	
+748	10	1	1	weiß :: Weiß ist die ideale Farbe, nach dem durchgeführten Test hält diese Farbe die Temperaturen niedriger als die, die sie verlassen.	
+749	10	2	2	hellgrau :: Dunkel heißt sich am stärksten auf (D. 53°C), danach Dunkelgrau (D. 48°C), Hellgrau(D. 45°C) und weiß (42°C). Bei einem dunklen Anstrich wird dem Hund im Hochsommer in der Hundehütte viel zu warm. Im Frühjahr, bei bedecktem Himmel und einer geringen Aussentemperatur, könnte dem Hund bei einem weißen Anstrich zu kalt werden, da nicht genug Wärme im Inneren der Hütte gespeichert wird. Da die Hundehütte eine relativ große Öffnung hat (je nach Größe des Hundes für den die Hütte gedacht ist), darf auch der Luft-und Wärmeaustausch nicht vernachlässigt werden.	
+750	10	0	0	weiß :: Welche Stoffe dünstet der Lack bei direkter Sonneneinstrahlung aus. Wieviel Luftaustausch findet durch den Anstrich statt.	
+751	10	0	0	weiß :: Als Hypothese gilt, dass je dunkler die Farbe des Deckels, desto höher die Temperatur im Einmachglas, weil dunkle Farben mehr Energie absorbieren.	
+752	10	0	1	weiß :: Bei höheren Temperaturen können Hunde sich mehr müde fühlen. Weiß: Schritt 1: 42 Schritt 2: 43 Schritt 3: 41 Schritt 4: 42	
+753	10	1	1	weiß :: Vielleicht könnte Lachkfarbe im inneren des Hundehauses ebenfalls weiß angestrichen werden, damit diese weniger Energie absorbiert und sich somit nicht stark erhitzt, was für den Hund ja unangenehm wäre. Da wir wissen, dass weiß am wenigsten Temperatur abgibt bzw. sich am wenigsten erhitzt, wäre das wohl sinnvoll.	
+754	10	0	0	dunkelgrau :: Die temperatur von Dunkelgrau bleibt stabil	
+755	10	1	1	weiß :: Bei der weißen Farbe bleibt die Temperatur am niedrigsten und dabei nahezu konstant, was für eine Hundehütte relevant ist, wenn sie in der Sonne steht. Bei Schwarz wäre der Aufenthalt in der Hütte zu warm	
+756	10	1	1	weiß :: Damit der Zwinger möglichst bequem und so kalt wie möglich ist, sollte die hellere Farbe verwendet werden, da der Raum dadurch nicht heißer und kühler wird. Diese Farbe ermöglicht Hunden, sich sehr gut zu fühlen	
+757	10	1	1	weiß :: Damit der Zwinger so bequem wie möglich ist und einen angemessenen Komfort bietet, sollte die hellere Farbe verwendet werden, da er verhindert, dass sich der Raum weniger aufheizt und kühler wird.	
+758	10	0	1	weiß :: Im Sommer könnte eine dunkle Farbe dazu führen das sich das Innere der Hundehütte schneller aufheizt und die Hütte für den Hund unangenehm macht. Im Winter wird der Hund die Hütte wsl nicht nutzen, deshalb ist die Farbe hier ziemlich sicher egal.	
+759	10	1	1	weiß :: Experiment Ergebnisse beweisen, dass dunklere Farben mehr Energie absorbieren. Je dunkler die Farbe, desto höher die Temperatur. Deshalb sollte weiße Farbe gewählt werden	
+760	10	1	1	weiß :: Die weiße Farbe sorgt für geringeres aufheizen der Hundehütte bei Sonneneinfall, dadurch ist die Gefahr geringer, dass es dem Hund zu warm wird.	
+761	10	1	1	hellgrau :: Die Farbe hat natürlich großen Einfluss auf die Temperatur in der Hundehütte, auch wenn diese im Vergleich zum Glas im Experiment nicht verschlossen ist. Durch den Luftaustausch würde sich die Hundehütte nicht so sehr aufheizen wie das verschlossene Glas. Dennoch sollte keine schwarze Farbe verwendet werden, gerade im Sommer würde sich die Hundehütte dadurch viel zu stark aufheizen, der Hund könnte darin nicht artgerecht leben. Ich habe mich für die Farbe hellgrau entschieden, da ich eine dunklere Farbe wegen der Temperatur nicht nehmen möchte und weiß zu stark reflektiert.	
+762	10	1	2	weiß :: Bei der weißen Farbe erhitzte sich die Temperatur nicht ganz so extrem wie bei den dunkleren Farben, deshalb gehe ich davon aus, dass sich ein dunkler Lack in der Hundehütte schneller erhitzen würde und auch länger warm bleibt. Bei der weißen Farbe läuft man weniger Gefahr, dass die Hundehütte lange heiß bleibt.	
+763	10	0	0	dunkelgrau :: Dunkelgrau heizt sich am wenigsten auf, das ist für den Hund angenehmer.	
+764	10	1	1	dunkelgrau :: die lufttemperatur ist höher durch den lack	
+765	10	0	1	weiß :: Je dunkler die Lackfarbe der Hundehütte, desto stärker wird die Sonnenenergie absorbiert. Dadurch erhöht sich die Temperatur im Inneren der Hütte.	
+766	10	1	1	weiß :: eindeutig erzeugt weiß die geringste Wärme, was für das Tier von Vorteil ist	
+767	10	0	1	dunkelgrau :: es kann eine konstante Temperatur erhalten werden	
+768	10	0	0	dunkelgrau :: Gar nicht	
+769	10	0	1	weiß :: Wenn die Farbe dunkel ist, erwärmt sich der Innenraum. Der Hundehutte, der in der Sonne steht, muss nicht dunkel sein. Es ist notwendig, helle Farben zu verwenden, weil Hunde wegen der Haare heißer sind	
+770	10	1	1	dunkelgrau :: Je dunkler die Lackfarbe, desto wärmer wird es in der Hundehütte.	
+771	10	1	1	weiß :: Gemäß den erwähnten Experimenten werden helle Farben empfohlen, da sie Licht und äußere Hitze reflektieren, sie daran hindern, in den Zwinger einzudringen und die Innentemperatur zu erhöhen. dunkle Farben absorbieren Licht und externe Wärme, was zu einer deutlichen Temperaturerhöhung im Inneren des Zwingers führt.	
+772	10	1	2	weiß :: Weiß reflektiert den grössten Teil der eintreffenden Lichtenergie der vergichenen Farben und absobiert am Wenigsten. Daher wird weniger Wärmeenergie in das Innere der Hütte übertragen.	
+773	10	1	0	weiß :: 42  43  41  42 weiße Farbe ist kühler	
+774	10	0	1	weiß :: Bei einer dunkleren Lackfarbe wärmt sich das Hundehause mehr auf. Je dunkler je mehr. Siehe Tabelle des Experiments. Daher sind helle Farben zu bevorzugen.	
+775	10	0	0	weiß :: leichtev reflexion der lichteinwirkung	
+776	10	2	2	weiß :: Weiß ist hier die Farbe die während des Experimentes am kühlsten geblieben ist und ist somit die geeignete Farbe, damit der Hund auch an heißeren Tagen in der Hütte nach Schatten suchen kann.	
+777	10	2	2	weiß :: Aus dem Experiment folgt, dass bei weißer Farbe und Licht die Durchschnittstemperatur am geringsten ist. Daher wird weiß als Farbe für die Hundehütte bevorzugt, damit der Hund es nich zu heiß hat.	
+778	10	1	1	weiß :: Es ist bei sonnenschein definitiv kühler in der Hundehütte mit weißer Lackfarbe an der Innenseite der Hundehütte.	
+779	10	0	0	dunkelgrau :: Lackfarbe Dunkelgrau hat  innere Hundehütte  keine auswirkung es hält die Wärme gleich. Das Temperatur bleibt gleich.  lt. Tim und Jan s Experiment.	
+780	10	1	2	weiß :: Wie auch im Glas, könnte die Hundehütte eine erhöhte Temperatur bei dunkleren Farben aufweisen. Durch die Sonneneinstrahlung wird die Wärme gespeichert und ans Innere weitergeleitet. Eine Hellere Farbe reflektiert die Farbe und die Hütte ist deutlich kühler.	
+781	10	0	1	weiß :: Farbe hat Auswirkung auf die Innentemperatur, je dunkler der Farbton desto heißer der Innenraum	
+782	10	1	0	weiß :: Weiß absorbiert mehr Licht. Dadurch wird die Hütte nicht so warm.	
+783	10	0	1	weiß :: Je dunkler die Farbe der Hundehütte desto wärmer wird es in ihr. Daher kommt nur weiß in Frage.	
+784	10	0	1	weiß :: Die Temperatur ist bei Sonneneinfall auf die Hütte unterschiedlich je nachdem welche Farbe man verwendet und wie viel Licht diese absorbiert.	
+785	10	1	1	schwarz :: Die schwarze Farbe behält mehr Wärme	
+786	10	0	0	dunkelgrau :: man wählt dunkelgrau, weil sich hier die temperatur gar nicht ändert. sie bleibt konstant und es gibt keine gefahr für den hund.	
+787	10	2	2	weiß :: Die Lackfarbe wirkt sich auf die Innere Temperatur der Hundehütte aus. Nach Tim und Jan's Experiment ist zu beachten, dass je dunkler die Lackfarbe desto höher die Temperatur des Innerns der Hundehütte ist.  Die optimale Farbe wäre somit weiß, da diese die geringste Temperatur im Inneren ergibt.	
+788	10	1	1	weiß :: durch die weiße farbe wirdt weniger energie absorbiert. die meiste energie wirdt zurückgestoßen. deswegen ist es innen in der Hundehütte weniger warm, als wenn schwarzer farbe benutzt wird	
+789	10	1	1	hellgrau :: Mit der Farbe Hellgrau könnte die Temperatur nicht so hoch sein, wie mit der Farbe Schwarz.	
+790	10	1	1	weiß :: Je heller die Lackfarbe, desto geringer die Temperatur im Innern der Hundehütte.	
+791	10	2	1	weiß :: Gemäß den erwähnten Experimenten werden helle Farben empfohlen, da sie Licht und äußere Hitze reflektieren, sie daran hindern, in den Zwinger einzudringen und die Innentemperatur zu erhöhen. dunkle Farben absorbieren Licht und externe Wärme, was zu einer deutlichen Temperaturerhöhung im Inneren des Zwingers führt.	
+792	10	1	1	weiß :: Im Experiment kann man beobachten, dass je dunkler die gewählte Farbe ist eine höhere Erwärmung des Einmachglases auszumachen ist. Daher würde ich die Hundehütte weiss lackieren	
+793	10	1	2	weiß :: Ich würde die hellere Farbe wählen, damit sie nicht so heiß wird, da im Experiment gesagt wird, dass die dunklen Farben mehr Energie absorbieren..	
+794	10	2	1	weiß :: Gemäß den erwähnten Experimenten werden helle Farben empfohlen, da sie Licht und äußere Hitze reflektieren, sie daran hindern, in den Zwinger einzudringen und die Innentemperatur zu erhöhen. dunkle Farben absorbieren Licht und externe Wärme, was zu einer deutlichen Temperaturerhöhung im Inneren des Zwingers führt.   Der empfohlene Zwinger ist also der Weiße	
+795	10	0	1	weiß :: Die Lackfarbe könnte wie im Experiment unter einfluss der Sonnenwärme sich bei gewissen Farben zu stark erwehrmen.	
+796	10	0	1	schwarz :: Die hellere Farbe machte es im Glas kühler.	
+797	10	1	1	weiß :: je höher der weißanteil desto kuhler	
+798	10	0	0	weiß :: Dunkle Farben ziehen Wärme und weiße Farbe reflektiert das Licht, deshalb die Ergebnisse.	
+799	10	0	0	dunkelgrau :: da die Hundehütte offen ist, ist die Farbe für die Temperatur nicht entscheidend. Der Hund soll es warm haben. Ein dunkles Dach ist pflegeleichter.	
+800	10	2	2	weiß :: Je nachdem welche man wählt mal wärmer mal kälter (theoretisch) Nach den Ergebnissen wirkt sich schwarz extrem warm aus und desto heller die Farbe wird desto ""kühler""	
+801	10	1	2	weiß :: Ich würde die hellere Farbe wählen, damit sie nicht so heiß wird, da im Experiment gesagt wird, dass die dunklen Farben mehr Energie absorbieren	
+802	10	2	2	weiß :: Die Lackfarbe wirkt sich auf die Temperatur der Hundehütte aus. Benutzt man schwarzen Lack, steigt die Temperatur schneller und ist am Ende auch höher. Wenn man weißen Lack benutzt, bleibt es in der Hundehütte etwas kühler. Im Experiment waren es laut Durchschnitt 11 Grad Unterschied zwischen weiß und schwarz, deswegen wäre ein weißer Lack für einen Hund angenehmer.	
+803	10	1	1	weiß :: Je heller die Farbe der Hütte, desto mehr Licht wird reflektiert und somit heizt sich die Hütte weniger auf.	
+804	10	1	1	weiß :: Bei starker Sonenneinstrahlung würde sich die  Hundehütte mit einem weißen Dach weniger stark aufheizen als mit einem Schwarzen, dunkelgrauen , hellgrauen Dach	
+805	10	2	2	hellgrau :: Die Lackfarbe könnte die Innentemperatur der Hundehütte beeinflussen, denn das Experiment hat gezeigt: Je dunkler die Farbe, desto wärmer ist es in der Hundehütte.  Im Sommer scheint daher weiß besser zu sein, da es ohnehin warm ist und eine dunkle Lackfarbe für unerträgliche Temperaturen sorgt, während im Winter, wo es kalt ist, eine dunklere Lackfarbe zu einer angenehm warmen Temperatur beiträgt . Deshalb scheint mir hellgrau oder dunkelgrau ein guter Kompromiss zu sein.	
+806	10	1	2	weiß :: Dunklere Farbe speichert mehr Wärme, absorbiert, heizt weiter auf.  Die hellste Farbe (weiß) ist am sinnvollsten, da die Temperatur am niedrigsten / nächsten der Ursprungstemperatur ist.	
+807	10	2	0	weiß :: Es ist zu heiß für einen Hund in dieser Hundehütte. Temperaturen über 40 °C sind zu heiß für einen Hund, die Lackfarben sind nicht geeignet. Selbst die hellste Farbe Weiß ist zu heiß und alle anderen Farben sind sogar noch heißer.	
+808	10	0	0	weiß :: Genauso wie die normale Farbe: Dunkel erwärmt mehr, weiß weniger!	
+809	10	1	1	weiß :: Umso dunkler die Farbe, desto wärmer wird es im Inneren. Empfehlenswert wäre weiße Farbe, damit dem Hund nicht zu warm wird.	
+810	10	0	1	weiß :: Helle Farben werden vorgeschlagen, da sie Licht und externe Wärme reflektieren.	
+811	10	1	1	weiß :: Gemäß den erwähnten Experimenten werden helle Farben empfohlen, da sie Licht und äußere Hitze reflektieren, sie daran hindern, in den Zwinger einzudringen und die Innentemperatur zu erhöhen. dunkle Farben absorbieren Licht und externe Wärme, was zu einer deutlichen Temperaturerhöhung im Inneren des Zwingers führt.	
+812	10	1	1	weiß :: das innere der Hundehütte wird dadurch nicht so stark aufgeheizt	
+813	10	2	2	weiß :: Analog zum Experiment ist es wahrscheinlich, dass eine weiße Lackfarbe weniger Energie absorbiert als die anderen zur Auswahl stehenden Farben, und somit der Lufttemperaturanstieg durch Bestrahlung geringer ausfällt. Statt der künstlichen Beleuchtung durch eine Lampe im Experiment ist die Hundehütte in der Realität der Sonne ausgesetzt, die jedoch ähnliche Ergebnisse erwarten lässt. Im Experiment ist zu erkennen, dass der Lufttemperaturanstieg bei weißer Deckelfarbe gegenüber den anderen getesteten Farben am geringsten ist (ca. 12°C geringer als bei schwarzer Deckelfarbe nach 10min).	
+814	10	0	0	hellgrau :: Schwarze Farbe absorbiert das Licht.	
+815	10	0	1	weiß :: Je dunkler die Farbe, um so höher die Temperatur in der Hütte, umso schlechter für den Hund (zumindest im Sommer).	
+816	10	2	2	weiß :: Ich würde die hellere Farbe wählen, damit sie nicht so heiß wird, da im Experiment gesagt wird, dass die dunklen Farben mehr Energie absorbieren	
+817	10	1	1	weiß :: Je heller die Farbe desto kühler bleibt die Hütte bzw. heizt sich weniger auf.	
+818	10	0	0	weiß :: Aus meiner Sicht würde das die Farbe des Zwingers kaum beeinflussen.	
+819	10	1	1	weiß :: Die Farbe Schwarz absorbiert das Licht und die Wärme der Umgebung und überträgt sie an die im Zwinger eingeschlossene Luft, für die sie helle Farben vereinbaren, die das Licht und die Wärme reflektieren, so dass der Hund einen besseren Komfort hat.	
+820	10	2	2	weiß :: In dem Experiment von Tim und Jan wird beobachtet, dass je dunkler die Oberfläche ist, desto höher ist die Temperatur im Inneren des Behälters. Das ist weil die dunklen Farben werden von der Oberfläche absorbiert und die Wärme wird durch Konvektion an die Luft in der Hundehütte weitergeleitet und erwärmt. Hellere Farben, wie Weiß, reflektieren Licht und Wärme, die Oberfläche bleibt kühler, ebenso wie das Innere des Zwingers.	
+821	10	1	1	weiß :: Die weiße Farbe auf der Abdeckung würde mehr Wärme reflektieren, so dass der Innenraum viel kühler bleiben würde.	
+822	10	0	0	hellgrau :: es beeinflusst nichts	
+823	10	1	1	weiß :: Je nach farbwahl wird durch die sonneneinstrahlung die Hundehütte unterschiedlich stark aufgeheizt. Eine schwarze Hütte hat durch die Adsorbtion, wie oben beschrieben, eine höhere Temparatur zur folge als die Weiße. Am besten eh unter einen Baum bauen.	
+824	10	1	1	weiß :: Je dunkler die Farbe ist, desto mehr Wärme absorbiert sie und gibt sie in die Hundehütte ab. Daher wäre eine weiße Hundehütte kühler als eine schwarze. Im Übrigen begegnet einem dies auch bei den Häusern im Mittelmeer- dort wird vorwiegend hell gestrichen oder gar weiß von außen gekalkt (siehe griechische Inseln und Festland), während in unseren Breitengraden meist mit grauem oder roten Steinen Häuser gebaut werden.	
+825	10	0	0	schwarz :: schwarz absorbiert Energie	
+826	10	1	1	weiß :: Durch eine hellere Farbe erhitzt sich die Hütte weniger stark in der Sonne, wodurch es im Sommer innen angenehmer bleibt. Dies ist durch die Ergebnisse im Experiment bestätigt.	
+827	10	1	1	weiß :: Die Helligkeit der Farbe wirkt sich darauf aus, wie viel Licht reflektiert wird, und dementsprechend auf die Temperatur. Je heller die Farbe, desto mehr Licht wird reflektiert und desto weniger heizt sich die Temperatur auf.	
+828	10	2	2	weiß :: Im Sommer heizt sich die Hundehütte nicht so auf wie bei schwarzer Lackfarbe.  Weiß hat im Experiment die niedrigsten Temperaturwerte.	
+829	10	1	1	weiß :: Ich würde weiß nehmen, da es am wenigsten Hitze eindringen lässt als die Dunkleren Farben.	
+830	10	1	2	weiß :: Ist die Hundehütte weiß lackiert, heizt sie sich unter Sonnenstrahlung nicht so stark auf wie wenn sie dunkler gestrichen wäre. Allerdings wird der Temperaturanstieg in der Hundehütte nicht so extrem sein, wie im Marmeladenglas, da die Hütte vorne offen ist und so Luft zirkulieren kann.	
+831	10	1	1	weiß :: Je dunkler der Lack, desto schneller und weiter heizt sich die Luft im Inneren bei Sonneneinstrahlung auf. Da zu hohe Temperaturen ungesund für den Hund sind, sollte ein möglichst heller Lack verwendet werden.	
+832	10	1	1	weiß :: Je dunkler die Lackfarbe, desto mehr Wärmestrahlung wird absorbiert. Demzufolge sollte man je nach Wunsch des Hundes die Farbe aussuchen. Wenn etwas mehr Temperatur gewünscht ist: die Farbe dunkler auswählen, ansonsten finde ich weiß ganz okay.	
+833	10	0	1	weiß :: Je dunkler die Farbe ist desto heißer wird es im inneren der Hundehütte sein.	
+834	10	0	1	hellgrau :: Je nach Anstrich der Hütte könnten im inneren starke Temperaturschwankungen zu verschiedenen Tageszeiten auftreten. So wäre z.B. eine schwarz lackierte Hundehütte im Sommer für das Tier wohl unerträglich, im Winter jedoch angenehmer.	
+835	10	0	1	weiß :: Weiß wirkt sich schwach auf die Temperatur aus, deswegen wäre das die beste Entscheidung. Dem Hund soll es im Sommer nicht all zu warm sein.	
+836	10	1	1	weiß :: ist am kühlsten in der hütte dann für den hund	
+837	10	1	2	weiß :: Wie gesagt und gezeigt wird, dass dunkle Farben mehr Energie absorbieren, was sich in einer Temperaturerhöhung niederschlägt, wäre es ideal, beispielsweise Farben so hell wie weiß zu platzieren.	
+838	10	0	1	weiß :: Je nach äußerer Farbe der Hundehütte können höhere oder niedrigere Temperaturen bei starker Sonneneinstrahlung im Inneren entstehen.	
+839	10	0	1	weiß :: Das Experiment ist nicht ganz auf die Hundehütte übertragbar, höchstens im Hochsommer, wenn die Hütte mehrere Stunden durch die Sonne angestrahlt wird. Dann dürfte die weiße Farbe die beste Wahl sein, da der Hund sonst gegrillt wird.	
+840	10	0	0	weiß :: keine Ahnung	
+841	10	0	1	weiß :: Durch dunkle Farben wird es wärmer in der Hütte, da dunkle Farben höhere Temperaturen verursachen (ziehen Wärme an / speichern sie)	
+842	10	0	1	schwarz :: Die Farbe hat signifikanten Einfluss auf die Temperatur, die spezifischen Durchgänge statt dessen jedoch nicht.	
+843	10	2	2	weiß :: Je dunkler die Lackfarbe, desto höher die Temperatur in der Hundehütte. Das spiegelt sich auch in Tim und Jans Experiment wider, Die Temperaturen in dem Einmachglas sind bei einem schwarzen Deckel um ca. 10 °C höher als bei einem weißen.	
+844	10	0	1	weiß :: Desto dunkler die Farbe desto heißer wird es in der Hütte in der selben Zeit.	
+845	10	2	2	weiß :: Eine Hundehütte ist ständig der Sonne ausgesetzt. Dadurch erwärmt sich das Innere. Um zuviel Hitze zu vermeiden, sollte die Hundehütte von Außen mit einer Farbe angestrichen werden, die Hitze wenig absorbiert. Aus dem Experiment geht hervor, dass von den getesteten Anstrichen weiße Farbe am wenigsten Hitze absorbiert. Somit ist weiße Farbe am besten für den Anstrich der Hundehütte geeignet.	
+846	10	1	1	weiß :: Die Wahrnehmung von Farben entsteht durch die Reflexion/Absorbtion bestimmter Anteile des sichbaren Lichts, wobei Schwarz verhältnismäßig geringe Reflexion und Weiß verhältnismäßig hohe Reflexion bedeutet. Die Absorbtion des Lichts wirkt sich auch auf die Temperatur aus und so müssten schwarze Objekte in der Sonne schneller aufheizen als weiße. Das Experiment von Tim und Jan stützt diese These.	
+847	10	1	2	weiß :: Es lässt erkennen, dass dunklere Farben viel schneller zu einer Erhitzung führen (wie im obigen Experiment ersichtlich). Vor allem bei direkter Sonneneinstrahlung müssten Farben wie Schwarz sehr schnell warm werden. Im Sommer ist demnach eine Hütte aus weiß sehr empfehlenswert. Im Winter jedoch, kann die Farbe schwarz vermutlich länger wärme speichern, weshalb im Winter eventuell eine dunklere Hütte empfehlenswerter wäre.	
+848	10	2	2	hellgrau :: Je dunkler die Farbe des Anstrichs, desto stärker wird die Temperatur in der Hütte ansteigen. Deshalb  nicht schwarz und nicht dunkelgrau, denn im Sommer würden die Temperaturen in der Hütte für den Hund gefährliche,gesundheitsschädliche Höhen erreichen. Weiß führt bei niedrigen Temperaturen, insbes. im Winter, zu zu wenig Aufwärmung im Inneren der Hütte. Somit ist Hellgrau die beste Wahl, die leichten Meßabweichungen D1, D2, D3 sind nicht erheblich. Zwar ist Dunkelgrau die Farbe, die als einzige stabile Messwerte liefert, zuverlässig aborbiert, ich halte aber diese Farbe ob der ziemlich starken  Absorption von Sonnenwärme und deren Abgabe ins Hütteninnere wie Schwarz für den Hund für gesundheitlich  riskant, wenn hohe Außentemperaturen herrschen.	
+849	10	2	1	weiß :: Je dunkler die Farbe, desto wärmer das Innere der Hundehütte (siehe Experiment). Daher weiß, damit der Hund es nicht zu warm hat und darunter leiden muss.	
+850	10	1	0	schwarz :: Als Hypothese gilt, dass je dunkler die Farbe des Deckels, desto höher die Temperatur im Einmachglas, weil dunkle Farben mehr Energie absorbieren.	
+851	10	1	1	weiß :: Es wird wärmer je dunkler die Farbe ist. Weiß ist am kältesten.	
+852	10	0	1	weiß :: Ja dunkler der Lack desto wärmer wird es in der Hundehütte.	
+853	10	2	1	weiß :: Wie das Experiment zeigt, erhitzt sich die Hundehütte im inneren, je dunkler die Farbe des Daches ist, daher ist die beste Farbe weiß, damit sich die Hütte nicht zu stark erhitzt	
+854	10	0	0	weiß :: Berechne und erfasse die durchschnittliche Lufttemperatur für jede Verschluss-Farbe.	
+855	10	1	1	weiß :: Die Helle Farbe wird mehr Sonnenlicht abhalten und so wird die Hundehütte nicht so warm als wenn eine dunklere Farbe verwendet würde.	
+856	10	1	1	weiß :: Ein  dunkler bis schwarzer Anstrich könnte die Temperatur in der Hundehütte bei Sonneneinstrahlung ansteigen lassen. Ein heller Anstrich wird eine relativ kontante Temperatur zu Folge haben.	
+857	10	1	1	weiß :: Die Temperatur in der Hundehütte dürfte geringfügig ansteigen - in einer weißen Hundehütte jedoch weniger als in einer grauen oder gar schwarzen Hundehütte	
+858	10	0	1	hellgrau :: weis, in sommer ist es nicht so heiß, zwar in winter sehr kalt, mann konnte vielleicht hellgrau nehmen	
+859	10	0	0	dunkelgrau :: sie wir nicht zu hell	
+860	10	0	1	weiß :: Die Lackfarbe wirkt sich aus, indem es je dunkler die Farbe wird auch wärmer in der Hundehütte wird.	
+861	10	1	1	schwarz :: Es wird im inneren der Hundehütte bei Sonneneinstrahlung warm.	
+862	10	1	1	weiß :: Die Weiße Farbe wird vermutlich die Hundehütte am wenigsten aufheizen, als schwarz. Grundsätzlich kann man sagen je dunkler die Farbe, desto wärmer wird sie.	
+863	10	0	0	weiß :: ordentlich	
+864	10	0	1	hellgrau :: Schwarz wäre zu heiß im Sommer, weiß liefert nicht genug Energie imWinter, daher die goldene Mitte hellgrau	
+865	10	1	1	weiß :: Dadurch das man hellere Farben wählt, kann sich die Hundehütte im Sommer nicht so sehr aufheizen, dadurch ist der Hund keiner großer Hitze ausgesetzt wenn die Sonne im Sommer voll runterknallt. Allerdings hat man im Winter das Problem, dass es in der Hundehütte kälter ist, da die weiße Farbe das Sonnenlicht weitestgehend abstrahlt.	
+866	10	0	1	weiß :: die dunklen farben speichern die ernergie am meisten und sind deshalb ungeeignet als farbanstrich der hundehütte	
+867	10	2	2	weiß :: Das Experiment ergab, dass mit weißer Farbe die Temperatur am wenigsten anstieg. Zu erwarten ist, dass eine weiß gestrichene Hütte im Sommer für den Hund am kühlsten ist.	
+868	10	0	0	hellgrau :: Hallo,  leider ist diese Aufgabe für mich nicht machbar,ich war schon immer eine niete in Chemie.	
+869	10	2	2	weiß :: Je heller der Lack, desto weniger heizt sich die Hütte im Inneren auf. Dies kann aus den Ergebnissen der Versuchsreihe gefolgert werden, bei dem sich das Innere des Einmachglases bei gleicher Bestrahlung in Abhängigkeit der Lackfarbe erwärmt (weißer Lack: Geringster Temperaturanstieg).	
+870	10	0	1	weiß :: Je dunkler die Farbe desto heißer wird die Hütte	
+871	10	0	0	hellgrau :: kann das Innere beeinflussen, wenn es nicht die richtige Farbe ist	
+872	10	1	1	weiß :: mit der farbe würde die innentemperatur bei sonnenschein nicht so steigen wie bei den anderen drei farben. ich würde aber die hundehütte deshalb im schatten stellen.	
+873	10	1	1	schwarz :: Die Anforderungen an die Hütte sind nicht klar. Wird der Hund auch nachts da verbringen? Wenn ja wäre eine Schwarze Farbe von Vorteil um die Wärme länger speichern zu können, da es nachts kälter ist (und im Winter)  Wenn der Hund nur Tagsüber und im Sommer in seiner Hütte ist würde man definitiv die Weiße Farbe nehmen um die Hütte kühl zu halten.	
+874	10	1	1	weiß :: weiss bleibt am kühlsten , schwarz ist nicht zu empfehlen , wird zu heiss . je heller desto kühler	
+875	10	1	2	weiß :: Je dunkler der Lack ist, desto wärmer wird es in der Hundehütte, da dunklere Farbe mehr Licht absorbiert, wird diese Energie in Wärme umgewandelt. Da es bei weißem Lack den geringsten Anstieg der Temperatur gab, eignet sich diese Farbe am besten für die Hundehütte.	
+876	10	2	2	weiß :: Durch Tim und Jan's Experiment hat sich ergeben, dass die Farbe des Lackes einen großen Einfluss auf die Innentemperatur hat. Die geringste Erwärmung fand bei der Farbe weiß statt und diese sollte daher bei der Hundehütte angewandt werden.  Dadurch wird sich diese zwar trotzdem innen erwärmen, aber nicht so stark wie bei anderen Farben.	
+877	10	1	1	dunkelgrau :: je dunkler die farbe, desto wärmer wird das innere bei lichteinstrahlung. ich würde für den hund eine dunkle farbe nehmen, damit er nicht friert, aber nicht schwarz, damit es nicht zu heiß wird	
+878	10	1	1	weiß :: mit weisser farbe steigt die temperatur nicht so hoch wie bei den anderen farben. die temperatur wird aber bei sonnenstrahlung in der hütte steigen. deshalb sollte man die hütte im schatten aufstellen	
+879	10	0	0	weiß :: Je dunkler die Farbe der Hundehütte desto mehr wird die Körperwärme des Hundes die Temperatur ansteigen lassen.	
+880	10	1	1	weiß :: Eine dunkle Farbe sorgt dafür, dass die Temperatur im Inneren der Hundehütte für den Hund zu einer unerträglichen Temperatur für das Tier erhitzt. Durch eine helle Lackfarbe kann man die Temperatur für den Hund erträglicher machen.	
+881	10	2	2	weiß :: Durch die Farbe der Hundehütte wird unterschiedlich viel Energie der Sonnen einstrahlung absorbiert. Je heller die Farbe ist, desto mehr Licht wird reflektiert und desto weniger Energie wird absorbiert. Daher sollte die Hundehütte möglichst hell sein, um eine angenehmere Innentemperatur für den Hund zu bewirken. Die Ergebnisse auch Tim und Jan's Experiment belegen dies, da das Einmachglas mit dem weißen Deckel die geringste Innentemperatur aufwies.	
+882	10	0	1	schwarz :: Das schwarz lackierte Dach absorbiert Sonnenenergie und gibt diese als Wärme an das Innere weiter.	
+883	10	1	1	Weiß :: Mit allen anderen Farben könnte die Temperatur in der Hundehütte zu stark ansteigen und die Gesundheit des Tieres gefährden.	
+884	10	0	1	Weiß :: Je dunkler die Lackfarbe desto wärmer ist es in der Hundehütte.	
+885	10	1	1	Weiß :: Je nach gewählter Farbe wird es im inneren der Hundehütte bei Sonneneinstrahlung schneller oder langsamer sich erhitzen. Bei schwarz wird es innerhalb kürzester Zeit sehr heiß werden. Bei den Graustufen zeigt sich diese Entwicklung etwas weniger stark. Bei weißem Anstrich wird es in der Hütte am kühlsten bleiben.	
+886	10	2	2	Weiß :: Das Experiment hat gezeigt, dass ein Gefäß mit weißer Oberfläche durch Bestrahlung weniger stark erhitzt wird als mit andersfarbiger Oberfläche. Daher wird sich die Hütte mit weißer Lackfarbe vermutlich durch Sonneneinstrahlung weniger stark aufheizen. 	
+887	10	0	1	Weiß :: Umso dunkler umso wärmer, somit wäre es für den Hund im Sommer nicht optimal in der Hütte. Vorallem wenn die Sonne auf der Hütte steht.	
+888	10	2	2	Weiß :: Das Experiment hat die Hypothese der Jungen bestätigt. Je heller die Farbe des Deckels, desto niedriger die Temperatur im Glas. Demnach wird auch die auch weiße Farbe der Hundehütte dazu beitragen, dass diese sich nicht so stark aufheitzt.	
+889	10	1	1	Weiß :: Vermutlich erhitzt sich die Hundehütte unter Sonneneinstrahlung bei dunklen Farben mehr als bei hellen, entsprechend sollte ein heller Anstrich gewählt werden, wenn dies nicht erwünscht ist. Es spielen allerdings noch deutlich mehr Faktoren als im Laborversuch eine Rolle.	
+890	10	1	1	Weiß :: Je dunkeler die Fabe, desto höher wird die Temperatur bei Sonneneinstrahlung. Daher weiß wählen, sonst wird es dem Hund darin zu warm. 	
+891	10	1	2	Weiß :: Das Experiment hat gezeigt, dass die Farbe eines Objektes die Temperatur im Innern eines Objektes beeinflussen kann, sich also dunklere Farben schneller unter Lichteinstrahlung aufheizen. Eine dunkle Lackfarbe könnte also die Temperatur innerhalb der Hütte erhöhen.	
+892	10	0	0	Dunkelgrau :: Wie das Experiment zeigt bleibt die Temperatur mit dieser Farbe immer gleich , bei den anderen Farben ist eine Schwankung zu sehen 	
+893	10	1	0	Weiß :: Je heller die Lackfarbe, desto wärmer wird die Lufttemeratur in der Hundehütte (unter der Voraussetzung, dass die Ergebnisse von Jan und Tim auf die Hundehütte anwendbar sind, da unterschiedlicher Aufbau)	
+894	10	0	1	Weiß :: Im Sommer erwärmt eine schwarze Farbe die Hundehütte zu sehr. Die weiße Farbe reflektiert die Sonne mehr und spendet dem Hund im Sommer Schatten 	
+895	10	1	1	Weiß :: Ich würde Weiß nehmen, da sich die Hütte nicht so aufheizt. 	
+896	10	1	0	Weiß :: Die Farbe weiß reflektiert das Licht und dadurch wird weniger Lichtenerigie in Wärme umgewandelt 	
+897	10	1	1	Weiß :: Weiß zieht das Sonnenlicht nicht so an, dadurch steigt die Temperatur in der Hundehütte nicht so schnell an. 	
+898	10	1	2	Weiß :: Wie das Experiment zeigt, hat die Farbe eines Einmachglasdeckels einen Einfluss auf die Erhitzung der Luft im inneren des Einmachglases bei direkter Bestrahlung mit einer Lampe: Je dunkler der Deckel, desto stärker erwärmt sich die Luft im Inneren. Die Tendenz dieser Beobachtung kann vermutlich auf eine Hundehütte, das Dach der Hundehütte und direkte Sonneneinstrahlung übertragen werden. Demnach würde sich der Innenraum einer Hundehütte mit schwarzem Dach deutlich stärker erhitzen als der einer Hütte mit weißem Dach, wenn die Sonne darauf scheint.	
+899	10	1	0	Weiß :: Hypothese bestätigt: Je dunkler die Farbe, desto eher wird die Wärme gespeichert. Wobei Glas nicht gleich Holz ist. Da Zellen ab 40° denaturieren, würde ich keinen Hot Dog riskieren.	
+900	10	1	1	Weiß :: Je dunkler die Lackfarbe der Hundehütte, desto heißer wird es innen wenn die Sonne scheint. Angenommen, dass wir unseren Hund im Sommer vor Überhitzung bewahren wollen, sollten wir die Hütte möglichst hell streichen. Wenn es allerdings darum geht, die Hütte möglichst warm zu halten (für winterliche Temperaturen), wäre es wohl besser, die Hütte schwarz zu streichen. Im Sommer müsste der Hund ja auch auch nicht unbedingt in der Hütte rumliegen, sondern sich im Schatten der Hütte draußen niederlegen.	
+901	10	1	1	Weiß :: Die Lackfarbe weiß würde die Hundehütte nicht zu sehr aufheizen. Somit könnte der Hund diese auch als Schattenplatz aufsuchen. 	
+902	10	0	1	Weiß :: Im sommer wäre ein schwarzes Dach zu heiß 	
+903	10	1	1	Hellgrau :: Je dunkler der Lack, desto wärmer die Hundehütte. Jetzt ist natürlich die Frage, wie warm es draußen ist und wie warmes der Hund gerne hätte. Vorsichtshalber nehmen wir mal eine Abstufung in der Mitte und keins der Extreme.	
